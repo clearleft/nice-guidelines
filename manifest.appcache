@@ -1,7 +1,7 @@
 CACHE MANIFEST
-# rev 1.7
+# rev 1.72
 CACHE:
-index.html
+index.php
 /guideline/01-01
 /guideline/01-02
 /guideline/16-01

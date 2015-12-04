@@ -7,7 +7,9 @@
 
 <?php
 if (isset($title) && $title) {
-	$title = strip_tags($title) . " – NICE Guidance on a Page";
+	if($title != "NICE") {
+		$title = strip_tags($title) . " – NICE Guidance on a Page";
+	}
 } else {
 	$title="NICE Guidance on a Page";
 }
