@@ -27,7 +27,7 @@ include($dr . "header.php");
 <nav>
 <ul class="categories">
 
-<li id="cat-1">
+<li id="cat-01">
 	<a href="#panel-01" class="cat-label">Breast <img src="/i/chevron-right.svg" alt="" /></a>
 	<div class="cat-panel" id="panel-01">
 	<a href="#cat-1" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
