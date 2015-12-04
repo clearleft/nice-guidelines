@@ -1,0 +1,57 @@
+# Early and Locally Invasive Breast Cancer
+
+## Diagnosis
+
+n/a
+
+## Investigation
+
+n/a
+
+## Management
+
+### Surgery
+
+* Treat patients with early invasive breast cancer, irrespective of age, with surgery and appropriate systemic therapy, rather than endocrine therapy alone, unless significant comorbidity precludes
+* DCIS: breast conserving surgery for DCIS a minimum of 2 mm radial margin of excision, do not perform SLNB routinely in this case
+* Pagets local: breast conserving surgery with removal of the nipple-areolar complex as an alternative to mastectomy
+* Axilla: sentinel lymph node biopsy (SLNB) / minimal surgery, vs lymph node clearance, to stage axilla if early invasive breast cancer and no evidence of lymph node involvement on USS
+* Positive SLNB (macro or micrometastases): further axillary treatment
+* Breast Reconstruction: discuss immediate breast reconstruction with all patients who are being
+* advised to have a mastectomy
+
+### Post- Operative Assessment
+
+* Assess oestrogen receptor (ER) status of all invasive breast cancers
+* Test human epidermal growth receptor 2 (HER2) status of all invasive breast cancers
+* Consider adjuvant therapy for all patients with early invasive breast cancer post surgery at MDT
+
+### Chemotherapy
+
+* Offer Chemotherapy agent Docetaxel to patients with lymph node-positive breast cancer as part of an adjuvant chemotherapy regimen
+* Early invasive ER positive breast cancer who are not low risk Initial adjuvant offer Aromatase inhibitor (Anastrozole or Letrozole) if post menopausal or previously treated with tamoxifen
+* Offer adjuvant ovarian ablation/suppression in addition to tamoxifen to premenopausal women with ER-positive early invasive breast cancer who decline chemotherapy
+
+### Biologics
+
+* Trastuzumab, at 3-week intervals for 1 year or until disease recurrence, as an adjuvant treatment to women with HER2-positive early invasive breast cancer following surgery
+
+### Bone Loss
+
+* Early invasive breast cancer should have baseline dual energy X-ray absorptiometry (DEXA) scan if  starting adjuvant aromatase inhibitor treatment or have treatment-induced menopause
+
+### Radiotherapy
+
+* Early invasive breast cancer who have had breast conserving surgery with clear margins should have breast radiotherapy
+* Offer adjuvant radiotherapy to patients with DCIS following adequate breast conserving surgery
+* Offer adjuvant chest wall radiotherapy if mastectomy and are at a high risk of local recurrence
+* Do not offer radiotherapy following mastectomy to patients with early invasive breast cancer who are at low risk of local recurrence (for example, most patients who are lymph node-negative
+
+### Complications
+
+* Lymphodema: inform and give advice regarding avoidance of arm trauma
+* Arm Mobility: physio and functional exercises
+* Discontinue HRT if diagnosed with breast cancer
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg80">CG80 Early and locally advanced breast cancer: diagnosis and treatment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

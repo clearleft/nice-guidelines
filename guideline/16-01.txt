@@ -1,0 +1,69 @@
+# Lower Urinary Tract Symptoms
+
+## Diagnosis
+
+* If bothersome LUTS complete urinary frequency and volume chart
+* Offer information regarding PSA if:
+  * LUTS suggestive of outflow obstruction due to BPE
+  * Abnormal PR
+  * Concerned about prostate cancer
+* Specialist review: LUTS complicated by recurrent UTI, retention, renal impairment
+* Storage LUTS: urgency, frequency, incontinence
+* Voidage LUTS: hesitancy, straining, weak stream, terminal dribbling
+* Post micturition: post mic dribble, feeling of incomplete emptying
+
+## Investigation
+
+### At initial assessment
+
+* Symptoms not bothersome, give advice re fluid intake and information, and review should symptoms change. Do not routinely offer cystoscopy or imaging of upper tract or flow rate or residual volume testing
+* Only offer serum creatinine if suspect renal impairment
+
+### At specialist assessment
+
+* Measure post void residual and flow rate
+* Cystoscopy if: recurrent infection; sterile pyuria (increased WCC culture negative); haematuria, pain
+* Multichannel cystometry if considering surgery
+
+## Management
+
+* Acute retention: immediately catheterise, alpha blocker before removal then per Voidage LUTS
+
+### Conservative
+
+* Post micturition dribble: urethral milking
+* Storage LUTS (incontinence): offer containment products (not penile clamps)
+* Storage LUTS (overactive bladder): bladder training, fluid intake advice, containment product, but if proven outlet obstruction: surgery more effective than bladder training
+* Stress urinary incontinence caused by prostatectomy: supervised pelvic floor exercises
+* Storage LUTS: offer external collection initially rather than indwelling catheter
+* Voidage LUTS: offer intermittent catheterisation initially rather than indwelling catheter
+* Voidage LUTS: offer long term indwelling catheter if medical management failed, and surgery not option, and unable to manage self-catheterisation
+
+### Pharmacological Therapy
+
+When conservative failed and bothersome
+
+* LUTS moderate to severe: Alpha blocker, relax SM around prostate for (Alfuzosin, Doxazosin, Tamsulosin or Terazosin)
+* Over Active Bladder: Anti-Cholinergic, or combination w/ Alpha Blocker if storage symptoms persist
+* LUTS and prostate * 30 g or a PSA * 1.4 ng/ml: 5-alpha reductase inhibitor (Finasteride), and in combination with alpha blocker if LUTS severe
+
+* Discuss active surveillance (reassurance lifestyle advice w/o immediate treatment and with regular follow-up) or active intervention (conservative management, drug treatment or surgery) for:
+  * Mild or moderate bothersome LUTS or whose LUTS fail to respond
+
+### Surgery for Voiding Problems
+
+* Symptoms severe, conservative or pharmacological treatment failed:
+  * LUTS secondary to BPE: monopolar or bipolar transurethral resection of prostate (TURP)
+  * Monopolar transurethral vaporisation of prostate (TUVP) as part of RCT cf TURP
+  * Holmium laser enucleation of the prostate (HoLEP)
+  * Only offer open prostatectomy as an alternative to TURP if prostates estimated * than 80 g
+
+### Surgery for Storage Problems
+
+* Symptoms severe, conservative or pharmacological treatment failed:
+  * Cystoplasty to manage detrusor over-activity
+  * Consider offering bladder wall injection with botulinum toxin if detrusor overactivity
+  * Consider offering implanted sacral nerve stimulation to manage detrusor overactivity
+  * Consider offering urinary diversion to manage intractable urinary tract symptoms only
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg97">CG97 Lower urinary tract symptoms in men: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
