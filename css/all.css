@@ -120,7 +120,7 @@ main a:hover, main a:focus, main a:active {
 }
 
 main h1 {
-	font-family: 'Open Sansp', 'Avenir', 'Droid Sans', "Segoe UI", Arial, sans-serif;
+	font-family: 'Open Sans', 'Avenir', 'Droid Sans', "Segoe UI", Arial, sans-serif;
 	font-size: 28px;
 	font-size: 1.75rem;
 	letter-spacing: -0.035714286em;
