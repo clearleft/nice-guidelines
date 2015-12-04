@@ -1,15 +1,39 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-light.woff') format('woff');
+    font-style: normal;
+    font-weight: 300;  
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-semibold.woff') format('woff');
+    font-style: normal;
+    font-weight: 600;  
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-regular.woff') format('woff');
+    font-style: normal;
+    font-weight: 500;  
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-italic.woff') format('woff');
+    font-style: italic;
+    font-weight: 500;
+}
+
 body {	
 	background: #fff;
 	color: #000;
-	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
-	line-height: 1.4;
+	font-family: 'Open Sans', 'Avenir Next', 'Droid Sans', "Segoe UI", Arial, sans-serif;
+	line-height: 1.375;
 	margin: 0;
 	padding: 0;
-	font-weight: 400;
-	-webkit-font-feature-settings: "ss01" 3;
-}
-
-.wrapper {
+	font-weight: 500;
+	-webkit-font-feature-settings: "ss03" 1; /* capital I with bars */
 	position: relative;
 }
 
@@ -52,31 +76,104 @@ header a:focus img, header a:active img, header a:hover img {
 	opacity:1;
 }
 
+.back {	
+	background: #e6e6e6;
+	font-size: 0.875rem;
+	line-height: 1;
+	text-transform: uppercase;
+	letter-spacing: .071428571em;
+	padding: 1em 0 1em 0.4375rem;
+	margin: 0;
+	font-weight: 400;
+	color: #000;	
+	display: block;
+}
+
+.back:hover, .back:focus, .back:active {
+	background: #c6c6c6;
+}
+
+.back img {
+	width: 1rem;
+	height: 1rem;
+	vertical-align: bottom;
+}
+
 /* @end */
+
+/* side gutter */
+main h1, main h2, main h3, p, ul, .cat-label, .cat-links a {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.prose p, .prose ul {
+	max-width: 40em;
+}
 
 main a {
 	text-decoration: none;
 }
 
+main a:hover, main a:focus, main a:active {
+	background: #e6e6e6;
+}
+
 main h1 {
+	font-family: 'Open Sansp', 'Avenir', 'Droid Sans', "Segoe UI", Arial, sans-serif;
+	font-size: 28px;
 	font-size: 1.75rem;
 	letter-spacing: -0.035714286em;
 	line-height: 1;
-	background: rgb(246,246,246);
+	background: #f6f6f6;
 	color: #000;
-	padding: 1em 2%;
+	padding-top: 1em;
+	padding-bottom: 1em;
 	margin: 0;
-	font-weight: 200;
+	font-weight: 300;
 }
 
-p {
-	padding: 0.7em 2%;
+main h2 {
+	font-size: 21px;
+	line-height: 1;	
+	font-weight: 600;
+	margin: 1.571428571em 0 0.523809524em 0;
+}
+
+main h3 {
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 0.0625em;
+	margin: 0.6875em 0;
+	font-weight: 600;
+}
+
+h1 + h2 {
+	margin-top: 1.047619048em;
+}
+
+ul + h3 {
+	margin-top: 2.0625em;
+}
+
+main ul {
+	margin: 0 0 0.6875em 0;
+}
+
+li {
+	margin: 0 0 0.6875em 1.375em;	
+}
+
+ul ul {
+	margin: 0.6875em 0 0 0;
+	padding-left:0;
 }
 
 nav ul {
 	list-style: none;
 	padding: 0;
 	margin: 0;
+	max-width: none;
 }
 
 nav li {
@@ -89,9 +186,10 @@ nav li {
 .cat-label {
 	cursor: pointer;
 	display: block;
-	padding:0.7em 2%;
+	padding-top:0.6875em;
+	padding-bottom: 0.6875em;
 	border-bottom: 1px solid #fff;
-	background: rgb(246,246,246);
+	background: #f6f6f6;
 	color:#000;
 }
 
@@ -109,11 +207,12 @@ nav li {
 	left: 100%;
 	width: 100%;
 	background: #fff;
+	display: none;
 }
 
 .cat-panel:target {
 	left: 0;
-	opacity:1;
+	display: block;
 }
 
 .cat-panel h1 {
@@ -127,10 +226,15 @@ nav li {
 .cat-links a {
 	border-top: 0;	
 	display: block;
-	padding:0.7em 2%;
-	border-bottom: 1px solid rgb(246,246,246);
+	padding-top:0.6875em;
+	padding-bottom: 0.6875em;
+	border-bottom: 1px solid #f6f6f6;
 	background: #fff;
 	color:#000;
+}
+
+.intro {
+	margin: 1.375em 0;
 }
 
 .byline {

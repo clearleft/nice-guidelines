@@ -1,20 +1,36 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-gb" manifest="manifest.appcache">
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/all.css" type="text/css" />
-<title>Acute Breast Cancer - NICE Guidance</title>
+<title>Acute Breast Cancer - NICE Guidance on a Page</title>
+<!--[if lt IE 9]>
+<script type="text/javascript">
+    document.createElement('main');
+    document.createElement('header');
+    document.createElement('section');
+    document.createElement('article');
+    document.createElement('aside');
+    document.createElement('nav');
+    document.createElement('footer');
+</script>
+-->
+
 </head>
-<body>
-<div class="wrapper">
-<nav>&larr; <a href="index.html">back</a></nav>
+<body id="top" class="guideline">
+
 <header>
-<h1>CG81 Advanced Breast Cancer</h1>
-<h2>NICE Guidance on a Page</h2>
+<h1>NICE One-Pagers</h1>
+<a href="index.html"><img src="i/home.svg" alt="Home" /></a>
 </header>
+
 <main>
 
+<nav><a href="index.html#panel-1" class="back"><img src="i/chevron-left.svg" alt="Back to"> Breast</a></nav>
+<h1>Acute Breast Cancer</h1>
+
+<div class="prose">
 <h2>Diagnosis</h2>
 
 <ul>
@@ -34,8 +50,9 @@
 
 <h2>Management</h2>
 
+<h3>Hormone Therapy</h3>
+
 <ul>
-<li>Hormone Therapy</li>
 <li>Offer endocrine therapy as first-line treatment for the majority of patients with ER-positive advanced breast cancer
 
 <ul>
@@ -45,7 +62,12 @@
 <li>Offer tamoxifen as first-line treatment to men with ER-positive advanced breast cancer</li>
 </ul>
 </li>
-<li>Chemotherapy</li>
+</ul>
+
+
+<h3>Chemotherapy</h3>
+
+<ul>
 <li>Chemotherapy first-line for patients with ER positive advanced breast cancer whose disease is imminently life-threatening or requires early relief of symptoms because of significant visceral organ involvement, and endocrine therapy following the completion of chemotherapy</li>
 <li>On disease progression, offer systemic sequential therapy to the majority of patients with advanced breast cancer who have decided to be treated with chemotherapy</li>
 <li>Consider using combination chemotherapy to treat patients with advanced breast cancer for whom a greater probability of response is important</li>
@@ -58,7 +80,12 @@
 </ul>
 </li>
 <li>Biologics: Trastuzumab for advanced breast cancer, discontinue treatment with trastuzumab at the time of disease progression outside the central nervous system. Do not discontinue trastuzumab if disease progression is within the central nervous system alone</li>
-<li>Managing Complications</li>
+</ul>
+
+
+<h3>Managing Complications</h3>
+
+<ul>
 <li>Lymphoedema: Exercise no evidence for impact to lymphoedema, but may improve QoL; Treat any underlying condition; Offer complex decongestive therapy (CDT) as the first stage of lymphoedema management; Multilayer lymphoedema bandaging (MLLB) for volume reduction, providing patients with lymphoedema with at least two suitable compression garments</li>
 <li>Fatigue: Assess, offer clear written information and access to exercise program</li>
 <li>Uncontrolled disease: MDT, wound care, palliative care</li>
@@ -68,9 +95,8 @@
 </ul>
 
 
-
-<p class="byline"><cite>Compiled by Dr DP Sheppard MBBS</cite></p>
-</main>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg81">CG81 Advanced breast cancer: diagnosis and treatment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
 </div>
+</main>
 </body>
 </html>
