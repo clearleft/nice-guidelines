@@ -28,8 +28,8 @@ include($dr . "header.php");
 <ul class="categories">
 
 <li id="cat-1">
-	<a href="#panel-1" class="cat-label">Breast <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-1">
+	<a href="#panel-01" class="cat-label">Breast <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-01">
 	<a href="#cat-1" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Breast</h1>
 	<ul class="cat-links">
@@ -38,73 +38,73 @@ include($dr . "header.php");
 	</ul>
 	</div>
 </li>
-<li id="cat-2">
-	<a href="#panel-2" class="cat-label">Cardiovascular <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-2">
-	<a href="#cat-2" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-02">
+	<a href="#panel-02" class="cat-label">Cardiovascular <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-02">
+	<a href="#cat-02" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Cardiovascular</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-3">
-	<a href="#panel-3" class="cat-label">Dermatology <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-3">
-	<a href="#cat-3" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-03">
+	<a href="#panel-03" class="cat-label">Dermatology <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-03">
+	<a href="#cat-03" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Dermatology</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-4">
-	<a href="#panel-4" class="cat-label">Emergency <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-4">
-	<a href="#cat-4" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-04">
+	<a href="#panel-04" class="cat-label">Emergency <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-04">
+	<a href="#cat-04" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Emergency</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-5">
-	<a href="#panel-5" class="cat-label">Endocrinology <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-5">
-	<a href="#cat-5" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-05">
+	<a href="#panel-05" class="cat-label">Endocrinology <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-05">
+	<a href="#cat-05" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Endocrinology</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-6">
-	<a href="#panel-6" class="cat-label">Gastroenterology <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-6">
-	<a href="#cat-6" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-06">
+	<a href="#panel-06" class="cat-label">Gastroenterology <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-06">
+	<a href="#cat-06" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Gastroenterology</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-7">
-	<a href="#panel-7" class="cat-label">Geriatrics <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-7">
-	<a href="#cat-7" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-07">
+	<a href="#panel-07" class="cat-label">Geriatrics <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-07">
+	<a href="#cat-07" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Geriatrics</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-8">
-	<a href="#panel-8" class="cat-label">Haematology <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-8">
-	<a href="#cat-8" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-08">
+	<a href="#panel-08" class="cat-label">Haematology <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-08">
+	<a href="#cat-08" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Haematology</h1>
 	<ul class="cat-links">
 	</ul>
 	</div>
 </li>
-<li id="cat-9">
-	<a href="#panel-9" class="cat-label">MSK <img src="/i/chevron-right.svg" alt="" /></a>
-	<div class="cat-panel" id="panel-9">
-	<a href="#cat-9" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
+<li id="cat-09">
+	<a href="#panel-09" class="cat-label">MSK <img src="/i/chevron-right.svg" alt="" /></a>
+	<div class="cat-panel" id="panel-09">
+	<a href="#cat-09" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>MSK</h1>
 	<ul class="cat-links">
 	</ul>
@@ -184,7 +184,7 @@ include($dr . "header.php");
 
 </main>
 <?php
-include($dr . "head.php");
+include($dr . "footer.php");
 ?>
 <script src="/js/addtohomescreen.js" async></script>
 
