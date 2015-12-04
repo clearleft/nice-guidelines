@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1.2
+# rev 1.5
 CACHE:
 index.html
 Breast-Acute-Breast-Cancer.html
@@ -14,6 +14,7 @@ fonts/opensans-regular.woff
 fonts/opensans-semibold.woff
 fonts/opensans-light.woff
 css/addtohomescreen.css
+js/global.js
 js/addtohomescreen.js
 NETWORK:
 *
