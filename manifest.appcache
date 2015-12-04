@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# rev 1.2
+CACHE:
+index.html
+Breast-Acute-Breast-Cancer.html
+Breast-Early-and-Locally-Invasive-Breast-Cancer.html
+Urology-Lower-Urinary-Tract-Symptoms.html
+css/all.css
+i/chevron-left.svg
+i/chevron-right.svg
+i/home.svg
+fonts/opensans-italic.woff
+fonts/opensans-regular.woff
+fonts/opensans-semibold.woff
+fonts/opensans-light.woff
+css/addtohomescreen.css
+js/addtohomescreen.js
+NETWORK:
+*
