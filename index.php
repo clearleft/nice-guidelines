@@ -180,8 +180,6 @@ include($dr . "header.php");
 </ul>
 </nav>
 
-<br/>
-
 </main>
 <?php
 include($dr . "footer.php");
