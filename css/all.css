@@ -205,12 +205,15 @@ nav li {
 }
 
 .cat-panel {
+	background: #fff;
+}
+
+.cat-panel:not(old) { /* hack to make <IE9 ignore this */
 	position: absolute;
 	top: 0;
 	bottom: 0;
 	left: 100%;
 	width: 100%;
-	background: #fff;
 	display: none;
 }
 
@@ -221,6 +224,14 @@ nav li {
 
 .cat-panel .back {
 	margin-top: 2.625rem;
+}
+
+.cat-panel h1, .back, .cat-label img { /* for <IE9 */
+	display:none;
+}
+
+.cat-panel:not(old) h1, .back:not(old), .cat-label:not(old) img { /* hack to make <IE9 ignore this */
+	display:block;
 }
 
 .cat-links {
@@ -279,7 +290,7 @@ footer p {
 
 @media only screen and (min-width: 45em) {
 	.cat-panel:target {
-		left: 33%;
+		left: 33.333%;
 		width: auto;
 		right: 0;
 	}
@@ -287,7 +298,7 @@ footer p {
 		position: relative;
 	}
 	.categories ul.catlist {
-		width: 33%;
+		width: 33.333%;
 	}
 	.cat-panel .back {
 		display: none;
@@ -296,6 +307,9 @@ footer p {
 		font-size: 21px;
 		background: #e6e6e6;
 		border-bottom: 1px solid #fff;
+	}
+	.cat-label {
+		padding-left: 9%;
 	}
 	
 }
