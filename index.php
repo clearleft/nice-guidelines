@@ -44,6 +44,7 @@ include($dr . "header.php");
 	<a href="#cat-02" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Cardiovascular</h1>
 	<ul class="cat-links">
+		<li><a href="/guideline/02-01">VTE Management <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>

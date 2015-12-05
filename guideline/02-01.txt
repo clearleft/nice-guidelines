@@ -1,0 +1,110 @@
+# VTE Management
+
+## Diagnosis
+
+* Provoked DVT: within 3 mths surgery, trauma, bed bound, pregnancy, hormone therapy (OCP, HRT)
+* Unprovoked DVT: none of above factors NOR active cancer, thrombophilia, or VTE Fx
+* If patient presents with signs or symptoms of PE, conduct Hx, Exam, Chest X ray
+* If both DVT and PE suspected base choice of diagnostic test on clinical judgement
+
+## Investigation
+
+### DVT
+
+* Wells score (two-level) >= 2 (see below), then DVT likely, and offer either:
+  * Proximal leg vein ultrasound within 4 hrs, and if negative a D-dimer test, OR
+  * D-dimer test and 24 hr dose of parenteral anti-coagulant, and proximal USS within 24hrs, if ultrasound cannot be carried out within 4 hrs
+* Repeat proximal leg vein ultrasound in 6-8 days
+* Wells score (tw  * level) <= 1, then DVT unlikely, and offer a D-dimer test. If positive either:
+  * Proximal leg ultrasound within 4 hrs
+  * Interim 24hr dose of parenteral anti-coagulant and proximal USS within 24 hrs
+* Diagnose and treat DVT if proximal vein USS is positive
+* Take int  * account other diagnoses if all tests negative, or if only D-dimer raised in Wells <= 1
+
+### Pulmonary Embolism
+
+* Wells PE score (tw  * level) * 4 (see below), then PE likely and offer CTPA, or parenteral anti-coagulation and CTPA when available, consider proximal vein USS if CTPA negative
+* Wells PE score (tw  * level) <= 4, then PE unlikely then offer a D-dimer and if positive CTPA, or parenteral anti-coagulation and CTPA when available
+* If renal impairment or contrast allergy consider V/Q SPECT or V/Q planar scan if not available, and parenteral anti-coagulation in the interim
+* Diagnose and treat if any of the above are positive
+* Take int  * account other diagnoses if all tests negative, or if only D-dimer raised in Wells PE <= 4
+* Only offer thrombophilia screening (anti-phospholipid, hereditary thrombophilia) if unproved DVT/PE and intending t  * stop anti-coagulation therapy
+* Offer cancer screening t  * all patients with unprovoked DVT / PE not known t  * have cancer: Exam, Chest X ray, Urinalysis, blood test
+
+## Management
+
+### Pharmacological treatment:
+
+* LMWH or Fondaparinux or Unfractionated heparin (f eGFR < 30)
+* Treat for 5 days at treatment dose or until INR is * 2 for 24 hrs whichever is longer
+* If haemodynamically unstable offer Unfractionated heparin and consider thrombolytic therapy
+* Vitamin K Antagonist (Warfarin) for 3 mths (within 24 hrs) if DVT / PE confirmed
+* Vitamin K Antagonist (Warfarin) * 3mths if unprovoked or likely recurrence, n  * additional bleed risk
+* If active cancer and DVT or PE offer LMWH for min 6 mths
+
+### Thrombolytic therapy
+
+(Note anti-coagulants stop clot growing, not dispersion)
+
+* Offer if good functional status and life expectancy * 1 yr, and low bleed risk
+
+### Mechanical intervention:
+
+* Offer below knee compression stockings if ankle pressure * 23 mm Hg, once swelling reduced, wear for 2yr, only affected leg
+* Vena caval filters t  * those wh  * cannot have anti-coagulation treatment, or those with recurrent PE after consider INR range 3-4 instead
+
+## Wells Two-Level DVT Score >2 PE Likely (NICE)
+
+<table>
+<tr><td>Active cancer (treatment ongoing, within 6 months, or palliative)</td>
+<td>1.0</td></tr>
+<tr><td>Paralysis, paresis or recent plaster immobilisation of the lower extremities</td>
+<td>1.0</td></tr>
+<tr><td>Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia</td>
+<td>1.0</td></tr>
+<tr><td>Localised tenderness along the distribution of the deep venous system</td>
+<td>1.0</td></tr>
+<tr><td>Entire leg swollen</td>
+<td>1.0</td></tr>
+<tr><td>Calf swelling at least 3 cm larger than asymptomatic side</td>
+<td>1.0</td></tr>
+<tr><td>Pitting oedema confined t  * the symptomatic leg</td>
+<td>1.0</td></tr>
+<tr><td>Collateral superficial veins (non-varicose)</td>
+<td>1.0</td></tr>
+<tr><td>Previously documented DVT</td>
+<td>1.0</td></tr>
+<tr><td>An alternative diagnosis is at least as likely as DVT</td>
+<td>-2.0</td></tr>
+</table>
+
+### Clinical probability simplified score
+
+* DVT likely: 2 points or more
+* DVT unlikely: 1 point or less
+
+## Wells Two-Level PE Score >4 PE Likely (NICE)
+
+<table>
+<tr><td>Clinically suspected DVT (minimum leg swelling and pain on palpation of deep veins).</td>
+<td>3.0</td></tr>
+<tr><td>Alternative diagnosis less likely than PE.</td>
+<td>3.0</td></tr>
+<tr><td>Tachycardia (heart rate above 100 beats per minute).</td>
+<td>1.5</td></tr>
+<tr><td>Immobilisation for more than three days or surgery in the previous four weeks.</td>
+<td>1.5</td></tr>
+<tr><td>History of DVT or PE.</td>
+<td>1.5</td></tr>
+<tr><td>Haemoptysis.</td>
+<td>1.0</td></tr>
+<tr><td>Malignancy (on treatment in the preceding six months or palliative stage).</td>
+<td>1.0</td></tr>
+</table>
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG144">CG144 Venous thromboembolic diseases: diagnosis, management and thrombophilia testing</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+
+
+

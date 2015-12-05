@@ -37,7 +37,8 @@ body {
 	margin: 0;
 	padding: 0;
 	font-weight: 500;
-	-webkit-font-feature-settings: "ss03" 1; /* capital I with bars */
+	-webkit-font-feature-settings: "ss03" 1;
+	font-feature-settings: "ss03" 1; /* capital I with bars */
 	position: relative;
 }
 
@@ -111,10 +112,13 @@ main h1, main h2, main h3, p, ul, .cat-label, .cat-links a {
 	padding-right: 3%;
 }
 
+table {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
 .prose p, .prose ul {
 	max-width: 40em;
-	-webkit-hyphens:auto;
-	-webkit-hyphens:auto;
 	-webkit-hyphens:auto;
 	hyphens:auto;
 }
@@ -175,6 +179,17 @@ li {
 ul ul {
 	margin: 0.6875em 0 0 0;
 	padding-left:0;
+}
+
+table {
+	border-collapse: collapse;
+	margin-top: 1.375em;
+	margin-bottom: 1.375em;
+}
+
+td {
+	padding: 0.5em;
+	border-bottom: 1px solid #e6e6e6;
 }
 
 nav ul {
