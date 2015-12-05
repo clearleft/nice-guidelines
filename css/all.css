@@ -242,9 +242,44 @@ nav li {
 }
 
 .byline {
-	margin-top:3em;
+	margin-top:2.75rem;
 }
 
 .doctor {
 	white-space: nowrap;
+}
+
+footer {
+	border-top: 2px solid #e6e6e6;
+	padding-top: 1.375rem;
+	padding-bottom: 1.375rem;
+	margin-top: 2.75rem;
+}
+
+footer p {
+	font-size: 12px;
+	font-size: .75rem;
+	line-height: 1.5;
+}
+
+@media only screen and (min-width: 45em) {
+	.cat-panel:target {
+		left: 33%;
+		width: auto;
+		right: 0;
+	}
+	.categories {
+		position: relative;
+	}
+	.categories ul.catlist {
+		width: 33%;
+	}
+	.cat-panel .back {
+		display: none;
+	}
+	.cat-panel h1 {
+		font-size: 21px;
+		background: #e6e6e6;
+	}
+	
 }

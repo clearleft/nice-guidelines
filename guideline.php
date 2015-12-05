@@ -68,7 +68,7 @@ if (!$error) {
 
 </main>
 <?php
-include($dr . "head.php");
+include($dr . "footer.php");
 ?>
 </body>
 

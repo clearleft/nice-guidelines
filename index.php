@@ -24,8 +24,8 @@ include($dr . "header.php");
 <main>
 <h1>NICE Guidance On a Page</h1>
 <p class="intro">Compiled from <abbr title="National Institute for Health and Care Excellence">NICE</abbr> guidance and summarised by <span class="doctor">Dr D&hairsp;P Sheppard MBBS</span>.</p>
-<nav>
-<ul class="categories">
+<nav class="categories">
+<ul class="catlist">
 
 <li id="cat-01">
 	<a href="#panel-01" class="cat-label">Breast <img src="/i/chevron-right.svg" alt="" /></a>
@@ -172,7 +172,7 @@ include($dr . "header.php");
 	<ul class="cat-links">
 		<li><a href="/guideline/16-01">Lower Urinary Tract Symptoms <img src="/i/chevron-right.svg" alt="" /></a></li>
 		<li><a href="/guideline/16-02">Prostate Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
-		<li><a href="/guideline/16-03">Urinary Incontinence - Neurological Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/16-03">Urinary Incontinence – Neurological Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
