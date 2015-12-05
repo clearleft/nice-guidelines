@@ -113,6 +113,10 @@ main h1, main h2, main h3, p, ul, .cat-label, .cat-links a {
 
 .prose p, .prose ul {
 	max-width: 40em;
+	-webkit-hyphens:auto;
+	-webkit-hyphens:auto;
+	-webkit-hyphens:auto;
+	hyphens:auto;
 }
 
 main a {

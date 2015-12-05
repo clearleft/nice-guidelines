@@ -39,10 +39,15 @@ if($guideline && $cat_id) {
 	$heading = "Missing chapter filename in the URL.";
 
 }
-
+?>
+<!DOCTYPE html>
+<html lang="en-gb" manifest="manifest.appcache">
+<head>
+<?php
 include($dr . "head.php");
 ?>
 
+</head>
 <body>
 
 <?php
