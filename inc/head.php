@@ -7,12 +7,11 @@
 
 <?php
 if (isset($title) && $title) {
-	if($title != "NICE") {
-		$title = strip_tags($title) . " – NICE Guidance on a Page";
-	}
+	$title = strip_tags($title) . " – NICE Guidance on a Page";
 } else {
 	$title="NICE Guidance on a Page";
 }
+if (isset($home)) { $title = "NICE 1 Pagers"; }
 ?>
 <title><?php echo $title ?></title>
 <!--[if lt IE 9]>

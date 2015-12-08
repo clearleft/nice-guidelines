@@ -2,7 +2,7 @@
 $dr = str_replace($_SERVER['SCRIPT_NAME'], '/inc/', $_SERVER['SCRIPT_FILENAME']);
 require_once($dr.'setup.php');
 $categorys = require_once($dr . "data.php");
-$title= "NICE 1 Pagers";
+$home=true;
 ?>
 
 <!DOCTYPE html>
