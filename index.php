@@ -13,6 +13,39 @@ $home=true;
 include($dr . "head.php");
 ?>
 
+<style>
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/opensans-light.woff2') format('woff2'),
+	     url('/fonts/opensans-light.woff') format('woff');
+    font-style: normal;
+    font-weight: 300;  
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/opensans-semibold.woff2') format('woff2'),
+    	 url('/fonts/opensans-semibold.woff') format('woff');
+    font-style: normal;
+    font-weight: 600;  
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/opensans-regular.woff2') format('woff2'),
+    	 url('/fonts/opensans-regular.woff') format('woff');
+    font-style: normal;
+    font-weight: 500;  
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('/fonts/opensans-italic.woff') format('woff2'),
+    	 url('/fonts/opensans-italic.woff') format('woff');
+    font-style: italic;
+    font-weight: 500;
+}
+</style>
+
 <link rel="stylesheet" href="/css/addtohomescreen.css" type="text/css">
 </head>
 <body class="home" id="top">
@@ -33,8 +66,8 @@ include($dr . "header.php");
 	<a href="#cat-01" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Breast</h1>
 	<ul class="cat-links">
-		<li><a href="/guideline/01-01">Advanced Breast Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
-		<li><a href="/guideline/01-02">Early and Locally Invasive Breast Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/01-CG81">Advanced Breast Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/01-CG80">Early and Locally Invasive Breast Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -44,7 +77,14 @@ include($dr . "header.php");
 	<a href="#cat-02" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Cardiovascular</h1>
 	<ul class="cat-links">
-		<li><a href="/guideline/02-01">VTE Management <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG187">Acute Heart Failure <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG180">Atrial Fibrillation <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG95">Chest Pain Recent Onset <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG108">Chronic Heart Failure <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG71">Familial Hypercholesterolaemia <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG130">Hyperglycaemia in ACS <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG127">Hypertension <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG144">VTE Management <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -171,9 +211,10 @@ include($dr . "header.php");
 	<a href="#cat-16" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Urology</h1>
 	<ul class="cat-links">
-		<li><a href="/guideline/16-01">Lower Urinary Tract Symptoms <img src="/i/chevron-right.svg" alt="" /></a></li>
-		<li><a href="/guideline/16-02">Prostate Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
-		<li><a href="/guideline/16-03">Urinary Incontinence – Neurological Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/16-CG97">Lower Urinary Tract Symptoms <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/16-CG175">Prostate Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/16-CG171">Urinary Incontinence in Women <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/16-CG148">Urinary Incontinence in Neurological Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -187,6 +228,51 @@ include($dr . "header.php");
 <?php
 include($dr . "footer.php");
 ?>
+<script>
+/* fontfaceobserver https://github.com/bramstein/fontfaceobserver/ */
+(function(){'use strict';function f(a){this.a=k;this.b=void 0;this.d=[];var b=this;try{a(function(a){l(b,a)},function(a){m(b,a)})}catch(c){m(b,c)}}var k=2;function n(a){return new f(function(b,c){c(a)})}function p(a){return new f(function(b){b(a)})}
+function l(a,b){if(a.a===k){if(b===a)throw new TypeError("Promise resolved with itself.");var c=!1;try{var d=b&&b.then;if(null!==b&&"object"===typeof b&&"function"===typeof d){d.call(b,function(b){c||l(a,b);c=!0},function(b){c||m(a,b);c=!0});return}}catch(e){c||m(a,e);return}a.a=0;a.b=b;q(a)}}function m(a,b){if(a.a===k){if(b===a)throw new TypeError("Promise rejected with itself.");a.a=1;a.b=b;q(a)}}
+function q(a){setTimeout(function(){if(a.a!==k)for(;a.d.length;){var b=a.d.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0===a.a?"function"===typeof c?e(c.call(void 0,a.b)):e(a.b):1===a.a&&("function"===typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(g){b(g)}}},0)}f.prototype.e=function(a){return this.c(void 0,a)};f.prototype.c=function(a,b){var c=this;return new f(function(d,e){c.d.push([a,b,d,e]);q(c)})};
+function r(a){return new f(function(b,c){function d(c){return function(d){g[c]=d;e+=1;e===a.length&&b(g)}}var e=0,g=[];0===a.length&&b(g);for(var h=0;h<a.length;h+=1)a[h].c(d(h),c)})}function s(a){return new f(function(b,c){for(var d=0;d<a.length;d+=1)a[d].c(b,c)})};window.Promise||(window.Promise=f,window.Promise.resolve=p,window.Promise.reject=n,window.Promise.race=s,window.Promise.all=r,window.Promise.prototype.then=f.prototype.c,window.Promise.prototype["catch"]=f.prototype.e);}());
+(function(){'use strict';function e(a){this.a=document.createElement("div");this.a.setAttribute("aria-hidden","true");this.a.appendChild(document.createTextNode(a));this.b=document.createElement("span");this.c=document.createElement("span");this.f=document.createElement("span");this.e=document.createElement("span");this.d=-1;this.b.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;";this.c.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;";
+this.e.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;";this.f.style.cssText="display:inline-block;width:200%;height:200%;";this.b.appendChild(this.f);this.c.appendChild(this.e);this.a.appendChild(this.b);this.a.appendChild(this.c)}function r(a,b,c){a.a.style.cssText="min-width:20px;min-height:20px;display:inline-block;visibility:hidden;position:absolute;width:auto;margin:0;padding:0;top:0;white-space:nowrap;font-size:100px;font-family:"+b+";"+c}
+function s(a){var b=a.a.offsetWidth,c=b+100;a.e.style.width=c+"px";a.c.scrollLeft=c;a.b.scrollLeft=a.b.scrollWidth+100;return a.d!==b?(a.d=b,!0):!1}function t(a,b){a.b.addEventListener("scroll",function(){s(a)&&null!==a.a.parentNode&&b(a.d)},!1);a.c.addEventListener("scroll",function(){s(a)&&null!==a.a.parentNode&&b(a.d)},!1);s(a)};function u(a,b){this.family=a;this.style=b.style||"normal";this.variant=b.variant||"normal";this.weight=b.weight||"normal";this.stretch=b.stretch||"stretch";this.featureSettings=b.featureSettings||"normal"}var v=null;
+u.prototype.a=function(a){a=a||"BESbswy";var b="font-style:"+this.style+";font-variant:"+this.variant+";font-weight:"+this.weight+";font-stretch:"+this.stretch+";font-feature-settings:"+this.featureSettings+";-moz-font-feature-settings:"+this.featureSettings+";-webkit-font-feature-settings:"+this.featureSettings+";",c=document.createElement("div"),k=new e(a),l=new e(a),m=new e(a),f=-1,d=-1,g=-1,n=-1,p=-1,q=-1,h=this;r(k,"sans-serif",b);r(l,"serif",b);r(m,"monospace",b);c.appendChild(k.a);c.appendChild(l.a);
+c.appendChild(m.a);document.body.appendChild(c);n=k.a.offsetWidth;p=l.a.offsetWidth;q=m.a.offsetWidth;return new Promise(function(a,y){function w(){null!==c.parentNode&&document.body.removeChild(c)}function x(){if(-1!==f&&-1!==d&&-1!==g&&f===d&&d===g){if(null===v){var b=/AppleWeb[kK]it\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);v=!!b&&(536>parseInt(b[1],10)||536===parseInt(b[1],10)&&11>=parseInt(b[2],10))}v?f===n&&d===n&&g===n||f===p&&d===p&&g===p||f===q&&d===q&&g===q||(w(),a(h)):(w(),
+a(h))}}setTimeout(function(){w();y(h)},3E3);t(k,function(a){f=a;x()});r(k,h.family+",sans-serif",b);t(l,function(a){d=a;x()});r(l,h.family+",serif",b);t(m,function(a){g=a;x()});r(m,h.family+",monospace",b)})};window.FontFaceObserver=u;window.FontFaceObserver.prototype.check=u.prototype.a;}());
+/*
+Fonts are loaded through @font-face rules in the CSS whenever an element references them.
+FontFaceObserver creates a referencing element to trigger the font request, and listen for font load events.
+When all fonts are loaded, we enable them by adding a class to the html element
+*/
+(function( w ){
+// if the class is already set, we're good.
+if( w.document.documentElement.className.indexOf( "wf-active" ) > -1 ){
+	return;
+}
+var fontA = new w.FontFaceObserver( "Open Sans", {
+	weight: 300,
+	style: "normal"
+});
+var fontB = new w.FontFaceObserver( "Open Sans", {
+	weight: 600,
+	style: "normal"
+});
+var fontC = new w.FontFaceObserver( "Open Sans", {
+	weight: 500,
+	style: "normal"
+});
+var fontD = new w.FontFaceObserver( "Open Sans", {
+	weight: 500,
+	style: "italic"
+});
+w.Promise
+	.all([fontA.check(), fontB.check(), fontC.check(), fontD.check()])
+	.then(function(){
+		w.document.documentElement.className += " wf-active";
+	});
+}( this ));
+</script>
 <script src="/js/addtohomescreen.js" async></script>
 
 </body>

@@ -5,7 +5,7 @@ $title = "About ";
 
 ?>
 <!DOCTYPE html>
-<html lang="en-gb" manifest="manifest.appcache">
+<html lang="en-gb" manifest="manifest.appcache" class="wf-active">
 <head>
 <?php
 include($dr . "head.php");

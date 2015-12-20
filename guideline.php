@@ -41,7 +41,7 @@ if($guideline && $cat_id) {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en-gb" manifest="manifest.appcache">
+<html lang="en-gb" manifest="manifest.appcache" class="wf-active">
 <head>
 <?php
 include($dr . "head.php");
@@ -56,7 +56,7 @@ include($dr . "header.php");
 
 <main>
 
-<nav><a href="/#cat-<?php echo $cat_id; ?>" class="back"><img src="/i/chevron-left.svg" alt="Back to"> <?php echo $category; ?></a></nav>
+<nav><a href="/#panel-<?php echo $cat_id; ?>" class="back"><img src="/i/chevron-left.svg" alt="Back to"> <?php echo $category; ?></a></nav>
 <h1><?php echo smartypants($heading) ?></h1>
 
 <article class="prose">

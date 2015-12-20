@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/fonts/opensans-italic.woff') format('woff2'),
+    src: url('/fonts/opensans-italic.woff2') format('woff2'),
     	 url('/fonts/opensans-italic.woff') format('woff');
     font-style: italic;
     font-weight: 500;
@@ -32,14 +32,19 @@
 body {	
 	background: #fff;
 	color: #000;
-	font-family: 'Open Sans', 'Avenir Next', 'Droid Sans', "Segoe UI", Arial, sans-serif;
+	font-family: 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
 	line-height: 1.375;
 	margin: 0;
 	padding: 0;
 	font-weight: 500;
-	-webkit-font-feature-settings: "ss03" 1;
-	font-feature-settings: "ss03" 1; /* capital I with bars */
 	position: relative;
+	/* capital I with bars */
+	-webkit-font-feature-settings: "ss03" 1;
+	font-feature-settings: "ss03" 1; 
+}
+
+.wf-active body {
+	font-family: 'Open Sans', 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
 }
 
 /* @group Header */
@@ -106,15 +111,13 @@ header a:focus img, header a:active img, header a:hover img {
 
 /* @end */
 
-/* side gutter */
-main h1, main h2, main h3, p, ul, .cat-label, .cat-links a {
-	padding-left: 3%;
-	padding-right: 3%;
+abbr[title] {
+	text-decoration: none;
 }
 
-table {
-	margin-left: 3%;
-	margin-right: 3%;
+main h1, main h2, main h3, p, ul, .cat-label, .cat-links a { /* side gutter */
+	padding-left: 3%;
+	padding-right: 3%;
 }
 
 .prose p, .prose ul {
@@ -132,7 +135,7 @@ main a:hover, main a:focus, main a:active, #cat-about a:hover, #cat-about a:focu
 }
 
 main h1 {
-	font-family: 'Open Sans', 'Avenir', 'Droid Sans', "Segoe UI", Arial, sans-serif;
+	font-family: 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
 	font-size: 28px;
 	font-size: 1.75rem;
 	letter-spacing: -0.035714286em;
@@ -143,6 +146,10 @@ main h1 {
 	padding-bottom: 1em;
 	margin: 0;
 	font-weight: 300;
+}
+
+.wf-active main h1 {
+	font-family: 'Open Sans', 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
 }
 
 main h2 {
@@ -181,15 +188,37 @@ ul ul {
 	padding-left:0;
 }
 
+figure.table {
+	margin: 1.375em 0;
+	overflow-x:auto;
+}
+
+@media only screen and (min-width: 35em) {
+	figure.table {
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+}
+
 table {
 	border-collapse: collapse;
-	margin-top: 1.375em;
-	margin-bottom: 1.375em;
+}
+
+th, td {
+	text-align: left;
+	line-height: 1.125;
 }
 
 td {
+	vertical-align:top;
 	padding: 0.5em;
 	border-bottom: 1px solid #e6e6e6;
+}
+
+th {
+	vertical-align:bottom;
+	padding: 0.5em;
+	border-bottom: 1px solid #a6a6a6;
 }
 
 nav ul {
@@ -308,6 +337,7 @@ footer p {
 }
 
 @media only screen and (min-width: 45em) {
+
 	.cat-panel:target {
 		left: 33.333%;
 		width: auto;
