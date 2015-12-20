@@ -1,0 +1,58 @@
+# Chest Pain Recent Onset
+
+## Diagnosis
+
+* Refer to hospital for ACS protocol if 12 lead ECG abnormal OR chest pain per following:
+  * Pain in chest (arms, jaw, back) > 15 mins
+  * Associated symptoms: seating, N+V, SOB
+  * Abrupt deterioration in previously stable angina with little or no exertion
+* Refer to hospital for ACS protocol if signs of complications e.g. pulmonary oedema but pain free
+* Refer to hospital for ACS protocol if recent ACS and develop further chest pain
+* If pain free but had pain previous 12 hrs and normal ECG, or pain 12-72 hrs ago, then refer for urgent same day assessment
+* Cardiovascular Hx and risk factors: Age, Hypertension, Dyslipidaemia, Diabetes, Smoking, Family Hx
+* Universal definition: Cardiac biomarker (Troponin) > 99th centile upper reference limit, together with 1 of the following:
+  * Symptoms of ischaemia
+  * ST-T changes or LBBB
+  * Pathological Q waves
+  * Imaging loss of viable myocardium
+* Type 1: primary coronary event
+* Type 2: secondary to increased oxygen demand or reduced oxygen supply
+
+### Stable Chest Pain
+
+* Diagnose stable angina on clinical assessment. Typical angina if all 3, 2 = atypical, 1 = not angina:
+  * Constricting discomfort in front of chest, neck shoulder jaw
+  * Precipitated by exertion
+  * Relived by rest or GTN
+* Assess Coronary Artery Disease (CAD) risk: age, sex, DM, smoking, hyperlipidaemia
+  * If > 90 %: treat as it were angina
+  * 60-90 % perform coronary angiography
+  * 30-60 % functional imaging
+  * 10-20 % CT Calcium scoring
+* Identify non coronary causes of angina such as aortic stenosis
+
+## Investigation
+
+* Resting 12 lead ECG as soon as possible
+* Take blood sample for Troponin I or T, repeat in 10-12 hrs (expected to rise 6 hrs post event)
+* If raised Troponin, reassess to exclude other causes i.e. secondary to PE, dissection
+* If ST segment elevation  or new onset LBBB refer to local protocol for STEMI until firm diagnosis
+* If ST segment depression or deep T wave inversion refer to NSTEMI-Unstable angina protocol
+* If no ST changes but Q wave or T wave change consider refer to NSTEMI-Unstable angina protocol
+* DO not exclude ACS when ECG normal, consider serial ECGs or additional ECG leads
+* If NOT ACS need to exclude other life threatening conditions e.g. PE, aortic dissection, pneumonia
+
+### Stable chest pain
+
+* Full blood count to exclude anaemia
+* For people with chest pain in whom stable angina cannot be diagnosed or excluded by clinical assessment alone, and is clinically appropriate then offer invasive coronary angiography, otherwise non-invasive functional imaging
+
+## Management
+
+* ACS management should not delay transfer to hospital
+* Pain relief: GTN (buccal or sublingual) and IV Morphine
+* Aspirin 300 mg, unless contra-indicated (written record that been given)
+* Oxygen: only offer if sats < 94 %, COPD 88-92%
+* Monitor: Pain, HR, Rhythm, BP, O2 sats, ECG
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg95">CG95 Chest pain of recent onset: assessment and diagnosis</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,0 +1,19 @@
+# Hyperglycaemia in Acute Coronary Syndromes (ACS)
+
+## Diagnosis
+
+* Recommendation for patients with Type 1 diabetes and ACS
+
+## Investigation
+
+n/a
+
+## Management
+
+* Manage hyperglycaemia in patients admitted to hospital for an acute coronary syndrome (ACS) by keeping blood glucose levels below 11.0 mmol/litre while avoiding hypoglycaemia
+* Consider a dose-adjusted insulin infusion with regular monitoring of blood glucose levels
+* Do not routinely offer intensive insulin therapy (an intravenous infusion of insulin and glucose with or without potassium) to manage hyperglycaemia (blood glucose above 11.0 mmol/litre) in patients admitted to hospital for an ACS unless clinically indicated
+* Offer all patients with hyperglycaemia without klnown diabetes: HbA1c, fasting blood glucose
+* Offer: smoking cessation, weight management, diet, physical exercise advice
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg130">CG130 Hyperglycaemia in acute coronary syndromes: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

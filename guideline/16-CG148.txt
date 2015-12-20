@@ -1,0 +1,53 @@
+# Urinary Incontinence in Neurological Disease
+
+## Diagnosis
+
+n/a
+
+## Investigation
+
+* Urine dipstick test using an appropriately sample: blood, glucose, protein, leukocytes and nitrites
+* Infection: culture and antibiotic sensitivity
+* Bacterial colonisation present in people using a catheter and so urine dip and culture unreliable
+* Carer: Complete a 'fluid input/urine output chart' to record fluid intake for min 3 days
+* Measure post-void residual urine volume by ultrasound, preferably using a portable scanner
+* Renal ultrasound: if high risk of renal complications e.g. spina bifida or spinal cord injury
+* RED FLAGS: Haematuria; Recurrent UTIs; Loin pain; Recurrent Blockages; Hydronephrosis
+* Offer video-urodynamic investigations (filing cystometry, pressure-flow studies) to people who are known to have a high risk of renal complications or surgery for neurogenic LUTS
+
+## Management
+
+### Treatments to Improve Bladder Storage
+
+* Behavioural management programme (timed voiding, bladder retraining or habit retraining)
+* Anti-muscarinincs: spinal cord disease (injury or MS), brain condition (cerebral palsy, head injury or stroke) and symptoms of an overactive bladder, monitor residual urine volume if intermittent or indwelling catheter after starting antimuscarinic
+* Botulism Toxin type A: if above and anti-muscarinics not effective, explainin catheterisation required post treatment
+* Augmentation cystoplasty using an intestinal segment: with non-progressive neurological disorders
+and complications of impaired bladder storage after careful consideration
+
+### Treatments to Improve Stress Incontinence
+
+* Pelvic floor muscle retraining where to voluntarily contract the pelvic floor is preserved
+* Autologous fascial sling surgery for people with neurogenic stress incontinence
+* Artificial urinary sphincter only if an alternative i.e. sling is less likely to succeed
+
+### Treatment to Improve Bladder Emptying
+
+* Do not offer alpha blockers if neurological disease
+* Catheter valve may be used as an alternative to a drainage bag
+
+### Surgical Intervention
+
+* Ileal conduit diversion (urostomy): for intractable, major problems with urinary tract management, such as incontinence or renal deterioration
+
+### Prophylactic Anti-biotics
+
+Only those who have a history of symptomatic urinary tract infection after catheter change or experience trauma during catheterisation
+
+### Complications
+
+* Renal impairment: report loin pain, haematuria, UTI. Don’t rely on GFR in isolation
+* Bladder stones: report catheter blockage, haematuria
+* Bladder cancer report haematuria
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG148">CG148 Urinary incontinence in neurological disease: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

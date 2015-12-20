@@ -1,0 +1,83 @@
+# Prostate Cancer
+
+## Diagnosis
+
+* Use normograms to convey: biopsy result prediction, pathological stage, risk of treatment failure
+
+## Investigation
+
+* Biopsy: Use PSA result together with DRE (digital rectal exam), co-morbidity and risk factors (Age and Afro- Caribbean) to decide on need, not PSA alone, and not if
+evidence of bone metastasis
+* Core Biopsy by trans-rectal ultrasound guided technique
+* If negative core biopsy (10-12) then offer multi-parametric MRI to guide another biopsy, if negative then do not repeat biopsy
+* Staging, only if candidate to radical treatment
+* Isotope bone scans: if hormonal treatment being deferred and risk of bone complications, but not if low risk localised cancer
+* Multi-parameter MRI or CT (MRI contra-indicated): if knowledge of T or N stage could affect management
+
+| Level of Risk | PSA      |     | Gleason Score |     | Clinical Stage |
+| ------------- | -------- | --- | ------------- | --- | -------------- |
+| Low           | <10ng/ml | and | <6            | and | T1–T2          |
+| Intermediate  | 10–20    | or  | 7             | or  | T2b            |
+| High          | >20ng/ml | or  | 8–10          | or  | T2c or more    |
+
+## Management
+
+### Hormone Therapy
+
+* Zoladex (LHRH agonist) reduced testosterone, note GnRH antagonists not widely available. Consider intermittent therapy for long-term androgen deprivation therapy
+(not adjuvant setting), check PSA every 3 mths, restart if > 10 ng/ml
+* Will reduce libido & sexual function (ejaculation and fertility): see managing adverse effects below
+* Offer medroxyprogesterone (20 mg per day), initially 10 weeks, to manage troublesome hot flushes
+
+### Low Risk Localised Prostate Cancer
+
+* Offer active surveillance for whom radical therapy an option: Initial MRI, then regular PSA and PSA kinetics, DRE, re-biopsy at 12 mths and continuation to 5 yrs or
+beyond until active surveillance end
+* Offer radical treatment if chosen surveillance and evidence of progression
+* Before radical therapy: discuss loss of sexual experience, ejaculation, fertility, and urinary function
+
+### Intermediate & High Risk Localised Prostate Cancer
+
+* Radical prostatectomy or radical radiotherapy, active surveillance requested, intermediate risk only
+* Radical radiotherapy: offer in combination with 6 mths androgen deprivation therapy (before, during and after), with minimum dose of 74 Gy to the prostate at no
+more than 2 Gy per fraction
+* Consider continuing androgen deprivation therapy for 3 yrs post intervention
+* Consider high-dose rate brachytherapy in combination with external beam radiotherapy
+* Surgery: robotic systems cost effective
+
+### Locally Advanced Prostate Cancer
+
+* Clinical oncologists should consider pelvic radiotherapy in men with locally advanced prostate cancer who have a higher than 15% risk of pelvic lymph node
+involvement
+
+### Managing Adverse Effects
+
+* Sexual dysfunction: access top ED specialists and PDE-5 inhibitors, or vacuum devices, intraurethral inserts or penile injections, or penile prostheses
+* Urinary incontinence: access to specialist, coping strategies, along with pelvic floor muscle re-education, bladder retraining and pharmacotherapy, as well as
+surgery (artificial urinary sphincter)
+* Investigation radiation induced enteropathy
+* Osteoporosis: only give Bisphosphonates (Denosumab if contra-indicated) if pre-existing
+* Gynacomastia: breast bud radiotherapy or wkly Tamoxifen if long-term bicalutamide monotherapy
+
+### Follow up
+
+* Watchful waiting regimen, no curative intent should be followed up in primary care
+* Check PSA levels for all men with prostate cancer who are having radical treatment at the earliest 6 weeks following treatment, at least every 6 months for the
+first 2 year
+
+### Relapse
+
+* Biochemical relapse (a rising PSA) alone should not prompt an immediate change in treatment
+* Do not offer biopsy of the prostatic bed if had a radical prostatectomy
+* Offer radical radiotherapy to the prostatic bed If no known metastases
+* Biochemical evidence of hormone relapsed disease: Docetaxel recommended (performance > 60%)
+* Bisphosphonates for pain relief if other treatments failed (analgesics and palliative radiotherapy)
+
+### Metastatic Prostate Cancer
+
+* Offer bilateral orchidectomy to all men with metastatic prostate cancer as alternate to LH agonist
+* In hope of retaining sexual function offer anti-androgen monotherapy with bicalutamide
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG175">CG175 Prostate cancer: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+
+

@@ -1,0 +1,77 @@
+# Atrial Fibrillation
+
+## Diagnosis
+
+* Manual pulse palpation in patients with:
+  * SOB
+  * Palpitations
+  * Syncope / dizziness
+  * Chest discomfort
+  * Stroke / TIA
+* Stroke risk: CHA2DS2VASc if AF (symptomatic or not, paroxysmal or persitent, atrial flutter, or risk of arrhythmia recurrence) note for most people benefit of anti-coagulation outweighs bleeding risk, unless increased risk of bleed
+* Bleeding risk once started anti-coagulation: HAS-BLED. Offer to modify hypertensive risk, poor control of INR, concurrent NSAID, excessive alcohol consumption
+
+## Investigation
+
+* ECG: If detect irregularly irregular pulse
+* If paroxysmal AF suspected then ambulatory 24 hr ECG monitor if asymptomatic episodes or symptomatic < 24 hrs apart
+* Transthoracic echo (TTE) in AF:
+  * Baseline important
+  * Rhythm control requiring cardioversion (Pharmacological or electrical)
+  * Suspicion of underlying structural / functional heart disease influencing management
+  * Refinement of risk stratification for anti-thrombotic therapy (NOT if already agreed initiation)
+* Transoesophageal echo (TOE) in AF, when TTE demonstrates an abnormality i.e. valvular disease or where TTE is technically difficult
+* Personalised care plan: stroke awareness; rate and rhythm control; anti-coagulation
+
+## Management
+
+* Anti-coagulation: if CHADSVASc > 2 in both sexes or > 1 in men
+  * Stroke (2)
+  * Age > 75 (2)
+  * Diabetes (1)
+  * Cardiac Failure (1)
+  * Hypertension (1)
+  * Age > 65 (1)
+  * Vascular Hx (1)
+  * Sex (female) (1)
+* New Anti-platelet: Apixaban, Dabigatran Rivaroxiban can be considered instead of Warfarin
+* Vitamin K antagonist: assess Time in Therapeutic Range
+* Reassess control if 2 INR > 5.0 or 1 > 8.0 OR 2 INR < 1.5, TTR < 65 %, addressing non adherence
+* Do not offer Aspirin monotherapy for stroke prevention
+* Review stoke risk of patients not taking an anti-coagulant when reach 65 or develop DM, HF, PAD, CHD, TIA
+
+### Chronic AF (assuming anti-coagulated as necessary)
+
+* Rate Control in first instance unless:
+* AF has reversible cause
+* Heart failure caused by AF
+* New onset AF
+* Atrial flutter that could benefit from ablation
+* Rhythm control preferred in clinical judgement
+
+### Rate Control: Beta Blocker or rate controlling CCB (Diltiazem)
+* Digoxin: only if non paroxysmal and sedentary patient
+
+If monotherapy does not control symptoms and poor ventricular rate control then any two of: Beta Blocker; Diltiazem; Digoxin
+
+### Rhythm Control: consider if heart rate is not controlled with rate controlling steps
+
+* If > 48 hrs offer electrical cardioversion (with amiodarone 4 wks before and 12 weeks after)
+* TOE Cardioversion should be offered alongside conventional cardioversion, equally effective
+* Drug treatment for long term rhythm control consider standard Beta Blocker i.e. all except Sotolol
+* Dronedarone recommended for maintenance of sinus rhythm after cardioversion
+* Amidarone if LVF or HF
+* ‘Pill in pocket’ for paroxysmal AF if no  LVF, Valvular pathology of IHD (single dose anti-arhythmic)
+* Left Atrial ablation: Catheter if paroxysmal or Surgical if symptomatic
+* Pace and ablate if permanent symptomatic AF
+
+### Acute AF
+
+* If life threatening then electrically cardiovert without waiting for anti-coagulation
+* If non- life threatening and < 48 hr (ie not long enough for clot formation) can offer rhythm or rate control
+* If > 48 hrs rate control only
+* Type of cardioversion (drug or electrical) dependent on resources available
+* If pharmacological then consider Flecanide (if no IHD) or Amiodarone
+* Anti-coagulate with heparin until full assessment made OR Warfarin if unlikely to regain sinus rhythm
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg180">CG180 Atrial fibrillation: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

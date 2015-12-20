@@ -1,0 +1,38 @@
+# Acute Heart Failure
+
+## Diagnosis
+
+n/a
+
+## Investigation
+
+* BNP > 100 ng/l or N terminal pro BNP > 300 ng/l
+* If raised perform Trans-thoracic Doppler 2D to establish whether cardiac abnormality
+
+## Management
+
+* Acute: IV diuretic, start with bolus or infusion
+* Do NOT routinely offer nitrates (preload) or opiates (afterload)
+* Do NOT routinely offer inotropes of vasopressors unless in reversible cardiogenic shock, and only then in CCU setting
+* IV nitrates used in special circumstances: concomitant MI or severe HTN then monitor in level 2 bed
+* Closely monitor renal function, U/O
+* Non-invasive ventilation: if cardiogenic pulmonary oedema
+* Invasive ventilation: if respiratory failure or physical exhaustion
+* Ultra-filtration only if diuretic resistance
+
+### Treatment after stabilisation:
+
+* Stable left ventricular failure: Start or restart Beta Blockers, once diuretics no longer needed
+* Stable left ventricular failure: ACE inhibitor + Aldosterone antagonist
+* Monitor BP, HR, U+Es
+
+### Valvular surgery
+
+* Offer aortic replacement if failure due to severe aortic stenosis, or mitral replacement if HF due to severe mitral regurgitation
+* TAVI should be offered to those unsuitable for surgery
+
+### Mechanical assist
+
+* with reversible severe heart failure, or candidate for transplantation
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG187 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

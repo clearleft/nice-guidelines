@@ -1,0 +1,78 @@
+# Urinary Incontinence in Women
+
+## Diagnosis
+
+* Initial assessment categorise as:
+  * Stress incontinence
+  * Urgency / Overactive Bladder (OAB)
+  * Mixed: if stress predominates discuss OAB drugs before surgery
+* Urgent Referral:
+  * Microscopic haematuria in women aged 50 years and older
+  * Visible haematuria
+  * Recurrent or persisting UTI associated with haematuria in women > 40 years
+  * Suspected malignant mass arising from the urinary tract
+* Refer if palpable bladder post void
+* Consider referral: persisting bladder/urethral pain; clinically benign pelvic masses; faecal incontinence; suspected neurological disease; voiding
+difficulty; suspected urogenital fistulae; previous continence surgery; previous pelvic cancer surgery; previous pelvic radiation therapy
+
+## Investigation
+
+* DRE to routinely confirm pelvic floor muscle contraction before supervised muscle training
+* Prolapse: symptomatic and at or below vaginal interoitus refer to specialist
+* Urine Dip: if UTI then culture and sensitivity and treat accordingly, if dip +ve leucocytes and nitrates do not offer Abx till culture and sensitivity
+* Measure post-void residual volume by bladder scan (preferred) or catheterisation in women with symptoms suggestive of voiding dysfunction or recurrent
+UTI
+* Cystometry (multichannel) filling and voiding, before surgery in women who have:
+  * Symptoms of storage dysfunction: OAB leading to a suspicion of detrusor over-activity
+  * Symptoms suggestive of voiding dysfunction or anterior compartment prolapse
+  * Previous surgery for stress incontinence
+
+## Management
+
+### Conservative
+
+* Lifestyle interventions:
+  * Caffeine reduction in OAB
+  * Fluid intake modify if high or low
+  * BMI > 30 to lose weight
+* Pelvic Floor Muscle Training: First line for 3 mths with stress or mixed UI (8 contractions 3 x day), and as preventative management for first
+pregnancy
+* Electrical stimulation biofeedback considered to motivate if cannot actively contract pelvic floor
+* Bladder training: if not satisfactory add an OAB drug
+* Absorbent products only as coping strategy pending definitive treatment, and as an adjunct
+
+### Catheters
+
+If persistent retention causing incontinence, symptomatic infections, renal dysfunction
+
+* Intermittent urethral catheterisation if can be taught to self-catheterise
+* Long-term indwelling urethral catheterisation: if can’t self catherise, other issues
+* Indwelling suprapubic catheters considered as an alternative to long-term urethral catheters
+
+### Pharmacological Management
+
+* Anti-muscarinic OAB drugs: discuss S/E, lowest effective dose, considering other co-morbidiites
+* First Line: Oxybutynin (immediate release), Tolterodine (immediate release), Darifenacin (OD)
+* If OAB not successful, discuss at MDT options for further management (non therapeutic / invasive)
+* Desmopressin: specifically to reduce nocturia
+* Oestrogens (Intravaginal) to treat OAB symptoms in postmenopausal women with vaginal atrophy
+
+### Invasive Procedures for OAB
+
+* Botulinum toxin A: discuss intermittent catheterisation needed for variable lengths of time
+* Neurostimulation: percutaneous posterior tibial nerve or percutaneous sacral stimulation only if conservative treatment ineffective and Botulism type A
+declined
+* Augmentation cystoplasty: conservative failed and who are willing and able to self-catheterise
+* Urinary Diversion: conservative, botulism, nerve stimulation failed
+
+### Surgical Approaches
+
+If conservative management for SUI has failed, offer:
+
+* Synthetic mid-urethral tape: transobturator approach, make aware of lack of long-term data
+* Open colposuspension:
+* Autologous rectus fascial sling
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG171">CG171 Urinary incontinence in women: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

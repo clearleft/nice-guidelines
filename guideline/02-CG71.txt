@@ -1,0 +1,38 @@
+# Familial Hypercholesterolaemia (FH)
+
+## Diagnosis
+
+* Diagnosis: Simon Broome criteria includes: Fx, Signs (Xanthomata), Cholesterol levels and DNA
+* Absence of signs does not preclude diagnosis
+* Pedigree Hx of at least 3 generation to include: age onset CHD, Lipid concentrations and smoking Hx
+* For children at risk (one affected parent) offer DNA test and LDL-C  measurements, if both affected parents then test < 5 yrs
+* Cascade testing should be offered: DNA & LDL-C measurements
+
+## Investigation
+
+* Familial Hypercholesteroaemia diagnosis: Total Cholesterol > 7.5 mmol/l (6.7 mmol/l if under 16) consider diagnosis OR Low density Lipoprotein Cholesterol (LDL-C) > 4.9 mmol/l (4.0 mmol/l if under 16), PLUS tendon xanthomata in first or second degree relative
+* LDL > 13 mmol/l (Adults) > 11 mmol/l (Children) consider clinical diagnosis of homozygous FH
+
+## Management
+
+### Conservative
+
+* Smoking strongly discouraged
+* Diet: total fat < 30 % of total energy intake, saturated fat < 7% total, total cholesterol intake < 300 mg/day and unsaturated fats replacing saturated fat; 5 portions fruit and vegetables a day; 2 portions fish (one oily) per week
+* Exercise: 30 mins a day 5 days per week of moderate intensity (bouts > 10 mins as effective as longer sessions)
+* Alcohol men 3-4 units a day; women 2-3 units
+
+### Pharmacological
+
+* Statins (lifelong) are the initial treatment
+* Dose titrated to maximum licenced in order to achieve < 50% baseline LDL-C
+* Ezetimibe (reduce cholesterol absorption) should be offered in hetergygous disease, and intolerant to statin therapy (new onset muscle pain, altered LFT, GI disturbance)
+* If unable to control LDL-C to an appropriate individual risk with initial statin, then offer concomitant Ezetimibe
+* If unable to reduce < 50% baseline LDL-C
+* Those FH patients with 2 or more cardiovascular risk factors, established or family Hx of premature CHD  should be referred for specialist treatment
+* Specialist treatment may include bile acid sequestrants resin), Nicotinic acid or fibrate (Gemfibrozil)
+* Fat soluble vitamin supplements should be considered alongside bile acid sequestrants
+* LDL apheresis offered in instance of progressive symptomatic CHD
+* Liver transplantation should be considered with homozygous disease in which lipid lowering and apheresis are not successful
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg71">CG71 Familial hypercholesterolaemia: identification and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

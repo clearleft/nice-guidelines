@@ -2,5 +2,5 @@ Options All
 RewriteEngine on
 
   RewriteBase /
-  RewriteRule ^([0-9][0-9])-([0-9][0-9])$ guideline.php?category=$1&guideline=$2
-  RewriteRule ^([0-9][0-9])-([0-9][0-9])/$ guideline.php?category=$1&guideline=$2
+  RewriteRule ^([0-9][0-9])-([A-Z0-9]*)$ guideline.php?category=$1&guideline=$2
+  RewriteRule ^([0-9][0-9])-([A-Z0-9]*)/$ guideline.php?category=$1&guideline=$2

@@ -45,7 +45,7 @@ When conservative failed and bothersome
 
 * LUTS moderate to severe: Alpha blocker, relax SM around prostate for (Alfuzosin, Doxazosin, Tamsulosin or Terazosin)
 * Over Active Bladder: Anti-Cholinergic, or combination w/ Alpha Blocker if storage symptoms persist
-* LUTS and prostate * 30 g or a PSA * 1.4 ng/ml: 5-alpha reductase inhibitor (Finasteride), and in combination with alpha blocker if LUTS severe
+* LUTS and prostate &gt;30g or a PSA &gt;1.4ng/ml: 5-alpha reductase inhibitor (Finasteride), and in combination with alpha blocker if LUTS severe
 
 * Discuss active surveillance (reassurance lifestyle advice w/o immediate treatment and with regular follow-up) or active intervention (conservative management, drug treatment or surgery) for:
   * Mild or moderate bothersome LUTS or whose LUTS fail to respond
@@ -56,7 +56,7 @@ When conservative failed and bothersome
   * LUTS secondary to BPE: monopolar or bipolar transurethral resection of prostate (TURP)
   * Monopolar transurethral vaporisation of prostate (TUVP) as part of RCT cf TURP
   * Holmium laser enucleation of the prostate (HoLEP)
-  * Only offer open prostatectomy as an alternative to TURP if prostates estimated * than 80 g
+  * Only offer open prostatectomy as an alternative to TURP if prostates estimated &gt;80g
 
 ### Surgery for Storage Problems
 

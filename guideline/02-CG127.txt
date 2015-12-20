@@ -1,0 +1,57 @@
+# Hypertension in Adults
+
+## Diagnosis
+
+* Stage 1 > 140/95 (clinical setting); 135/85 (ABPM)
+* Stage 2 > 160/100 (clinical); 150/85 (ABPM)
+* Severe > 180/110
+* If pulse irregularity measure manually
+* If automated ensure calibrated and cuff size adequate
+* If Stage 1 measure 3 x taking lower of latter readings in clinic, if confirmed offer ABPM (2 per hour)
+
+## Investigation
+
+* While waiting for confirmation of hypertension diagnosis look for evidence of end organ damage: LVF, CKD (albuminaemia or proteinaemia) and hypertensive retinopathy
+* Assess cardiovascular risk score (e.g. Qrisk)
+* For all patients with hypertension:
+  * Urine: Albumin creatinine ratio
+  * U+E, eGFR
+  * Serum cholesterol and HDL
+  * Examine Fundi
+  * 12 lead ECG
+
+## Management
+
+* Lifestyle interventions: diet, exercise, alcohol patterns, smoking cessation and suggest but not offer relaxation therapies
+* Discourage caffeine and salt intake
+* If severe consider treating immediately with anti-hypertensives
+* If severe and papilloedema then accelerated hence refer to specialised care same day
+* If systolic falls > 20 mm Hg on standing review medication or refer for postural hypotension (+ headache, palpitations and pallor consider phaeochromocytoma (adrenal medullary tumour) and refer same day)
+
+### Pharmacological offer oral anti-hypertensives:
+
+* Stage 1 (< 80) and target organ damage, renal disease, diabetes or cardiovascular disease, with end target < 140/90 or 150/90 if > 80 yrs
+* Stage 1, < 40 yrs and none of the above risk factors investigate secondary causes as risk underestimated
+* Stage 2 at any age
+
+### Step 1:
+
+* < 55 yrs ACE or if not tolerated ARB
+* > 55 or Afro-Caribbean offer CCB, if oedema not tolerated or HF risk then consider Thiazide diuretic
+* Offer Thiazide type diuretic (Indapamide or Chlotalidone) in preference to Bendroflumethazide
+* Only consider Beta Blocker if ACE/ARB not tolerated or woman child bearing age
+
+### Step 2:
+
+* If BP still not controlled offer CCB in combination with ACE / ARB (in black person ARB + CCB)
+
+### Step 3:
+
+* Diuretic + CCB + ACE / ARB
+
+### Step 4:
+
+* Consider Spironolactone (if K+ < 4.5) or increase Thiazide dose, monitoring electrolytes and creatinine
+* Consider an Alpha Blocker or Beta Blocker
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg127">CG127 Hypertension in adults: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

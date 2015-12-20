@@ -1,0 +1,43 @@
+# Chronic Heart Failure
+
+## Diagnosis
+
+* Heart failure due to Left Ventricular Systolic Dysfunction LVSD – reduced LV ejection fraction
+* Heart failure with impaired Left Ventricle Relaxation HFPEF – preserved LV ejection fraction
+
+## Investigation
+
+* Suspected Heart Failure without previous MI: Measure BNP > 400 pg/ml or NT-proBNP > 2000 pg/ml should have urgent referral for 2D echo-cardiography assessment within 2 wks
+* If BNP 100 - 400, NT-proBNP 400-2000 2D echo-cardiography within 6 wks
+* Suspected Heart Failure with previous MI should have urgent referral for 2D echo-cardiography assessment within 2 wks
+* Note: obesity, diuretics, ACE, ARB reduce BNP, and high levels can be cuased other than heart failure e.g. LVH, sepsis, hypoxaemia, renal dysfunction
+* Cardiac –MRI or TOE should be considered if echo poor quality
+* ECG and chest X-ray to look for aggravating factors
+* FBC, LFTs, TFTs, eGFR, lipids, urinalysis
+
+
+## Management
+
+### Conservative
+
+* Heart Failure care should be delivered by an MDT with an integrated approach across the community
+* Exercise: offer group exercise based rehabilitation if stable and condition does not preclude
+* Smoking cessation
+* Alcohol related should abstain
+* Offer annual influenza vaccination
+
+### Pharmacological
+
+* First Line in LV systolic dysfunction:
+  * ACE inhibitor (start low and titrate upwards) or ARB if not tolerated. Measure U+Es post commencement on ACE after each dose increment
+  * Beta blocker (start low, go slow) including those with PAD, IPF, DM & COPD, switching to a Beta Blocker licensed for Heart Failure
+* Second Line:
+* Aldosterone antagonist, especially post MI or moderate to severe HF (NY class III-IV), while monitoring potassium, eGFR, creatinine
+* If afro-Caribbean then consider Hydralazine, with specialised advice
+* Digoxin considered if still symptomatic
+* Diuretics should be considered in congestive heart failure, especially in HFPEF where loop diuretics should be considered
+* Anti-coagulants should be considered in those with a history of thromboembolism
+* In HF associated with valvular disease specialist referral required, Do not start ACE until assessment made
+* Regular review of functional capacity, medications and renal function
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG108">CG108 Chronic heart failure in adults: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
