@@ -1,11 +1,7 @@
 CACHE MANIFEST
-# rev 1.84
+# rev 1.85
 CACHE:
 index.php
-/guideline/01-01
-/guideline/01-02
-/guideline/02-02
-/guideline/16-01
 /css/all.css
 /js/global.js
 /i/chevron-left.svg
