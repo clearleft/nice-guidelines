@@ -1,0 +1,46 @@
+# CG172 MI Secondary Prevention
+
+## Diagnosis
+
+* n/a
+
+## Investigation
+
+* GP follow Up including: BP, renal function
+* Offer assessment of LV function
+
+
+## Management
+
+### Cardiac rehabilitation programs
+
+Range of options with an exercise component to meet needs of all ages, including those with LV dysfunction, taking account of health beliefs.
+
+* Rehabilitation programs should include health education and stress management, though not CBT routinely
+* Use of metabolic equivalents (METS) can be used to compare activities
+* Sexual activity can resume 4 weeks after MI, PDE5 inhibitor may be considered 6 mths after event who are now stable (though avoided in patients treated with nitrates)
+* Lifestyle changes
+	* Diet: Mediterranean (more fish, bread, less meat, more plant oils), note omega 3 fatty acid has no evidence of benefit or harm
+	* Alcohol reduction 3-4 /day men, 2-3 women
+	* Smoking cessation
+	* Exercise 20 mins a day till become slightly breathless and aim to extend
+	* Weight management advice
+
+### Medical therapy
+
+* ACE or ARB if intolerant, as soon as haemodynamically stable, and renal function testing 1-2 wks
+* Beta Blocker, as soon as haemodynamically stable, min 12 mths and indefinitely in LV dysfunction
+* Cholesterol lowering medication (statin)
+* Dual anti-platelet (aspirin plus other anti-platelet), unless they have an indication for anti-coagulation. Clopidogrel monotherapy if aspirin not tolerated, or if other clinical vascular disease
+* Ticagralor with aspirin for 12 months if STEMI
+* Clopidogrel with aspirin for 12 months in NSTEMI or those with bare metal stent, or STEMI with medical management
+* Continue 2nd anti-platelet for up to 12 months if had STEMI and CABG
+* If anti-coagulated add aspirin unless there is a high risk of bleeding if patient undergone CABG, balloon angioplasty and medical management, not if stented
+* If stented add clopidogrel (not aspirin) to the anti-coagulant regime
+* Do not routinely add Ticagrelor or Prasugel to warfarin post MI
+* Post 12 months consider need for ongoing anti-platelet treatment taking into account thromboembolic vs bleeding risk and cardiovascular risk
+* If heart failure symptoms / signs, consider aldosterone antagonist within 3-14 days, post ACE
+* All patients with MI should have cardiologist review for revasculaisation
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg172">CG172 Myocardial infarction: cardiac rehabilitation and prevention of further MI</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

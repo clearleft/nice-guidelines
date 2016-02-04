@@ -276,6 +276,7 @@ nav li {
 
 .cat-panel h1, .back, .cat-label img { /* for <IE9 */
 	display:none;
+	letter-spacing: 0;
 }
 
 .cat-panel:not(old) h1, .back:not(old), .cat-label:not(old) img { /* hack to make <IE9 ignore this */
@@ -326,7 +327,7 @@ footer {
 }
 
 .home footer {
-	margin-top: 0;
+	margin-top: 0em;
 	border-width: 1px;
 }
 

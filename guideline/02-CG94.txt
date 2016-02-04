@@ -1,0 +1,31 @@
+# CG94 Unstable Angina and NSTEMI
+
+## Diagnosis
+
+* Following medical treatment including aspirin and anti-thrombin (LMWH Fondaparinex), a formal risk assessment for 6 month mortality should be carried out including previous CVD HX, Exam, 12 lead ECG, Biomarkers. > 1.5% low, > 6 % considered high
+
+## Investigation
+
+* Risk assessment: Global Registry of Acute Cardiac Events [GRACE]
+
+
+## Management
+
+* Conservative management [see CG172](/guidelines/02-CG172)
+
+### Drug Management
+
+* Aspirin 300 mg loading dose unless contra-indicated
+* Clopidogrel 300 mg if 6 mth risk > 1.5% OR who may undergo PCI within 24 hrs OR Any patient whose had an NSTEMI, for up to 12 mths post event
+* Glycoprotein IIb,IIIa inhibitors (Eptifibatide) if risk > 3 %, and schedule angiography within 96 hrs
+* LMWH Fondaparinex unless coronary angiography planned within 24 hrs, and who do not have high bleed risk
+* Unfractionated heparin if coronary angiography within 24 hrs, or if renally impaired (eGFR < 30)
+* Note: Consider Bivalirudin instead of heparain and GPI if angiography within 24 hrs
+
+### Interventions:
+
+* Coronary angiography with PCI as necessary within 24 hrs if 6 mth mortality risk > 3 %, or if initially < 3 % but subsequently experiences ischaemia
+* If revascularisation unclear then involve surgeon and interventionalist
+* Consider ischaemia testing before discharge
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg94">CG94 Unstable angina and NSTEMI: early management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,0 +1,33 @@
+# CG126 Management of Stable Angina
+
+## Diagnosis
+
+* See CG95 for chest pain guidance
+
+## Investigation
+
+* n/a
+
+## Management
+
+* Short acting nitrate for prevention and treatment: advice on use before planned exertion, and to sit down or hold onto something if feel light headed. Side effects of flushing and headache
+* Repeat dose after 5 mins if symptoms persist, call an ambulance if pain persist 5 mins after 2nd dose
+* Secondary prevention of Cardiovascular disease:
+	* Aspirin 75 mg taking into account bleeding risk
+	* ACE inhibitor if co-morbid diabetes and stable angina
+	* Statin for lipid lowering
+	* Treat hypertension
+* First line treatment: Either Beta Blocker or CCB, switching between if either not tolerated, or in combination if not effective (though note B Blocker and Verapamil hypotension risk)
+* Other monotherapy treatment if above not tolerated, or still not controlled
+	* Long acting nitrate
+	* Ivabradine
+	* Nicorandil
+	* Ranolazine
+* Only offer 3 drugs in combination if revascularisation not appropriate
+* If stable disease discuss prognosis, risk benefit of CABG if have disease of 3 proximal vessels or left main stem, and should be offered if functional testing highlights these diseases
+* If symptoms still not controlled satisfactorily with medical treatment consider by-pass grafting (CABG) or PCI, which ever is more appropriate, together with coronary angiography to guide treatment
+* Take into account survival benefit of CABG over PCI in patients > 65 or have diabetes or have complex 3 vessel disease (with or without involvement of left main stem
+* MDT (surgeons and interventionalists) should discuss patients with complex 3 vessel disease or doubt about best method
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg126">CG126 Stable angina: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

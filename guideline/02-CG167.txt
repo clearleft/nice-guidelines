@@ -1,0 +1,25 @@
+# CG167 Myocardial Infarction with ST Segment Elevation
+
+## Diagnosis
+
+* If STEMI immediately assess eligibility for coronary reperfusion either PCI or fibrinolysis, irrespective of level of consciousness
+
+## Investigation
+
+* n/a
+
+## Management
+
+* Coronary angiography with follow on PCI if presented within 12 hrs of onset and PCI can be delivered within 120 mins OR more than 12 hrs if have or develop cardiogenic shock
+* Ticagrelor should be considered alongside low dose aspirin in patients intended to be treated by primary PCI, and continued for 12 mths
+* Undergoing PCI, once treated with Ticagrelor or Prasugel, then offer Unfractionated Heparin or LMWH (Exoxaparin) - renal function dependent
+* Consider radial versus femoral for PCI
+* Consider thrombus aspiration during PCI
+* Fibrinolysis if presented within 12 hrs of onset and PCI cannot be delivered within 120 mins, together with anti-thrombin
+* ECG 60-90 mins post intervention, if still ST elevation or recurrent ischaemia offer coronary angiography with PCI, but not repeat of fibrinolysis
+* If fibrinolysis successful and stable within same hospital offer coronary angiography
+* If ineligible for vascular reperfusion offer medical management
+* Offer management advice to reduce risk factors – [see CG172](/guideline/02-CG172)
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg167">CG167 Myocardial infarction with ST-segment elevation: acute management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

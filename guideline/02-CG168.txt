@@ -1,0 +1,37 @@
+# CG168 Varicose Veins
+
+## Diagnosis
+
+* Explain likelihood of progression including complications: DVT, skin changes, ulcer, bleeding and thrombophlebitis
+* Explain symptom relief, compression, interventional treatments
+* Explain treatment options, including recurrence rates (higher than primary varicose veins)
+* If bleeding varicose veins refer immediately to vascular service
+
+### Refer if:
+
+* Symptomatic
+* Lower limb changes: pigmentation, eczema
+* Superficial vein thrombosis
+* Venous leg ulcer (including if healed)
+
+## Investigation
+
+* Duplex ultrasound to determine extent of truncal reflux and plan treatment
+
+## Management
+
+### Conservative management:
+
+* Weight loss
+* Light to moderate activity
+* Avoid activities known to make symptoms worse
+
+### Interventions:
+
+* Endothermal ablation or if not suitable,
+* Ultrasound guided foam scleropathy
+* Only offer compression hosiery if interventional therapy unsuitable
+* Do not offer during pregnancy unless exceptional circumstances, instead consider compression therapy
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg168">CG168 Varicose veins: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

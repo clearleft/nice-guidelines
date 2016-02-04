@@ -1,0 +1,87 @@
+# CG92 VTE Prevention
+
+## Diagnosis
+
+* Assess all patients on admission for increased VTE risk: reduced mobility for > 3 days
+* OR reduced mobility and:
+	* Active cancer or cancer treatment
+	* Age over 60 years
+	* Critical care admission
+	* Dehydration, hence do not allow patients to become dehydrated
+	* Known thrombophilias
+	* Obesity (body mass index [BMI] over 30 kg/m2)
+	* One or more significant medical comorbidities (for example: heart disease; metabolic, endocrine or respiratory pathologies; acute infectious diseases; inflammatory conditions)
+	* Personal history or first-degree relative with a history of VTE
+	* Use of hormone replacement therapy OR oestrogen-containing contraceptive therapy
+	* Varicose veins with phlebitis
+* OR acute surgical admission or total surgery (+ anaesthesia) time> 90 mins
+
+
+* Do not offer VTE prophylaxis if any of the following bleed risks:
+	* Active bleeding
+	* Acquired bleeding disorders (such as acute liver failure)
+	* Concurrent use of anticoagulants known to increase the risk of bleeding (such as warfarin with international normalised ratio [INR] higher than 2)
+	* Lumbar puncture/epidural/spinal anaesthesia expected within the next 12 hours
+	* Lumbar puncture/epidural/spinal anaesthesia within the previous 4 hours
+	* Acute stroke
+	* Thrombocytopenia (platelets less than 75 x 109/l)
+	* Uncontrolled hypertension (230/120 mmHg or higher)
+	* Untreated inherited bleeding disorders (such as haemophilia and von Willebrand's disease)
+
+## Investigation
+
+* n/a
+
+## Management
+
+### Mechanical VTE Prophylaxis
+(choice based on clinical condition, patient preference)
+
+* Anti-embolism stocking (TEDS): measured to fit limb, to produce calf pressure of 14-15 mm Hg, and ensure wear day and night till mobility increased
+* Do not offer TEDS in Peripheral Artery Disease, previous by-pass grafting, peripheral neuropathy, skin condition, cardiac failure, leg or pulmonary oedema, and discontinue if patient experiences pain or discomfort
+* If compression stocking not appropriate offer Foot impulse device OR Intermittent pneumatic compression, and encourage to use as much as possible
+
+### Pharmacological Prophylaxis
+
+* Based on local practices and clinical condition (i.e. renal function), noting Anti-platelet therapy not adequate prophylaxis:
+* General medical patients: choose any of the following
+	* LMWH heparin
+	* Fondapariux
+	* Unfractionated heparin (if eGFR < 30)
+* Commence as soon as possible after risk assessment
+
+### Patients with stroke
+
+* Consider LMWH or unfractionated heparin if Haemorrhagic stroke and risk of haemorrhagic transformation of stroke ruled out, and immobility, dehydration or previous VTE
+* Do not offer compression stockings
+
+(See CG192)[02-CG192] for more specific details regarding each medical and surgical patient
+
+### General medical considerations:
+
+* Do not routinely offer VTE prophylaxis to palliative patients
+* Do not routinely offer to cancer patients with oncological treatment who are ambulant
+
+### General surgical considerations:
+
+* Stop OCP / HRT 4 wks before surgery
+* Risk benefit of stopping anti-platelet 7 days before surgery
+* Regional anaesthesia has lower risk of VTE vs GA, though plan timing wrt minimising risk of epidural haematoma
+* If local anaesthetic and no reduced immobility, do not routinely offer VTE prophylaxis
+* Most surgery: start mechanical prophylaxis at admission and pharmacological treatment with patients with a low risk of bleeding, unless orthopaedic surgery in which case for all patients unless contra-indicated
+* Do not offer VTE prophylaxis in acute traumatic or non-traumatic haemorrhage, or ruptured spinal / cranial vascular malformation, until lesion has been secured
+	 
+### Pregnancy and up to 6 wks post partum:
+
+consider LMWH (or unfractionated) in the following:
+
+* Significantly reduced mobility > 3 days / critical care admission
+* > 35 yrs
+* Obesity
+* Dehydration
+* Thrombophilia or previous VTE
+* Pregnancy related risk factors (hyperemesis, pre-eclampsia etc)
+* Co-morbidities
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG92">CG92 Venous thromboembolism: reducing the risk for patients in hospital</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+

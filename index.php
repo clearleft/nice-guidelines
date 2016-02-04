@@ -84,6 +84,15 @@ include($dr . "header.php");
 		<li><a href="/guideline/02-CG71">Familial Hypercholesterolaemia <img src="/i/chevron-right.svg" alt="" /></a></li>
 		<li><a href="/guideline/02-CG130">Hyperglycaemia in ACS <img src="/i/chevron-right.svg" alt="" /></a></li>
 		<li><a href="/guideline/02-CG127">Hypertension <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG181">Lipid Modification in Primary and Secondary CVD Prevention <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG147">Lower Limb Peripheral Artery Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG126">Management of Stable Angina <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG172">MI Secondary Prevention <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG167">Myocardial Infarction with ST Segment Elevation <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG64">Prophylaxis against Infective Endocarditis <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG94">Unstable Angina and NSTEMI <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG168">Varicose Veins <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/02-CG92">VTE Prevention <img src="/i/chevron-right.svg" alt="" /></a></li>
 		<li><a href="/guideline/02-CG144">VTE Management <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>

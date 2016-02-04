@@ -1,0 +1,40 @@
+# CG147 Lower Limb Peripheral Artery Disease
+
+## Diagnosis
+
+* Secondary prevention of cardiovascular disease advice and support
+	* Smoking cessation
+	* Diet weight management
+	* Lipid modification
+	* Prevention of diabetes
+	* Prevention of high blood pressure
+* Assess if patients have symptoms of peripheral artery disease; diabetes & non healing wounds on leg; need compression hosiery; considered for intervention in leg or foot
+* Ask about symptoms including leg claudication, and critical limb ischaemia
+* Assess femoral, popliteal and foot pulses
+* If critical limb ischaemia ensure MDT review before treatment
+  
+## Investigation
+
+* Measure ankle brachial pressure index: record systolic blood pressure with appropriately sized cuff in both arms and dorsalis pedis and posterior tibial arteries, taking measurements using a Doppler probe
+* Calculate ABPI by dividing the highest ankle pressure over the highest arm pressure
+* Duplex ultrasound as first line imaging
+* Contrast enhanced CT if have PAD and need further imaging or CT angiography if contra-indicated
+
+## Management
+
+### Intermittent Claudication
+
+* Conservative: 2 hr supervised exercise weekly for 3 mths, and encourage to exercise to  point of maximal pain
+* Angioiplasty should be offered once advice on modifiable risk factors reinforced and for whom exercise therapy has not led to satisfactory improvement and imaging confirmed suitable
+* Primary stent (bare metal) placement considered for complete aorto-iliac occlusion, but not femoro-popliteal disease
+* By-pass grafting offered only where angioplasty unsuccessful in life limiting disease and imaging confirmed suitable, using an autologous vein where possible
+* Naftidrofuryl oxalate may be offered if exercise not helped and angioplasty / surgery declined
+  
+### Critical Limb ischaemia
+
+* Angioplasty or by-pass grafting taking into account co-morbidities, vein availability, patient preference, disease pattern
+* Only offer primary stent placement in complete aorto-iliac occlusion, using bare metal stent
+* Pain management: WHO ladder with laxatives and anti-emetics, and referral to pain management team if pain persists and not able to revascularise
+* Amputation once all options to revascualrise have been exhausted
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg147">CG147 Peripheral arterial disease: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

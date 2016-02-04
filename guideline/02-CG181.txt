@@ -1,0 +1,36 @@
+# CG181 Lipid Modification in Primary and Secondary CVD Prevention
+
+## Diagnosis
+
+* Patients > 40 should have their CVD risk estimated annually (Qrisk2) and full formal risk assessment if prediction 10% or more (though not suitable if eGFR < 60)
+* Qrisk underestimated in those taking drugs causing dyslipidaemia (Bendroflumezide, Olanzepine), and the  immunocompromised, and those that have quit smoking
+* Use clinical findings, lipid profile and Fx to judge likelihood of familial lipid disorder rather than absolute cut-offs
+  
+## Investigation
+
+* Measure both total Cholesterol and High Density Lipoprotein for best CVD risk estimate
+* Take full lipid profile prior to starting therapy: in addition triglycerides and non HDL cholesterol (fasting not necessary)
+* Specialist review if TC > 9.0 mmol/l or TG > 20 mmol/l
+
+## Management
+
+### Conservative:
+
+* Smoking strongly discouraged  
+* Diet: total fat < 30 % of total energy intake, saturated fat < 7% total, total cholesterol intake < 300 mg/day and unsaturated fats (olive oil, rapeseed oil) replacing saturated fat; 5 portions fruit and vegetables a day; 2 portions fish (one oily) per week  
+* Exercise: 30 mins a day 5 days per week of moderate intensity (bouts > 10 mins as effective as longer sessions) OR to your maximum safe capacity  
+* Alcohol men 3-4 units a day; women 2-3 units  
+* Weight: appropriate advice and support
+
+### Pharmacological
+
+If lifestyle modification ineffective:  
+
+* Perform baseline before commencement per the following list: Alcohol consumption, BP, BMI, full lipid profile, eGFR, AST, TFT, HbA1c  
+* Primary prevention: 20 mg Atorvastatin if have > 10% Qrisk2, and all adults with T1DM > 40 or diabetes > 10 yrs or established nephropathy, and all patients with CKD  
+* Secondary prevention: those with CVD 80 mg Atorvastatin, lower dose if risk of side effects, 20 mg for those with CKD  
+* Before starting if generalised unexplained muscle pain, measure creatinine kinase, and if 5 x upper limit of normal do not start  
+* Measure liver transaminases (ALT, AST) before commencement and at 3 mths and 12 mths. Only stop therapy if raised > 3 x baseline  
+* Ezetimide: consider for those with primary hypercholesterolaemia
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg181">CG181 Cardiovascular disease: risk assessment and reduction, including lipid modification</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
