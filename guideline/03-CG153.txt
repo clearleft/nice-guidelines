@@ -1,0 +1,68 @@
+# CG153 Psoriasis
+
+## Diagnosis
+
+* Patient with any type of psoriasis assess:
+	* Severity at initial presentation to help evaluate efficacy of treatment:
+		* Physician's Global Assessment: clear, nearly clear, mild, mod, severe or very severe
+		* Patient’s Global Assessment: clear, nearly clear, mild, mod, severe or very severe
+		* Body surface affected
+		* Nail, scalp, palms, sole involvement
+		* Systemic upset: malaise, fever common in unstable condition
+	* Impact on physical, psychological and social wellbeing: use Dermatology Life Quality Index
+	* Whether they have psoriatic arthritis: Psoriasis Epidemiological Screening Tool annually
+	* Presence of comorbidities especially CVD see other NICE guidance, note psoriasis risk factor for VTE
+* Refer to specialist: if diagnostic uncertainty; severe i.e. > 10% body surface; cannot be controlled; acute guttate psoriasis
+
+## Investigation
+
+* n/a
+
+## Management
+
+### First Line: Topical Therapy
+
+* Account for patient preference: cream, lotion, ointment and review at 4 wks for tolerability
+* Stress importance of continuation if effective and likelihood of relapse
+* Before escalating treatment discuss difficulties with application
+* Educate: continued potent steroid use leads to skin atrophy, striae and instability in psoriasis
+* Aim for 4 week application very potent, 8 week potent and break of 4 weeks between applications
+
+### Trunk and Limbs
+
+* Potent steroid + Vitamin D analogue OD, separately for up to 4 weeks
+* If Ineffective Vitamin D analogue only BD
+* If ineffective: potent steroid BD for 4 wks OR coal tar preparation OD or BD
+* Very potent in specialist setting only for max 4 weeks
+
+### Scalp
+
+* Potent corticosteroid OD for up to 4 weeks
+* If ineffective: different formulation or topical treatment to remove scale
+* If ineffective: combined Calcipotriol + Betamethasone OD for 4 weeks OR vitamin D analogue if cannot tolerate steroids
+* If ineffective: very potent steroid BD for 2 weeks for adults only OR coal tar OD or BD
+
+### Face, Flexors, Genitalia
+
+* Mild or Moderate potency steroid OD or BD for 2 weeks, particularly vulnerable to skin atrophy
+* In ineffective: Calcineurin inhibitor (Tacrolimus) BD for up to 4 weeks
+
+### Second Line: Phototherapy
+* Not to be used for maintenance
+* Narrowband ultraviolet B 3 x week if extensive > 10% body surface or moderate Physician’s  assessment or topical therapy ineffective
+* Ultraviolet A (PUVA) irradiation, but council that increased risk of squamous cell carcinoma
+* Psoralen (oral or topical) with local ultraviolet A (PUVA) irradiation to treat palmoplantar pustulosis
+* If poor response, relapse or poorly tolerated then consider systemic therapy
+
+### Third Line: Systemic Therapy
+* Offer systemic non-biological therapy if:
+* cannot be controlled with topical therapy
+* and has a significant impact on physical and extensive (> 10 % body surface)
+* First Line: Methotrexate. Be aware that hepatotoxic, rise in AST, hence avoid in fibrosis/cirrhosis
+* Second Line: Ciclosporin: Rapid disease control; have palmoplantar pustulosis; considering conception. Consider changing from methotrexate to ciclosporin (or vice-versa) if first-line inadequate
+* Third line: Systemic biological therapy: if disease severe and not responded to standard treatment and anti-TNF being considered e.g. Adalimumab; Etancerpt; Infliximab; Ustekinumab
+
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg153">CG153 Psoriasis: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

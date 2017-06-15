@@ -1,0 +1,74 @@
+# CG57 Atopic Eczema in Children
+
+## Diagnosis
+
+### Diagnose atopic eczema if:
+
+* Visible flexural dermatitis involving the skin creases
+* Personal history of flexural dermatitis, dry skin for 12 mths, asthma or allergic rhinitis
+* Onset of signs and symptoms under the age of 2 years:
+
+<table>
+<tr><th>Clear</th>
+<td>Normal skin, no evidence of active atopic eczema</td>
+<td>No impact on quality of life</td></tr>
+<tr><th>Mild</th>
+<td>Areas of dry skin, infrequent itching (w or w/o small areas of redness)</td>
+<td>Little impact on everyday activities, sleep and psychosocial wellbeing</td>
+</tr>
+<tr><th>Moderate</th>
+<td>Areas of dry skin, frequent itching, redness (w or w/o excoriation and localised skin thickening)</td>
+<td>Moderate impact on ADL, psychosocial wellbeing, frequently disturbed sleep</td>
+</tr>
+<tr><th>Severe</th>
+<td>Widespread areas of dry skin, incessant itching, redness (with or without excoriation, extensive skin thickening, bleeding, oozing, cracking)</td>
+<td>Severe limitation on ADL, psychosocial functioning, nightly loss of sleep</td>
+</tr>
+</table>
+
+* Patient / Family given information on how to recognise flares of atopic eczema: increased dryness, itching, redness, swelling and general irritability
+
+## Investigation
+
+* Identify and Manage Triggers:
+* Irritants: Soaps, detergents
+* Skin infections
+* Contact allergens (especially if react to topicals tx)
+* Food allergens (especially if reacted to food previously)
+* Inhalant allergens (especially if seasonal flares and a/w eyes)
+* Mild eczema do not have to have allergy test
+
+## Management
+
+### Stepped approach in order
+
+* #### Mild
+	* First Line: Emollients. Unperfumed emollients to use every day in large amounts for moisturising, washing and bathing instead of soap, and shown how to apply. Offer alternate emollient if not acceptable. Note if two topicals, apply one then leave for several mins.
+	* Second Line: Mild topical steroid. Potency tailored to severity, OD or BD.  Consider infection if not controlled in 7-14 days. Consider prophylactic application in problem areas 2/7
+
+* #### Moderate
+	* Third Line: Topical Calcineurin inhibitors, Tacrolimus or Pimecrolimus for face and neck. Prescribed if not controlled by maximum potency steroid appropriate for the patient's age.
+	* Fourth Line: Bandages, but do not use over Calcineurin inhibitor w/o specialist advice
+
+* #### Severe
+	* Fifth Line: Phototherapy: when other managements have failed
+	* Sixth Line: Systemic Therapy
+
+* Sedating antihistamine: 7–14 day trial > 6mths during acute flare if sleep disturbance significant
+
+* **Specialist Referral**: not responded to optimum topical therapy in 7 days or infected tx failed
+
+* #### Infection
+
+	* Patient taught to recognise symptoms of bacterial infection staph / strept: weeping, pustules, crusts
+	* First Line treatment: Flucloaxacillin
+	* Eczema Herpeticum: Same day referral to specialist, treat with systemic Aciclovir
+
+* #### Suspected Milk Allergy
+
+	* 6–8 week trial of extensively hydrolysed protein formula or amino acid formula in place of cow's milk formula for bottle-fed infants < 6 mth with moderate or severe atopic eczema, not controlled by optimal treatment with emollients and mild topical  corticosteroids
+	* Do not following unmodified milk (goat etc) or partially hydrolysed milk
+	* Not known whether altering mother diet affects breast milk
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg57">Atopic eczema in under 12s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

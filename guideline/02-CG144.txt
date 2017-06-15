@@ -15,21 +15,21 @@
   * Proximal leg vein ultrasound within 4 hrs, and if negative a D-dimer test, OR
   * D-dimer test and 24 hr dose of parenteral anti-coagulant, and proximal USS within 24hrs, if ultrasound cannot be carried out within 4 hrs
 * Repeat proximal leg vein ultrasound in 6-8 days
-* Wells score (tw  * level) <= 1, then DVT unlikely, and offer a D-dimer test. If positive either:
+* Wells score (two level) <= 1, then DVT unlikely, and offer a D-dimer test. If positive either:
   * Proximal leg ultrasound within 4 hrs
   * Interim 24hr dose of parenteral anti-coagulant and proximal USS within 24 hrs
 * Diagnose and treat DVT if proximal vein USS is positive
-* Take int  * account other diagnoses if all tests negative, or if only D-dimer raised in Wells <= 1
+* Take into account other diagnoses if all tests negative, or if only D-dimer raised in Wells <= 1
 
 ### Pulmonary Embolism
 
-* Wells PE score (tw  * level) * 4 (see below), then PE likely and offer CTPA, or parenteral anti-coagulation and CTPA when available, consider proximal vein USS if CTPA negative
-* Wells PE score (tw  * level) <= 4, then PE unlikely then offer a D-dimer and if positive CTPA, or parenteral anti-coagulation and CTPA when available
+* Wells PE score (two level) * 4 (see below), then PE likely and offer CTPA, or parenteral anti-coagulation and CTPA when available, consider proximal vein USS if CTPA negative
+* Wells PE score (two level) <= 4, then PE unlikely then offer a D-dimer and if positive CTPA, or parenteral anti-coagulation and CTPA when available
 * If renal impairment or contrast allergy consider V/Q SPECT or V/Q planar scan if not available, and parenteral anti-coagulation in the interim
 * Diagnose and treat if any of the above are positive
-* Take int  * account other diagnoses if all tests negative, or if only D-dimer raised in Wells PE <= 4
-* Only offer thrombophilia screening (anti-phospholipid, hereditary thrombophilia) if unproved DVT/PE and intending t  * stop anti-coagulation therapy
-* Offer cancer screening t  * all patients with unprovoked DVT / PE not known t  * have cancer: Exam, Chest X ray, Urinalysis, blood test
+* Take into account other diagnoses if all tests negative, or if only D-dimer raised in Wells PE <= 4
+* Only offer thrombophilia screening (anti-phospholipid, hereditary thrombophilia) if unproved DVT/PE and intending to stop anti-coagulation therapy
+* Offer cancer screening to all patients with unprovoked DVT / PE not known to have cancer: Exam, Chest X ray, Urinalysis, blood test
 
 ## Management
 
@@ -39,7 +39,7 @@
 * Treat for 5 days at treatment dose or until INR is * 2 for 24 hrs whichever is longer
 * If haemodynamically unstable offer Unfractionated heparin and consider thrombolytic therapy
 * Vitamin K Antagonist (Warfarin) for 3 mths (within 24 hrs) if DVT / PE confirmed
-* Vitamin K Antagonist (Warfarin) * 3mths if unprovoked or likely recurrence, n  * additional bleed risk
+* Vitamin K Antagonist (Warfarin) * 3mths if unprovoked or likely recurrence, no additional bleed risk
 * If active cancer and DVT or PE offer LMWH for min 6 mths
 
 ### Thrombolytic therapy
@@ -51,7 +51,7 @@
 ### Mechanical intervention:
 
 * Offer below knee compression stockings if ankle pressure * 23 mm Hg, once swelling reduced, wear for 2yr, only affected leg
-* Vena caval filters t  * those wh  * cannot have anti-coagulation treatment, or those with recurrent PE after consider INR range 3-4 instead
+* Vena caval filters to those who cannot have anti-coagulation treatment, or those with recurrent PE after consider INR range 3-4 instead
 
 ## Wells Two-Level DVT Score >2 PE Likely (NICE)
 
@@ -68,7 +68,7 @@
 <td>1.0</td></tr>
 <tr><td>Calf swelling at least 3 cm larger than asymptomatic side</td>
 <td>1.0</td></tr>
-<tr><td>Pitting oedema confined t  * the symptomatic leg</td>
+<tr><td>Pitting oedema confined to the symptomatic leg</td>
 <td>1.0</td></tr>
 <tr><td>Collateral superficial veins (non-varicose)</td>
 <td>1.0</td></tr>

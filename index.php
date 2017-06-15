@@ -20,6 +20,7 @@ include($dr . "head.php");
 	     url('/fonts/opensans-light.woff') format('woff');
     font-style: normal;
     font-weight: 300;  
+    font-display: fallback;
 }
 
 @font-face {
@@ -28,6 +29,7 @@ include($dr . "head.php");
     	 url('/fonts/opensans-semibold.woff') format('woff');
     font-style: normal;
     font-weight: 600;  
+    font-display: fallback;
 }
 @font-face {
     font-family: 'Open Sans';
@@ -35,6 +37,7 @@ include($dr . "head.php");
     	 url('/fonts/opensans-regular.woff') format('woff');
     font-style: normal;
     font-weight: 500;  
+    font-display: swap;
 }
 
 @font-face {
@@ -43,6 +46,7 @@ include($dr . "head.php");
     	 url('/fonts/opensans-italic.woff') format('woff');
     font-style: italic;
     font-weight: 500;
+    font-display: fallback;
 }
 </style>
 
@@ -103,6 +107,8 @@ include($dr . "header.php");
 	<a href="#cat-03" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Dermatology</h1>
 	<ul class="cat-links">
+		<li><a href="/guideline/03-CG57">Atopic Eczema in Children <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/03-CG153">Psoriasis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
