@@ -3,7 +3,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="preload" href="/fonts/opensans-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/lato-regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="manifest" href="/manifest.json">
 
 <?php

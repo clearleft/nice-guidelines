@@ -1,0 +1,100 @@
+# Type 1 Diabetes Mellitus
+
+## Diagnosis
+
+* Diagnosis per WHO 1999: Symptom + 1 positive BT, 2 positive BT, HbAa1c > 48 mmol/mol
+* Symptoms & signs: hyperglycaemia (CBG>11.1), polyuria, polydipsia, wt loss
+* If Type 2 suspected, consider Type 1 if ketonuria, marked wt loss, no signs of metabolic syndrome
+* Consider other diabetes syndromes if: Fx DM, obese, black, asian, no insulin requirement or < 0.5 units/kg/day, no or little KB, no signs of insulin resistance (acanthosis nigricans)
+* Be aware of initial T1DM honeymoon period: insulin 0.5 units/kg/day
+
+## Investigation
+
+* Target HbA1c < 58 mmol/mol w/o frequent disabling hypoglycaemic events, tested 2-4 times per year
+* Inform low levels hypos, high levels microvascular complications i.e. eye, kidney, nerve damage
+* > 80 mmol/mol requires intervention as risk DKA and complications
+* If markers of arterial disease (raised albumin excretion) then < 48 mmol/mol may be beneficial
+* Short term glucose, pre-prandial 4-7 (8 children) mmol/l, post prandial < 9 (10 children)
+* Blood glucose monitoring: meters strips meeting pt’s needs 4 x /day if trying to optimise or  illness, before and after exercise, general frequency depends on characteristics of individuals control
+
+### Child Screening
+* Coeliac disease at diagnosis
+* Thyroid disease at diagnosis and annually thereafter until transfer to adult services
+* Investigation of the state of injection sites at each clinic visit
+
+### Arterial risk Screening in adults
+* Smoking: offer cessation
+* Full Lipid Profile
+* Microalbuminuria annually from the age of 12 years
+* Blood pressure annually from the age of 12 years: target 135/85 unless high allb excretion 130/80
+* Abdominal adiposity
+* Fx arterial disease
+
+## Management
+
+* From Diagnosis children offered MDT managed package of care
+	* Insulin regimens, although individualised, 3 basic regimes considered:
+	* Children: 1,2 or 3 short acting insulin injections / day
+	* Adults: Biphasic short or rapid + Intermediate acting pre-mix, pre breakfast / evening meal, useful if number of injections important factor
+	* Multiple injections of short acting insulin before meals + ≥1 medium / long acting insulin
+	* Continuous subcut insulin infusion (insulin pump therapy)
+* Young people offer Multiple injections together with package of care including dietary education, blood glucose monitoring and psychosocial support + paediatric nursing and medical support
+* If ineffective offer combination 1,2,3 or pump therapy (with adequate training / competence)
+* For adults undergoing periods of fasting or sleep following eating (religious feasts and fasts or after night-shift work), consider a rapid-acting insulin analogue before the meal (provided meal is short)
+
+### Insulin Preparations
+
+* offer most appropriate to achieve HbA1c < 58 mmol/mol
+* Rapid acting: (Novorapid, Humalog) mimic own insulin
+* Short acting: (Actrapid, Humalin S) onset 30 mins up to 8 hrs, used in sliding scales
+* Medium acting:  (Isophane Insulin) onset 1 hr max 4 hrs up to 35 hrs (must be pre-mixed)
+* Long acting: (Glargine, Determir) achieve steady state after 1-2 days
+* Oral Anti-diabetic Drugs should not be offered. Sulphonylurea or Acarbose risk hypoglycaemia, and efficacy of Metformin uncertain
+* Insulin Delivery: injection into deep subcutaneous fat. Needles of appropriate length required
+
+### Lifestyle
+
+* Diet:
+	* Children: same requirements as other Carbs 50%, Prot 15%, Fat 35% + 5 portions fruit veg / day
+	* Adults: education on glycaemic index of specific foods, programmes available to help
+	* Multiple insulin regimen: insulin should reflect carbohydrate intake
+* Exercise: reduce risk of microvascular complications , learn glycaemic effect of exercise and aware of hypo, and should not undertake if CBG > 17 and presence of KB
+* Smoking: increases risk of vascular complications
+* Alcohol: must have carbohydrates before or after and closely monitor CBG levels
+* Substance mis-use can lead to difficultly in glycaemic control
+
+### Hypoglycaemia
+* note hypos are inevitable consequence of insulin therapy, but adjust to minimise
+* Always have access to carbohydrate (glucose or sucrose) and CBG monitoring to confirm
+* Moderate (requires help) Give 10-20 g carbohydrate (liquid easier) or tablets or gels if able to swallow, raise CBG raised 5-15 mins
+* Severe (Unconscious) Give 10% glucose IV (500mg/kg max), or 1 mg glucagon IM (no access)
+
+### Diabetic Keto Acidosis
+* Treated per guidelines: British Society Paediatric Endrocrinology
+* NB if pH < 7.3 but < 5% dehydrated, respond well to regular S/C insulin, hydration and CBG monitor
+* High dependency bed or ITU if not responding
+
+### Surgery
+* Only in centres that have dedicated paediatric diabetic facilities
+
+### Co-Morbidities
+* Arterial disease: 75 mg aspirin in moderate to high risk categories
+* High Blood pressure: Thiazide diuretic
+
+### Management of Complications
+* Annual foot care reviews: see CG10, 119
+* Retinopathy annually from 12 years: structured eye surveillance with digital retinal photography, with rapid review by ophthalmologist if new vessel formation seen, referral for maculopathy and pre-proliferative changes
+
+### Nephropathy
+* Urine (first pass) Albumin : Creatinine ratio, result taken as confirmed if a further specimen (out of two more) is also abnormal (> 2.5 mg/mmol men, > 3.5 mg/mmol women)
+* ACE inhibitors (ARB if not tolerated) should be started and, with the usual precautions, titrated to full dose in all adults with confirmed nephropathy
+
+### Neuropathy
+* Men asked annually about erectile dysfunction, a PDE-5 inhibitor offered if no contra-indication
+* Gastroparesis: consider if unexplained bloating or vomiting
+* Autonomic nephropathy affecting gut: consider if unexplained diarrhoea, particularly at night
+* Neuropathic pain: initial management simple NSAIDs, Paracetamol then refer to CG96
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg15">CG15 Diagnosis and management of type 1 diabetes in children, young people and adults</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

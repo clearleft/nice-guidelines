@@ -1,0 +1,62 @@
+# Type 2 Diabetes Mellitus
+
+## Diagnosis
+
+* n/a
+
+## Investigation
+
+* Involve patient in HbA1c target setting, encourage maintenance unless impact QoL
+* Target maybe above 48 mmol/mol, but inform any reduction towards target beneficial long term
+* Measure HbA1c at 2–6-mth intervals, and 6 mthly when stable
+* If pre-prandial well controlled but HbA1c high, self-monitor to detect hyperglycaemia
+* If erythrocyte t/o abnormal use fructosamine to estimate (Not in T1DM)
+* Self-monitoring plasma glucose: if on insulin, oral anti-diabetic therapy and hypoglycaemia, to assess impact of lifestyle and medication change, ensure safety while driving
+
+## Management
+
+### Conservative: Lifestyle / Non-pharmacological
+
+* Diet: encourage high fibre low glycaemic index foods e.g. fruit, veg, wholegrains, pulses, low fat dairy and oily fish
+* Integrate dietary advice with a personalised diabetes management plan
+* If overweight, target wt loss of 5–10% may still be of benefit, greater loss long term will have advantageous metabolic impact
+
+### Pharmacological Therapy: Oral Glucose Control
+
+* Biguanide (Metformin):
+	* If overweight & blood glucose not controlled by lifestyle & diet, consider if not overweight
+	* Step up over weeks to minimise GI S/Es, consider extended absorption Metformin
+	* Review if eGFR < 45, stop if < 30
+	* If inadequate continue Metformin add another oral glucose lowering drug (Sulphonylurea)
+* Insulin Secretogogue (Sulphonylurea):
+	* First line if person not overweight or cannot tolerate Metformin
+	* Second line if inadequate control, usually added to Metformin
+	* If still inadequate continue Sulphonylurea add another oral glucose lowering drug
+* Acarbose: if unable to tolerate other oral glucose lowering drug
+	* DPP-4 inhibitors (sitagliptin, vildagliptin)
+	* Instead of Sulfonylurea as second-line therapy to first-line metformin when control inadequate (HbA1c > 48) and significant risk / consequence of hypoglycaemic events
+	* Second line to Sulphonylurea if Metformin not tolerated
+	* Third line if HbA1c > 58
+* Thiozolidinedione (Pioglitazone) NB avoid in heart failure
+	* Instead of Sulfonylurea as second-line therapy to first-line metformin when control inadequate (HbA1c > 48) and significant risk / consequence of hypoglycaemic events
+	* Second line to Sulphonylurea if Metformin not tolerated
+	* Third line if HbA1c > 58
+	* Combine with insulin if on high dose insulin w/o adequate control
+* GLP-1 Mimetic (Exanatide)
+	* Third Line to Metformin, Sulphonylurea and BMI > 35, or insulin contra-indicated
+* Insulin Therapy: bolus or pre-mix
+	* Discuss benefits / risks if HbA1c > 58 mmol/mol, start if agrees
+	* If markedly hyperglycaemic on dual therapy consider insulin vs third line OGL
+	* Start with Metformin and Sulphonylurea, review Sulphonylurea if hypoglycaemia occurs
+	* Begin with NPH at bed time or twice daily
+	* Consider pre-mix if post prandial high or long acting if require carer
+	* If hypoglycaemia switch from medium acting NPH to long acting (Glargine, Determir)
+* Cardiovascular Management
+	* Lifestyle advice if > 140/80 (130/80 if vascular pathology), and medication is not controlled
+	* See Cardiovascular risk, Hypertension control CG127, and lipid modification CG181
+	* Anti-thrombotics: Aspirin 75 mg if BP < 145/90 (or Clopidogrel if not tolerated)
+* Management of Complications see T1DM Summary
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg87">CG87 Type 2 diabetes: The management of type 2 diabetes</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,0 +1,67 @@
+# Diabetic Foot Problems
+
+## Diagnosis
+
+* Overall, 20–40% of people with diabetes have neuropathy and 20–40% have peripheral vascular disease (PVD), which are secondary to poor blood glucose control and adverse arterial risk factors (such as smoking or dyslipidaemia)
+* 5% of people with diabetes may develop a foot ulcer in any year, amputation rates 0.5% per year
+* MDT should normally include a diabetologist, a surgeon with the relevant expertise in managing diabetic foot problems, a diabetes nurse specialist, a podiatrist and a tissue viability nurse
+
+### MDT should:
+
+* Assess interventions to reduce risk of cardiovascular events, CKD or anaemia
+* Assess response to medical or surgical treatment
+* Assess the foot and need for specialist wound care
+* Assess pain
+* Assess vasculature
+* Review treatment of any infection
+* Determine need for interventions for prevention of Achilles tendon contracture
+* Orthotic assessment
+
+
+## Investigation
+
+### Annual inspection and examination to include:
+
+* Testing foot sensation with 10 g monofilament (max 10 sessions) or vibration (calibrated)
+* Palpation of foot pulses
+* Inspection for any foot deformity
+* Inspection of footwear
+
+### Categorise as:
+
+* Low current risk (normal sensation, palpable pulses)
+* Increased risk (neuropathy or absent pulses or other risk factor)
+* High risk (neuropathy or absent pulses plus deformity or skin changes or previous ulcer)
+
+### Ulcerated foot:
+
+* Assess size of ulcer and signs of infection, gangrene, ischaemia, neuropathy
+* X-ray to determine extent of foot problem, MRI if osteomyelitis suspected and X-ray not definitive
+* Suspected diabetic foot infection: soft tissue from debrided base for culture
+
+## Management
+
+### Chronic Care
+
+* Low risk: improve knowledge, encourage beneficial self-care
+* Increased risk: refer to foot protection team (3-6 mth check), inspect feet and vascular assessment
+* High risk: refer to foot protection team (1-3 mth check), inspect feet and vascular assessment
+* Intensified foot education, specialist footwear/insoles, skin and nail care
+* Ulcers: urgent (<24hrs) assessment by trained professional and ongoing care by MDT including podiatrists, orthotists and diabetic nurses
+* Patients who would benefit from re-vascularisation should be referred promptly
+* Charcot osteoarthropathy (Joint neuropathy) if red, deformity and warmth referred immediately to MDT for joint immobilisation (NB CMT is a hereditary neuromuscular condition)
+
+### Hospital Care
+
+* Assess < 24 hrs of diabetic foot admission, named consultant responsible for overall care
+* Refer to MDT < 24 hrs
+* Acute Presentation Inspection: Neuropathy;  Ischaemia; Ulceration; Inflammation and/or infection; Deformity; Charcot arthropathy
+* Infection treatment per local guidelines, if mild offer PO with effect against Gram +ve
+
+### Ulcer Management
+* Debridement, dressings and off-loading (device to stop pressure) by MDT only
+* Ischaemia assessment: maybe associated with redness & pain if infected or gangrenous, hence examine peripheral pulses, tissue loss, as well as colour and temperature and ABPI where possible
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg10">CG10 Type 2 diabetes foot problems: Prevention and management of foot problems</a> and <a href="https://www.nice.org.uk/guidance/cg119">CG119 Diabetic foot problems: Inpatient management of diabetic foot problems</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

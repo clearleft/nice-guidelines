@@ -15,35 +15,35 @@ include($dr . "head.php");
 
 <style>
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-light.woff2') format('woff2'),
-	     url('/fonts/opensans-light.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-light.woff2') format('woff2'),
+	     url('/fonts/lato-light.woff') format('woff');
     font-style: normal;
-    font-weight: 300;  
+    font-weight: 300;
     font-display: fallback;
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-semibold.woff2') format('woff2'),
-    	 url('/fonts/opensans-semibold.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-semibold.woff2') format('woff2'),
+    	 url('/fonts/lato-semibold.woff') format('woff');
     font-style: normal;
-    font-weight: 600;  
+    font-weight: 600;
     font-display: fallback;
 }
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-regular.woff2') format('woff2'),
-    	 url('/fonts/opensans-regular.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-regular.woff2') format('woff2'),
+    	 url('/fonts/lato-regular.woff') format('woff');
     font-style: normal;
-    font-weight: 500;  
-    font-display: swap;
+    font-weight: 500;
+    font-display: fallback;
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-italic.woff') format('woff2'),
-    	 url('/fonts/opensans-italic.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-italic.woff') format('woff2'),
+    	 url('/fonts/lato-italic.woff') format('woff');
     font-style: italic;
     font-weight: 500;
     font-display: fallback;
@@ -118,6 +118,7 @@ include($dr . "header.php");
 	<a href="#cat-04" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Emergency</h1>
 	<ul class="cat-links">
+		<li><a href="/guideline/04-CG134">Anaphylaxis Assessment <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -127,6 +128,10 @@ include($dr . "header.php");
 	<a href="#cat-05" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Endocrinology</h1>
 	<ul class="cat-links">
+		<li><a href="/guideline/05-CG10">Diabetic Foot Problems <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/05-CG15">Type 1 Diabetes Mellitus <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/05-CG87">Type 2 Diabetes Mellitus <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/05-CG146">Osteoporosis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -265,19 +270,19 @@ When all fonts are loaded, we enable them by adding a class to the html element
 if( w.document.documentElement.className.indexOf( "wf-active" ) > -1 ){
 	return;
 }
-var fontA = new w.FontFaceObserver( "Open Sans", {
+var fontA = new w.FontFaceObserver( "Lato", {
 	weight: 300,
 	style: "normal"
 });
-var fontB = new w.FontFaceObserver( "Open Sans", {
+var fontB = new w.FontFaceObserver( "Lato", {
 	weight: 600,
 	style: "normal"
 });
-var fontC = new w.FontFaceObserver( "Open Sans", {
+var fontC = new w.FontFaceObserver( "Lato", {
 	weight: 500,
 	style: "normal"
 });
-var fontD = new w.FontFaceObserver( "Open Sans", {
+var fontD = new w.FontFaceObserver( "Lato", {
 	weight: 500,
 	style: "italic"
 });

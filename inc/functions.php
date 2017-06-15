@@ -17,11 +17,12 @@ function format($text) {
 		"</table></figure>"
 		);
 	$text = str_replace($search, $replace, $text);
-	
+
 	return $text;
 }
 
 function smartypants($text) {
+	$text = SmartyPants::defaultTransform($text);
 	return $text;
 }
 ?>

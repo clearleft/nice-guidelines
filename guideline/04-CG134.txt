@@ -1,0 +1,31 @@
+# Anaphylaxis Assessment
+
+## Diagnosis
+
+* Document the acute clinical features of the suspected anaphylactic reaction
+* Record the time of onset of the reaction
+* Record the circumstances immediately before the onset of symptoms to help to identify the trigger
+
+## Investigation
+
+* Mast Cell tryptase
+	* Adults: timed blood sample after a suspected anaphylaxis in adults or young people > 16, first sample immediately after treatment started, second 1-2 hrs following
+	* Children: if suspected to be venom-related, drug-related or idiopathic
+
+## Management
+
+* After emergency treatment for suspected anaphylaxis, offer referral to a specialist allergy service
+* Blood sample may be required at follow-up to measure baseline mast cell tryptase
+Management
+* Adults and young people > 16 who have had emergency treatment for suspected anaphylaxis should be observed for 6–12 hours from the onset of symptoms, depending on response to emergency treatment
+* Children younger than 16 years who have had emergency treatment for suspected anaphylaxis should be admitted to hospital
+* Discharge: information about anaphylaxis, including
+* Signs and symptoms of an anaphylactic reaction
+* Risk of a biphasic reaction
+* What to do if an anaphylactic reaction occurs (adrenaline injector and call emergency services)
+* How to use injector
+* How to avoid suspected trigger
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg134">CG134 Anaphylaxis: assessment and referral after emergency treatment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,33 +1,33 @@
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-light.woff2') format('woff2'),
-	     url('/fonts/opensans-light.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-light.woff2') format('woff2'),
+	     url('/fonts/lato-light.woff') format('woff');
     font-style: normal;
     font-weight: 300;
     font-display: fallback;
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-semibold.woff2') format('woff2'),
-    	 url('/fonts/opensans-semibold.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-semibold.woff2') format('woff2'),
+    	 url('/fonts/lato-semibold.woff') format('woff');
     font-style: normal;
     font-weight: 600;
     font-display: fallback;
 }
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-regular.woff2') format('woff2'),
-    	 url('/fonts/opensans-regular.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-regular.woff2') format('woff2'),
+    	 url('/fonts/lato-regular.woff') format('woff');
     font-style: normal;
     font-weight: 500;
-    font-display: swap;
+    font-display: fallback;
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    src: url('/fonts/opensans-italic.woff2') format('woff2'),
-    	 url('/fonts/opensans-italic.woff') format('woff');
+    font-family: 'Lato';
+    src: url('/fonts/lato-italic.woff2') format('woff2'),
+    	 url('/fonts/lato-italic.woff') format('woff');
     font-style: italic;
     font-weight: 500;
     font-display: fallback;
@@ -42,13 +42,10 @@ body {
 	padding: 0;
 	font-weight: 500;
 	position: relative;
-	/* capital I with bars */
-	-webkit-font-feature-settings: "ss03" 1;
-	font-feature-settings: "ss03" 1;
 }
 
 .wf-active body {
-	font-family: 'Open Sans', 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
+	font-family: 'Lato', 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
 }
 
 /* @group Header */
@@ -68,7 +65,7 @@ header h1 {
 	letter-spacing: .071428571em;
 	padding: 1em 0;
 	margin: 0;
-	font-weight: 400;
+	font-weight: 500;
 }
 
 header a {
@@ -153,7 +150,7 @@ main h1 {
 }
 
 .wf-active main h1 {
-	font-family: 'Open Sans', 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
+	font-family: 'Lato', 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
 }
 
 main h2 {
@@ -235,6 +232,10 @@ nav ul {
 	padding: 0;
 	margin: 0;
 	max-width: none;
+}
+
+th, strong, b {
+	font-weight:500;
 }
 
 nav li {

@@ -1,0 +1,31 @@
+# Osteoporosis
+
+## Diagnosis
+
+* Consider assessment of fracture in women aged > 65, men > 75 OR under this age and following risk factors, but not routinely < 50 yrs:
+	* Previous fragility fracture
+	* Current use or frequent recent use of oral or systemic glucocorticoids or other causes of secondary osteoporosis
+	* History of falls
+	* Family history of hip fracture
+	* Low BMI (less than 18.5 kg/m2)
+	* Smoking
+	* Alcohol > 14 units per week  women, > 21 units per week for men
+
+## Investigation
+
+### Risk Assessment:
+* State absolute risk of fracture over 10 yrs using the following tools, within their age range and no Bone Mineral Density (BMD) available:
+	* FRAX
+	* QFracture
+* Do not routinely measure BMD without prior assessment using FRAX or QFracture
+* Measure BMD if assessment predicts at intervention threshold, or < 40 with a major fracture risk
+* Recalculate fracture risk if near threshold a minimum 2 yrs elapsed or new risk factor
+* Underestimation if: Gluco-cortoicosteroids > 7.5 mg daily, Excessive alcohol, previous vertebral fractures
+
+## Management
+
+* n/a
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg146">CG146 Osteoporosis: assessing the risk of fragility fracture</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
