@@ -1,0 +1,21 @@
+# Crohn’s Disease
+
+## Diagnosis
+
+* Give patients advice specifically on the following	* Smoking cessation	* Patient experience	* Medicines adherence	* Fertility* Once in remission discuss options for disease management including risk of inflammatory exacerbations without treatment
+  
+## Investigation
+* Assess thiopurine methyltransferase (TPMT) activity before offering azathioprine, avoid if depressed* Colonic surveillance in line with CG118* Bone mineral density only if co-existing low BMI, low trauma fracture or repeated gluco-corticosteroid usage
+
+## Management
+
+### Inducing Remission*  Monotherapy in first presentation of single exacerbation in 12 mth period consisting of Gluco-corticoid steroid (prednisolone, hydro-prednisolone, IV hydrocortisone)* Consider enteral nutrition as alternative to steroid if there is a growth concern* In right sided (distal ileal, ileo-caecal) who cannot tolerate conventional steroid, offer Budesonide (unconventional steroid) or 5-Amino-salicylate (though 5-ASA less effective)* Do not offer Azathioprine, Mercaptopurine OR Methotrexate as monotherapy to induce remission, instead offer Azathioprine Mercaptopurine OR Methotrexate in combination with a gluco-corticoid to induce remission if there are two of more exacerbations within 12 mths or if steroid cannot be tapered off* Infliximab and adalimumab (TNF-alpha Ab) should be offered in severe crohns that have not responded to or intolerant of conventional therapy* Severe crohns: weight loss, fever, severe abdo pain, 3-4 loose stools/day
+  
+###  Maintaining Remission* Offer Azathioprine or Mercaptopurine as monotherapy to maintain remission, as well as adverse prognostic factors post-surgical resection* Consider Methotrexate to maintain remission only if previous required to induce remission, or cannot tolerate Azathioprine or Mercaptopurine* Consider 5-ASA treatment to maintain remission post surgery* Do not offer gluco-corticoid steroids
+  
+### Surgery* Offer surgery if disease limited to the distal ileum, explore risks & benefits as well recurrence rates* Consider early in course of disease in before or early puberty whose growth is restricted
+  
+### Strictures* Balloon dilatation if single short stricture* Discuss benefits and risk of balloon dilatation and surgical resection with patient, surgeon, gastroenterologist
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg152">CG152 Crohn's disease: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

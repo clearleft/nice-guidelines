@@ -1,0 +1,11 @@
+# Barrett’s Oesophagus
+
+## Diagnosis
+* All treatments for high-grade dysplasia and intramucosal cancer in Barrett's oesophagus should be performed by specialist oesophago-gastric cancer teams
+
+## Investigation* n/a
+
+## Management* Endoscopic therapy i.e. circumferential endoscopic mucosal resection as an alternate to oesophagectomy with high grade (T1a) dysplasia if unsuitable for surgery or do not wish to undergo oesophagectomy* If residual or recurrent disease offer either endoscopic mucosal resection and / or ablative therapy to completely remove residual flat dysplasia
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg106">CG106 Barrett's oesophagus: ablative therapy</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

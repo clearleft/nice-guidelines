@@ -1,0 +1,42 @@
+# Neutropenic Sepsis Prevention
+
+## Diagnosis
+
+* Patients before starting and throughout their anticancer treatment, should have information on:
+	* Neutropenic sepsis
+	* How and when to contact 24-hour specialist oncology advice
+	* How and when to seek emergency care
+* Neutropenia: neutrophil count 0.5×109 per litre or lower
+* Neutropenic sepsis: temp > 38 or other signs symptoms consistent with clinically significant sepsis
+* Suspect neutropenic sepsis in patients having anticancer treatment who become unwell, and refer to secondary or tertiary care
+
+## Investigation
+
+* In suspected neutropenic sepsis perform: FBC, U+Es, LFTs incl albumin, CRP, lactate, blood culture
+  
+## Management
+
+* Fluoroquinolone prophylaxis: Adults with acute leukaemias, stem cell transplant or solid tumours in whom neutropenia is anticipated due to chemotherapy (for period of neutropenia)
+  
+### Managing Neutropenic Sepsis in Secondary Care:
+* Treat as medical emergency
+* Empirical antiobiotics: Beta lactam monotherapy with Piperacillin and Tazobactam
+* Do not offer Aminoglycoside
+* Do not offer empiric glycopeptide in suspected neutropenic sepsis who have central venous access
+* Do not switch initial empiric antibiotics if unresponsive fever unless clinical deterioration or a microbiological indication
+* Switch from IV to oral antibiotic therapy after 48 hours of treatment in low risk patients
+* Do not remove central venous access devices as part of management
+* Try to identify underlying cause:
+	* Additional peripheral blood culture if central venous access if feasible
+	* Urinalysis in all children aged under 5 years
+* No chest X ray unless clinically indicated
+  
+### Risk Assess
+
+Using presentation features and a validated risk scoring tool:
+
+* Low risk: outpatient antibiotic therapy for patients accounting for social and clinical situation
+* High risk: review the patient's clinical status daily, reassess the patient's risk of septic complications
+* Continue inpatient empiric antibiotic therapy in all patients who have unresponsive fever unless an alternative cause of fever is likely
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg151">CG151 Neutropenic sepsis: prevention and management in people with cancer</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

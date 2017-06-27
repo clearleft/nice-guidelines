@@ -1,0 +1,11 @@
+# Coeliac Disease
+
+## Diagnosis* n/a
+  
+## Investigation* Offer serological testing for coeliac disease to anyone with any of the following signs & symptoms:	* Chronic or intermittent diarrhoea	* Failure to thrive or faltering growth (in children)	* Persistent or unexplained gastrointestinal symptoms including nausea and vomiting	* Prolonged fatigue ('tired all the time')	* Recurrent abdominal pain, cramping or distension	* Sudden or unexpected weight loss	* Unexplained iron-deficiency anaemia, or other unspecified anaemia* Offer serological testing for coeliac disease to anyone with any of the following conditions:	* Autoimmune thyroid disease	* Dermatitis herpetiformis	* Irritable bowel syndrome	* Type 1 diabetes	* OR first-degree relatives (parents, siblings or children) with coeliac disease*  Serological (Ab) testing is accurate only if person continues with gluten in diet (or started eating gluten in infants), and that is not diagnostic, but indicates further testing required i.e. specialist referral for intestinal biopsy*  Laboratories should use IgA tissue transglutaminase (tTGA) as the first choice test* Only start gluten free diet once diagnosis is confirmed with intestinal biopsy, even if other test are positive* Delay in lab based testing prolongs ill health, failure to thrive, and other complications e.g. osteoporosis
+
+## Management
+* n/a
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg86">CG86 Coeliac disease: recognition and assessment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

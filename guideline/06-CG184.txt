@@ -1,0 +1,28 @@
+# Dyspesia and GORD
+
+## Diagnosis* GORD refers to endoscopically determined oesophagitis or endoscopy-negative reflux disease
+
+## Investigation* n/a
+  
+## Management
+
+### Conservative* Community Pharmacist should offer help for OTC dyspepsia treatments & lifestyle modification* Lifestyle: Diet, weight reduction, smoking cessation* Avoid known precipitants: Alcohol, fatty food, smoking, coffee, chocolate* Psychotherapy / CBT may reduce symptoms in the short term in some people
+  
+### Referral for Endoscopy* Review medications causing dyspepsia: NSAID; Bisphosphonates; Theophyllines, Corticosteroids* Dyspepsia with acute bleeding: refer to specialist – see CG141, if no new symptoms since last endoscopy continue with previous recommendations
+  
+### Treating Un-investigated Dyspepsia & ‘Reflux like’ symptoms* Offer PPI therapy for 4 weeks, and H. Pylori ‘test and treat’ to people with dyspepsia (triple therapy)* Allow 2 weeks to wash out before testing for H. Pylori with breath test (C13) or stool antigen, re-testing with breathe test only* H2 receptor antagonist if there is an inadequate response to PPI* If symptoms return after initial care step down to minimum dose to control symptoms
+  
+### GORD Treatment* Full dose PPI for 4-8 weeks* If symptoms return after initial care step down to minimum dose to control symptoms* H2 receptor antagonist if there is an inadequate response to PPI* If stricture dilatation then remain on full dose PPI* Consider endoscopy to diagnose Barrett’s if patient has GORD, but not routinely
+  
+### Severe Oesophagitis*  Full dose PPI for 8 wks* If not controlled symptoms switch to another full dose PPI, and continue at full dose if required
+  
+### Peptic Ulcer Disease* Offer H. Pylori eradication triple therapy if test positive for H. Pylori, and have peptic ulcer disease* Stop NSAIDs if diagnose peptic ulcer disease (Endoscopy) and treat with PPI or H2RA for 8 wks* Offer repeat endoscopy and testing at 6-8 wks* Review need for NSAIDs at least every 6 mths and trial ‘as-needed’, if req’d consider COX-2 selective* If ulcers persist consider non-adherence, malignancy, continued NSAID use or rarely Zollinger Ellison
+  
+### Functional (Idiopathic) Dyspepsia* Offer eradication to those testing positive for H. Pylori* Discuss PPI on an ‘as needed’ basis, avoiding long term ant-acid therapy
+  
+### H. Pylori Eradication* Offer PPI, Amoxicillin, Metronidazole or Clarithromicin for 7 days BD (Pen allergic  use Clarithromicin and Metronidazole), repeat for a second time if required, then refer is not successful
+  
+### Laparoscopic Fundoplication* Consider for those with confirmed diagnosis of acid reflux, and adequate control with acid suppression therapy but do want to continue or cannot tolerate* If Barrett’s oesophagus diagnoses, offer endoscopic surveillance for cancer progression
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg184">CG184 Gastro-oesophageal reflux disease and dyspepsia in adults: investigation and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

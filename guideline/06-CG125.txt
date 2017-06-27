@@ -1,0 +1,24 @@
+# Peritoneal Dialysis
+
+## Diagnosis
+
+* All options for dialysis should be discussed including risks, efficacy, benefits and side effects, including Continuous Ambulatory Peritoneal Dialysis should (CAPD), Automated Peritoneal Dialysis (APD) and ion-home or in-centre haemodialysis
+* Ensure patient understands CKD is a lifelong disease
+* Offer all with CKD stage 5 a choice of peritoneal or haemodialysis, but consider peritoneal dialysis first choice if:
+	* Children 2 or younger
+	* Adults without significant co-morbidities
+	* Those with residual renal function
+* When discussing options recognise patients priorities are not same as clinical priorities
+* Do not switch routinely in anticipation of future complications such as encapsulating peritoneal sclerosis, but consider switching if patient / carer asks
+
+## Investigation
+
+* n/a
+
+## Management
+
+* n/a
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg125">CG125 Chronic kidney disease (stage 5): peritoneal dialysis</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

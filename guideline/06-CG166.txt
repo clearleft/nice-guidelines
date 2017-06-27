@@ -1,0 +1,39 @@
+# Ulcerative Colitis
+
+## Diagnosis
+
+* Truelove and Witts' severity index:
+
+<table>
+<thead>
+<tr><th></th><th>Mild</th><th>Moderate</th><th>Severe</th></tr>
+</thead>
+<tbody>
+<tr><td>Bowel Movements/day</td><td><4</td><td>4–6</td><td>>6</td></tr>
+<tr><td>Blood in Stool</td><td>Small amount</td><td>In between</td><td>Visible blood</td></tr>
+<tr><td>Pyrexia (>37.8)</td><td>No</td><td>No</td><td>Yes</td></tr>
+<tr><td>HR >90</td><td>No</td><td>No</td><td>Yes</td></tr>
+<tr><td>Anaemia</td><td>No</td><td>No</td><td>Yes</td></tr>
+<tr><td>ESR</td><td><30</td><td><30</td><td>>30</td></tr>
+</tbody>
+</table>
+* Subacute: moderately to severely active ulcerative colitis that would normally be managed in an outpatient setting and does not require hospitalisation
+
+## Investigation* FBC* ESR
+  
+## Management
+
+### Mild to Moderate UC Inducing Remission – STEP 1* Proctitis and Procto-sigmoiditis: Topical amino-salicyclate (Mesalazine) suppository or enema +/- PO, if cannot tolerate then topical cortico-steroid or oral Prednisolone accounting for patient preference* Left sided or extensive UC: high dose amino-salicyclate (Mesalazine) PO +/- topical amino-salicyclate or Beclometasone Dipropionate accounting for patient preference
+  
+### Mild to Moderate UC Inducing Remission – STEP 2* If no improvement in 4 weeks consider adding Prednisolone PO to amino-salicyclate. Stop Beclometasone Dipropionate if adding oral prednisolone
+  
+### Acute Severe UC (all extents) – STEP 1* IV Cortico-steroids and assess whether needs surgery* If cannot tolerate / declines IV Cortico-steroids then consider Ciclosporin (Immunosuppressant) or surgery
+  
+### Acute Severe UC (all extents) – STEP 2* Consider adding intravenous Ciclosporin to intravenous corticosteroids or consider surgery for people who have little or no improvement within 72 hours, or worsen on steroids* Infliximab – See NICE technology appraisal CG163
+  
+### Surgery Indicated if:* Stool frequency > 8 day* Pyrexia* Tachycardia* X-ray showing colonic dilatation
+  
+### Maintaining Remission* Proctitis and Procto-sigmoiditis: amino-salicyclate topical +/- PO daily or intermittent* Left sided or extensive UC: amino-salicyclate PO daily or intermittent* Consider oral Azathioprine or oral Mercaptopurine to maintain remission after two or more inflammatory exacerbations in 12 months, and not maintained by ASA OR single episode or acute severe UC
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg166">CG166 Ulcerative colitis: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

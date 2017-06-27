@@ -1,0 +1,145 @@
+# Diarrhoea and Vomiting in Children
+
+## Diagnosis
+
+
+* Suspect gastroenteritis if sudden change in stool consistency, diarrhoea usually last 5-7 days, stops within 2 wks, Vomiting usually lasts 1-2 days, stops within 3 days
+* Consider alternate diagnoses to gastroenteritis
+	* > 38 deg < 3mths, >39 deg > 3 mths
+	* Altered consciousness, neck stiffness, non-blanching rash
+	* Bilious green vomit, severe or localised abdominal pain, distention of rebound tenderness
+
+### Dehydration status:
+
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Not dehydrated</th>
+<th>Clinical Dehydration</th>
+<th>Clinical Shock</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>General</th>
+<td>Appears well</td>
+<td>Unwell: RED FLAG</td>
+<td></td>
+</tr>
+<tr>
+<th>Consciousness</th>
+<td>Alert responsive</td>
+<td>Altered: RED FLAG</td>
+<td>Decreased</td>
+</tr>
+<tr>
+<th>Urine output</th>
+<td>Normal</td>
+<td>Decreased</td>
+<td></td>
+</tr>
+<tr>
+<th>Skin colour</th>
+<td>Unchanged</td>
+<td>Unchanged</td>
+<td>Pale / mottled</td>
+</tr>
+<tr>
+<th>Extremities</th>
+<td>Warm</td>
+<td>Warm</td>
+<td>Cold</td>
+</tr>
+<tr>
+<th>Eyes</th>
+<td>Not sunken</td>
+<td>Sunken: RED FLAG</td>
+<td></td>
+</tr>
+<tr>
+<th>Mucous membranes</th>
+<td>Moist</td>
+<td>Dry</td>
+<td></td>
+</tr>
+<tr>
+<th>Heart rate</th>
+<td>Normal</td>
+<td>Tachycardia: RED FLAG</td>
+<td>Tachycardia: RED FLAG</td>
+</tr>
+<tr>
+<th>Respiratory rate</th>
+<td>Normal</td>
+<td>Tachypnoea: RED FLAG</td>
+<td>Tachypnoea: RED FLAG</td>
+</tr>
+<tr>
+<th>BP</th>
+<td>Normal</td>
+<td>Normal</td>
+<td>Hypotensive</td>
+</tr>
+<tr>
+<th>Peripheral pulses</th>
+<td>Normal</td>
+<td>Normal</td>
+<td>Weak</td>
+</tr>
+<tr>
+<th>Cap refill</th>
+<td>Normal</td>
+<td>Normal</td>
+<td>Prolonged</td>
+</tr>
+<tr>
+<th>Skin turgor</th>
+<td>Normal</td>
+<td>Reduced: RED FLAG</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+### Hypernatreamia
+
+* Hyper-reflexia
+* Drowsiness
+* Convulsions
+
+
+## Investigation
+
+
+* Stool micro-biology if:
+	* Child returned from abroad
+	* Not improved in 7 days
+	* Septicaemia
+	* Immunocompromised
+	* Blood / Mucus in stool
+* Blood culture if giving anti-biotics
+* U+E + glucose if suspect hypernatraemia
+
+## Management
+
+### Not dehydrated:
+* Continue breastfeeding, encourage fluid intake, but not carbonated or fruit juices
+
+### Dehydrated:
+* ORS solution (low Osm 240-250) unless IV therapy indicated 50 ml/kg for deficit over 4 hrs plus maintenance, give frequently in small amounts, via nasogastric tube as necessary
+* IV therapy 20 ml/kg 0.9% Sodium chloride, if shock is suspected of confirmed, or if child with red flags is deteriorating
+* If remains shocked give another 20 ml/kg and consider other cause of shock, if no response consider child ICU
+
+### Rehydration: 
+* 100 ml/kg for those requiring rapid boluses for shock or 50 ml/kg for those not shocked on presentation and measure U+Es giving K+ as required
+* If hypernatraemic give 0.9% sodium chloride slowly, typically 48 hrs, switching to ORS when tolerated
+* After rehydration encourage breast feeding / fluid intake, or ORS 5 ml/kg if watery stool
+* During rehydration, do not give solid food. Reintroduce once hydrated
+* Only give anti-biotics if septicaemia, < 6mths (or immunocompromised) with Salmonella gastroenteritis
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg84">CG84 Diarrhoea and vomiting caused by gastroenteritis in under 5s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

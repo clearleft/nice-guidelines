@@ -1,0 +1,16 @@
+#  Colonic Surveillance
+
+## Diagnosis
+* Offer colonic surveillance in IBD (UC and Crohns) in patients who have had symptoms > 10 yrs  (baseline colonoscopy with chromoscopy (staining) and targeted biopsy of any abnormal areas to determine their risk of developing colorectal cancer)* Consider colonoscopic surveillance for people with adenomas removed and at low risk
+  
+## Investigation
+
+### IBD* Low risk: extensive but quiescent UC or Crohns or limited extent* Medium risk: extensive and mildly irritated UC or Crohns, OR post inflammatory polyps OR first degree relative > 50 with colorectal cancer* High risk: extensive and moderately or severely irritated UC or Crohns, OR primary sclerosing cholangitis, OR colonic stricture, OR any grade dysplasia, OR first degree relative < 50 with colorectal cancer
+  
+### Previous Adenomas* Low risk: one or two adenomas smaller than 10 mm* Intermediate risk: 3 or 4 adenomas < 10 mm or 1 or 2 adenomas if one is 10 mm or larger* High risk: 5 or more adenomas < 10 mm or 3 or more adenomas if one is 10 mm or larger
+  
+## Management
+    * Colonic Surveillance in patients with IBD:	* Low risk: offer colonoscopy at 5 years	* Intermediate risk: offer colonoscopy at 3 years	* High risk: offer colonoscopy at 1 year* Colonic Surveillance in patients with previous adenomas:	* Low risk: consider colonoscopy at 5 years	* Intermediate risk: offer colonoscopy at 3 years	* High risk: offer colonoscopy at 1 year* If colonoscopy not appropriate consider CT colonoscopy or if not appropriate double contrast barium enema
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg118">CG118 Colorectal cancer prevention: colonoscopic surveillance in adults with ulcerative colitis, Crohn's disease or adenomas</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

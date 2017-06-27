@@ -1,0 +1,63 @@
+# Irritable Bowel Syndrome
+
+## Diagnosis
+
+
+* Confirming a diagnosis of IBS is a crucial part of this guideline. The primary aim should be to establish the person's symptom profile
+* Consider IBS if:
+	* Abdominal pain
+	* Bloating
+	* Change in Bowel habit
+* RED FLAGs: rectal bleeding, weight loss, change in bowel habit looser more frequent, Fx Ca, rectal or abdominal masses (test for CA-125), anaemia
+* Diagnose IBS if abdominal pain relived by defecation OR a/w altered bowel habit PLUS two of:
+	* Abdominal bloating
+	* Altered stool passage
+	* Passage of mucus
+	* Made worse by eating
+
+##  Investigation
+
+
+* Should be undertaken to rule out other cause:
+	* Antibody testing for Coeliac disease
+	* FBC
+	* ESR / CRP
+*  The following are not necessary to confirm diagnosis:
+	* USS
+	* Flexi-sig
+	* Colonoscopy
+	* TFT
+	* Faecal occult blood
+	* Ova
+	* Parasite
+	* H2 breath test (overgrowth)
+
+## Management
+
+### Dietary and Lifestyle
+
+
+* Regular meals, avoid missing meals
+* 8 cups of fluid / day, but restrict caffeine and tea to 3 cups
+* Reduce alcohol and fizzy drinks
+* Limit intake of high fibre food: especially if constipated
+* Limit fresh fruit to 3 portions a day: especially if have diarrhoea
+* Avoid sorbitol (artificial sweetener) if have diarrhoea
+* Add oats and linseed (soluble fibre)
+* Pro-biotics: take for 4 weeks and monitor impact
+* If symptoms persist specialist dietician should supervise:
+	* Single food avoidance diets
+	* Low FODMAP foods: fermentable sugars e.g. apples, pears, onions
+
+### Pharmacological Therapy
+
+
+* Anti-spasmodic agents
+* Laxatives: constipation, titrated to symptoms
+* Loperamide: diarrhoea
+* If ineffective: Tri-Cyclic anti-depressants low dose or SSRIs
+* If in effective after 12 months consider CBT
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg61">CG61 Irritable bowel syndrome in adults: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

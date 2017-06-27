@@ -1,0 +1,29 @@
+# Chronic Hepatitis B
+
+## Diagnosis* Provide patient with information re stages of disease, prognosis, transmission, family planning, anti-viral treatment, risk of non adherence* If HBsAG positive and pregnant refer for treatment in 3rd trimester
+  
+## Investigation
+* If HBsAg (surface antigen) positive) indicates either acute or chronic infection with HBV, then test:	* HBeAg (e antigen): chronic infection marker and more infective	* Anti-HBe (e Antibody):either recovered or infected	* IgM to core antibody: acute infection marker	* HBV-DNA level	* Anti-HCV (Hep C antibody)	* Anti-HIV (HIV antibody)* LFTs to include: ALP, AST, GGT
+  
+### Specialist Referral:
+
+* Transient elastography (fibroscan), stiffer = disease	* >11 kpa offer anti-virals	* 6-10 kpa: offer biopsy	* <6 kpa & AST <30 do not offer biopsy nor anti-viral as unlikely to have advanced disease	* HBV > 20,000 off anti-viral irrespective of transient elastography* Offer annual re-assessment* Children / young adults use HBV DNA > 2000, AST > 30 to offer biopsy / anti-virals* Monitoring:	* Immune clearance phase (HBeAg positive): ALT every 24 weeks	* Chronic in-active phase: ALT and HBV-DNA every 48 wks or more frequent if cirrhosis* Test for hepato-cellular carcinoma (HCC): USS and alpha-Feto protein 6 monthly if severe fibrosis
+
+## Management
+
+### HBeAg positive treatment & Compensated Liver Disease* First Line: 48 wk Peginterferon alfa-2a anti-viral* Stop at 24 wks if DNA level not dropping and switch to second line* If end point seroconversion of HBeAg to HBeAb not detected (active to carrier status) then:* Second line: Tenofovir disoproxil or Entecavir* Review adherence if still significant HBV-DNA > 48 wks
+  
+### HBeAg positive treatment & Compensated Liver Disease* As above, but HBeAg sero-conversion not relevant
+  
+### Children with BC and Compensated Liver Disease* 48 wk Peginterferon alfa-2a* Stop at 24 wks if DNA level not dropping and switch to second line: nucleotide analogue
+  
+### Adults with Decompensated Liver Disease* First line: Entecavir* Manage in conjunction with transplant centre
+  
+### Pregnancy* If HBV-DNA > 107 offer Tenofovir disoproxil in 3rd trimester to minimise transmission risk* Continue to monitor post pregnancy for postnatal HBV flares
+  
+### HCV Co-Infection* Offer peginterferon alfa and ribavirin
+  
+### Prophylaxis Treatment During Immunosuppressive Therapy* If HBsAg and HBV-DNA > 2000 offer entecavir or tenofovir disoproxil
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg165">CG165 Hepatitis B (chronic): diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

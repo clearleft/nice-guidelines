@@ -1,0 +1,46 @@
+# Sickle Cell Acute
+
+## Diagnosis
+
+* Throughout an acute painful sickle cell episode, regard the patient / carer as an expert in their condition, listen to their views and discuss: previous treatment, planned treatment, their concerns
+* Moderate pain: VAS score 4-7
+* Severe pain: VAS score >7
+  
+## Investigation
+
+* Clinically assess: BP; Sats (<95%, offer O2); HR; RR; temperature
+
+## Management
+
+### Analgesia
+* Offer analgesia < 30 mins of presentation with an acute painful sickle cell episode:
+	* Account for analgesia taken for the current episode before presentation
+	* Ensure drug, dose and administration route are suitable for the severity of the pain and age
+	* Refer to the patient's individual care plan if available
+* Opioid bolus to all patients in severe pain OR moderate pain who’ve already had some analgesia
+* Offer all patients regular paracetamol and NSAIDs in addition to opioid unless contra-indicated
+* Assess the effectiveness of pain relief:
+* Every 30 min until satisfactory pain relief achieved using an age-appropriate pain scoring tool
+* If severe pain on reassessment, offer a second bolus dose of a strong opioid
+* Consider patient-controlled analgesia if repeated bolus doses of strong opioid needed within 2 hrs
+* If taking an Opioid offer, and monitor every hour for first 6 hours:
+	* Laxatives on a regular basis
+	* Anti-emetics as needed
+	* Antipruritics as needed
+  
+### Complications:
+* Be aware of the possibility of acute chest syndrome with the following symptoms:
+	* Abnormal respiratory signs and/or symptoms
+	* Chest pain
+	* Fever
+	* Signs and symptoms of hypoxia: Sats < 95% or an escalating O2 requirement
+* Acute stroke
+* Aplastic crisis
+* Infections
+* Osteomyelitis
+* Splenic sequestration (trapping of sickles cells)
+* Do not use corticosteroids in the management of an uncomplicated acute painful sickle cell episode
+* Encourage own coping mechanisms (for example, relaxation techniques) for dealing with acute pain
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg143">CG143 Sickle cell disease: managing acute painful episodes in hospital</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

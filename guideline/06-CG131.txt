@@ -1,0 +1,20 @@
+# Colo-Rectal Cancer
+
+## Diagnosis
+
+* Advise patient several test maybe necessary* Stage 1: invading lamina propria and submucosa* Stage 2: invading muscularis propria* Stage 3: invading adventitia* Stage 4: invasion of adjacent structures
+  
+## Investigation
+* Without co-morbidity: colonoscopy and biopsy of suspicious lesion* With comorbidity: Flexi-sigmoidoscopy then barium enema, biopsy unless contra-indicated* CT colonography offered where expertise sufficient, though must be followed by colonoscopy with biopsy to confirm* Colorectal cancer staging: Contrast enhanced CT* Rectal Cancer staging: MRI or endorectal USS if MRI contra-indicated* Rectal Cancer recurrence predicted by MRI:	* High: a breached resection margin, or low tumours encroaching into inter-sphincteric plane	* Medium Any cT3b (invading adventitia) in which surgical margin not breached, Or any suspicious lymph node not threatening the resection margin OR presence of extramural vascular invasion	* Low: cT1, cT2, cT3 and no lymph node involvement
+
+## Management
+
+### Acute large bowel obstruction* Colonic stents: consider if acute large bowel, offer CT chest abdo pelvis to confirm mechanical obstruction and presence of metastasis* If acute left sided large bowel obstruction offer stent (but not right sided nor low rectal):	* Curable: offer either stent or emergency surgery as evidence equivocal	* Non-curable: offer self-expanding stent, endoscopically or radiologically
+  
+### Rectal cancer* Low risk resectable per above criteria: do not offer short-course preoperative radiotherapy (SCPRT)* Medium risk: do offer short-course preoperative radiotherapy (SCPRT)* High risk: pre-operative chemotherapy to shrink tumour before resection* Patients whose colon or rectal cancer appears unresectable: discuss risk of local recurrence and local toxicity after discussion in MDT* Stage 1: MDT should decide treatment, little evidence of efficacy between options* Stage 2 & 3: consider adjuvant chemotherapy to reduce recurrence
+  
+    
+### Colorectal cancer* Stage 1: following excision MDT consider further treatment accounting for pathology and imaging* Stage 2: adjuvant chemotherapy to reduce risk of recurrence* Stage 3 (Dukes C): adjuvant chemotherapy using Capecitabine as monotherapy OR Oxaliplatin in combination with 5-fluorouracil and folinic acid* Stage 4: Prioritise symptom management	* Hepatic metastases: CT imaging, MDT to decide whether surgical resection is suitable	* Non-Hepatic metastasis: Contrast enhanced CT chest abdo pelvis, brain only if indicated, and follow up by anatomical site specific MDT&* Chemotherapy for advanced disease: Oxaliplatin and irinotecan in combination with fluoropyrimidines (FOLFOX), following full discussion regarding side effects* Consider Raltitrexed who are intolerant to 5-fluorouracil and folinic acid* Capecitabine & tegafur with uracil offered as first-line option tx of metastatic colorectal cancer* Laparoscopy: maybe used as an acceptable alternative to open surgery
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg131">CG131 Colorectal cancer: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

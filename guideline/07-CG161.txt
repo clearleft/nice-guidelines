@@ -1,0 +1,47 @@
+# Falls Assessment
+
+## Diagnosis
+
+*  Risk identification: older person in contact with healthcare professional ask if fallen in past year, and observe for balance or gait deficit
+* Conduct multifactorial falls risk assessment if present with fall, balance or gait deficit, considering:
+	* Falls history
+	* Gait, balance and mobility, and muscle weakness
+	* Osteoporosis risk
+	* Perceived functional ability and fear relating to falling
+	* Visual impairment
+	* Cognitive impairment and neurological examination
+	* Urinary continence
+	* Hazards at home
+	* Cardio-vascular examination
+* In hospital also consider:
+	* Footwear that is unsuitable or missing
+	* Syncope syndrome
+  
+## Investigation
+
+* Regard the following groups of inpatients to be at risk in hospital:
+	* All patients >65 years
+	* Patients 50-64 years judged by clinician to be at higher risk due to underlying condition
+* Do not use fall risk prediction tools to predict inpatients' risk of falling in hospital
+
+## Management
+
+* All older people with recurrent falls or assessed as being at increased risk of falling should be considered for an individualised multifactorial intervention, comprising:
+	* Strength and balance training: muscle strengthening when appropriate
+	* Home hazard assessment and intervention
+	* Vision assessment and referral
+	* Medication review with modification/withdrawal, especially psychotropic medications
+* Cardiac pacing should be considered for cardioinhibitory carotid sinus hypersensitivity
+* Discuss what changes patient willing to make, and address potential barriers
+* Do not recommend brisk walking: may increase risk
+* Little evidence for:
+	* Low intensity exercise combined with incontinence programmes
+	* Group exercise (untargeted)
+	* Cognitive/behavioural interventions
+	* Referral for correction of visual impairment
+	* Vitamin D
+	* Hip protectors
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg161">CG161 Falls in older people: assessing risk and prevention</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

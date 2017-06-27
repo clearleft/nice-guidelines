@@ -1,0 +1,53 @@
+# Opioids in Palliative Care
+
+## Diagnosis
+
+* When offering pain treatment with strong opioids to a patient with advanced and progressive disease, ask them about concerns such as:
+	* Addiction
+	* Tolerance
+	* Side effects
+	* Fears that treatment implies the final stages of life
+* Provide verbal and written information on strong opioid treatment to patients and carers including:
+	* When and why strong opioids are used to treat pain
+	* How effective they are likely to be
+	* Taking strong opioids for background and breakthrough pain, addressing: how, when and how often to take strong opioids & how long pain relief should last
+	* Side effects and signs of toxicity
+	* Safe storage
+	* Follow-up and further prescribing
+
+## Investigation
+
+* n/a
+  
+## Management
+
+### Starting Strong Opioids - Titrating the Dose:
+
+* Regular oral sustained-release or oral immediate-release morphine (patient preference) with rescue doses of oral immediate-release morphine for breakthrough pain
+* Renal or hepatic comorbidities, offer a total daily starting dose of 20–30 mg of oral morphine (i.e. 10-15 mg sustained release BD) + 5 mg immediate release PRN
+* Adjust the dose until a good balance exists between acceptable pain control and side effects
+  
+### First Line Maintenance:
+
+* Oral sustained-release morphine
+* If oral opioids are not suitable (consider with specialist advice):
+	* Transdermal patch formulations but not routinely
+	* Subcutaneous morphine
+  
+### First Line Breakthrough Pain:
+
+* Oral immediate-release morphine
+* Do not offer fast-acting fentanyl, if pain remains inadequately controlled despite optimising treatment, consider seeking specialist advice
+  
+### Management of constipation
+* Prescribe laxative treatment regularly at an effective dose, advise takes time to work and adherence important
+
+### Management of nausea
+* advise likely transient, if persists prescribe and optimise anti-emetic treatment before considering switching strong opioids
+
+### Management of drowsiness
+* consider dose reduction if pain is controlled or consider switching opioids if pain, specialist advice if continues
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg140">CG140 Palliative care for adults: strong opioids for pain relief</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

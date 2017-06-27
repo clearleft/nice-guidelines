@@ -1,0 +1,58 @@
+# Organ Donation
+
+## Diagnosis
+
+* Organ donation should be considered as a usual part of 'end-of-life care' planning
+* Identify all patients who are potentially suitable donors as early as possible
+   
+## Investigation
+
+* Identification should be based on:
+	* Absence of one or more cranial nerve reflexes and
+	* Glasgow Coma Scale (GCS) score of 4 or less that is not explained by sedation
+
+## Management
+
+* Healthcare team caring for the patient should initiate discussions about potential organ donation with the specialist nurse for organ donation at the time the above criteria are met
+* Where  patient has capacity, obtain their views on, and consent to, organ donation
+* Where patient lacks capacity to make decisions about end-of life-care, establish whether taking steps, before death, to facilitate organ donation would be in the best interests of the patient
+* Provided that delay is in the patient's overall best interests, life-sustaining treatments should not be withdrawn or limited until the patient's wishes around organ donation have been explored
+* Consider:
+	* Advanced directives
+	* Patients belief, values
+	* Whether patient registered and recorded consent on the NHS organ donor register
+	* Explore with family friends whether patient expressed views about organ donation
+	* Views of patients family and friends
+* If consent not already gained: consent for organ donation should be sought from those in a qualifying relationship with the patient
+  
+### Approach to those Close to the Patient
+
+* MDT:
+	* Medical and nursing staff involved in care of the patient, led by an identifiable consultant
+	* Specialist nurse for organ donation
+	* Local faith representative
+  
+### Before approaching:
+
+* Identify patient's potential for donation in consultation with the specialist nurse for organ donation
+* Check NHS organ donor register and advance statements, Lasting Power of Attorney
+* Clarify coronial, legal and safeguarding issues
+* Knowledge of the clinical history of the patient who is a potential donor
+* Identification of key family members
+* Assessment of whether family support is required: faith representative, family liaison officer, bereavement service, trained interpreter, advocate
+* Identification of other key family issues
+* Identification of cultural and religious issues
+* Approach Those Close to Patient in a setting suitable for private and compassionate discussion
+* Should only take place when clearly established they understand death is inevitable or has occurred
+	* Discuss with them that donation is a usual part of the end-of-life care
+	* Open-ended questions 'how do you think your relative would feel about organ donation?'
+	* Positive ways to describe organ donation
+	* Avoid the use of apologetic or negative language
+	* Assurance that primary focus is on the care and dignity of the patient
+	* Explicit confirmation and reassurance that the standard of care received will be the same whether they consider giving consent for organ donation or not
+	* Rationale behind the decision to withdraw or withhold life-sustaining treatment and how the timing will be coordinated to support organ donation
+	* Clear explanation of, and information on the process of organ donation
+* Discuss withdrawal of life-sustaining treatment or neurological death before and at a different time from, discussing organ donation
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg135">CG135 Organ donation for transplantation: improving donor identification and consent rates for deceased organ donation</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

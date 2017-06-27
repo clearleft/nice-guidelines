@@ -1,0 +1,60 @@
+# Faecal Incontinence
+
+## Diagnosis
+
+* Focussed baseline assessment required: identify contributory factors
+	* Hx and Exam including Ano-rectal examination
+	* Cognitive assessment where necessary
+* Management of condition specific interventions:
+	* Faecal loading
+	* Treatable: Infective; IBD etc
+	* Lower Gastro Cancer
+	* Rectal prolapse
+	* Anal sphincter injury (3rd and 4th degree obstetric injury)
+	* Cauda equine / disc prolapse
+
+## Investigation
+
+* n/a
+
+## Management
+
+### Conservative
+
+
+* Diet manage stool consistency, modify 1 item a time, nutritionally balanced, consider malnutrition
+* Dehydration / hard stools: manage 1.5 Litres per day
+* Bowel habit training: post meal, private accessible toilet, avoid straining, sitting or squatting
+* Emotional and psychological support
+* Offer continence products: sufficient body worn disposable pads, anal plug, skin care, odour control
+
+### Medication
+
+
+* Consider drugs that may cause incontinence, excessive laxative use or dietary factors first
+* Offer anti-diarrhoeal (Loperamide) once these causes excluded, initial low dose, increased as req’d
+* Do not give Loperamide if: Acute diarrhoea without known cause, UC, hard stools
+* If faecally loaded: rule out obstruction then offer rectal laxative, or oral if unsuccessful
+
+### Specialist Intervention – especially neurological spinal disease / injured patients
+
+
+* Pelvic floor muscle retraining: monitored by digital assessment
+* Bowel retraining
+* Rectal irrigation
+* Electrical stimulation
+* If remain symptomatic consider: ano-rectal physiology studies and imaging
+* If remain symptomatic: emotional and psychological support, 6 mth review
+* If cognitively impaired consider behavioural and functional analysis to determine if behavioural
+
+### Surgical
+
+
+* Surgical repair for those with full length external sphincter defect greater than 90 degrees
+* Factors reducing effectiveness: pudendal nerve injury, internal sphincter injury, external atrophy
+* If surgery not an option consider sacral nerve stimulation
+* If nerve stimulation unsuccessful consider neo-sphincter: graciloplasty or artificial anal sphincter
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg49">CG49 Faecal incontinence in adults: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

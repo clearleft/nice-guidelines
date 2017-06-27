@@ -1,0 +1,21 @@
+# Constipation in Young Children
+
+## Diagnosis
+### Constipation history taking key components* Stool patterns: < 3 complete stools; rabbit dropping; hard stools; overflow diarrhoea (>1yr)* Associated symptoms: distress on stooling; bleed; straining; poor appetite improving with passage of stool (>1yr); retentive posturing (>1yr)* History: previous constipation; anal fissure; painful bowel movements and bleed a/w hard stools
+
+### Idiopathic vs Underlying Disorder* Timing of onset:	* Idiopathic: starts after a few wks of life, obvious precipitating factors	* Not idiopathic: starts at birth* Passage of meconium	* Idiopathic: passing within 48hrs	* Not idiopathic: not passing within 48hrs*  Stool pattern	* Idiopathic:	* Not idiopathic: ribbon stool* Growth	* Idiopathic: within limits	* Not idiopathic*  Locomotor	* Idiopathic: within limits	* Not idiopathic: locomotor delay* Diet	* Idiopathic: insufficient fluid intake, poor diet insufficient fluid intake (>1yr)	* Not idiopathic
+
+### Examination findings suggestive of underlying disorder:
+
+* Perianal fissures; tight or patulous anus* Gross abdominal distention* Spine / lumbosacral region: asymmetry of gluteal area, sacral agenesis, hairy patch* Lower limb deformity e.g. talipes* Abnormal reflexes
+  
+## Investigation
+* Digital rectal exam by competent individual able to determine Hirschsprung’s disease in an infant* Test for coeliac disease and hypothyroidism in the ongoing management of intractable constipation* Consider using a plain abdominal radiograph, transit studies, and USS only if requested by specialist services* Rectal biopsy for Hirschsprung’s disease if the following present	* Delayed passage of meconium (more than 48 hours after birth in term babies)	* Constipation since first few weeks of life	* Chronic abdominal distension plus vomiting	* Family history of Hirschsprung's disease	* Faltering growth
+## Management
+
+### Acute* Oral medication regimen for disimpaction if indicated: rectal medications if oral medications failed* Polyethylene glycol 3350 + electrolytes, using an escalating dose regimen as the first-line* Add a stimulant laxative if polyethylene glycol 3350 + electrolytes not successful after 2 weeks* Substitute a stimulant laxative singly or in combination with an osmotic laxative (lactulose) if polyethylene glycol 3350 + electrolytes is not tolerated* Inform families that disimpaction treatment can initially increase symptoms of soiling and pain* Do not use and only if the child or young person and their family consent
+  
+### Maintenance:* Polyethylene glycol 3350 + electrolytes as the first-line treatment, adding stimulant laxative if not effective
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg99">CG99 Constipation in children and young people: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

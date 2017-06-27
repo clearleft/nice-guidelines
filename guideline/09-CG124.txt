@@ -1,0 +1,31 @@
+# Hip Fracture
+
+## Diagnosis
+
+* Offer magnetic resonance imaging (MRI) if hip fracture is suspected despite negative X-rays
+  
+## Investigation
+* n/a
+  
+## Management
+
+* Ensure the following co-morbidities are corrected to ensure surgery not delayed: Anaemia; Anti-coagulation; Volume depletion; Electrolyte imbalance; Uncontrolled diabetes; Uncontrolled heart failure or arrhythmia; Acute or  exacerbation of chest infection
+* Analgesia
+	* Assess patients' pain immediately upon presentation, then 30 mins, then hrly till settled on ward then regularly as part of nursing observation
+	* Analgesia should be sufficient to allow joint manipulation for assessment
+	* Paracetamol 6 hrly pre-operatively unless contra-indicated
+	* Opioids if Paracetamol ineffective
+	* NSAIDs **are not** recommended
+* Anaesthesia: Offer Ga or spinal discussing risk / benefits
+  
+### Surgical Procedures
+* Displaced intracapsular fracture: Offer replacement arthroplasty either hemiarthroplasty or Total Hip Replacement
+* THR: if able to walk independently, not cognitively impaired, medically fit for anaesthesia
+* By inference: cemented arthroplasty reserved for very elderly / immobile (or unfit for prolonged GA)
+* Arthroplasty: Use proven femoral stem design rather than Austin Moore or Thompson stems
+* Undisplaced: fixation with screws (arthroplasty for those patients who are less fit)
+* Trochanteric fractures (above and including the lesser trochanter): Use extramedullary implants such as a sliding (dynamic) hip screw in preference to an intramedullary nail
+* Subtrochanteric fracture including femoral shaft fracture: Use an intramedullary nail
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg124">CG124 Hip fracture: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

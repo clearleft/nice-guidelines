@@ -1,0 +1,14 @@
+# Gallstone Disease
+
+## Diagnosis* Reassure that asymptomatic stones found in biliary tree or gallbladder do not need intervention unless become symptomatic
+
+## Investigation* LFTs and USS to those with suspected gall stone disease* If LFTs abnormal or USS shows dilated duct but no stones, consider MRCP* Endoscopic Ultrasound (EUS) if MRCP does not allow diagnosis
+
+## Management
+
+### Gall bladder stones* Laproscopic cholecystectomy if symptomatic gall stones: elective day case within 1 wk* Percutaneous cholecystostomy to manage empyema if conservative failed / surgery contraindicated
+  
+### Common bile duct stones* Bile duct clearance by ERCP then Lap Cholecystectomy* OR Lap Chole + surgical clearance same time* If ERCP cannot clear, then use biliary stenting
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg188">CG188 Gallstone disease: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

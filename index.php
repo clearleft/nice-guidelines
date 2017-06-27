@@ -141,6 +141,21 @@ include($dr . "header.php");
 	<a href="#cat-06" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Gastroenterology</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/06-CG141">Acute Upper GI Bleed <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG106">Barrett’s Oesophagus <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG165">Chronic Hepatitis B <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG86">Coeliac Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG118">Colonic Surveillance <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG131">Colo-Rectal Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG99">Constipation in Young Children <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG152">Crohn’s Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG84">Diarrhoea and Vomiting in Children <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG184">Dyspesia and GORD <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG49">Faecal Incontinence <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG188">Gallstone Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG61">Irritable Bowel Syndrome <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG125">Peritoneal Dialysis <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/06-CG166">Ulcerative Colitis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -150,6 +165,9 @@ include($dr . "header.php");
 	<a href="#cat-07" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Geriatrics</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/07-CG161">Falls Assessment <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/07-CG140">Opioids in Palliative Care <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/07-CG135">Organ Donation <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -159,6 +177,8 @@ include($dr . "header.php");
 	<a href="#cat-08" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Haematology</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/08-CG143">Sickle Cell Acute <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/08-CG151">Neutropenic Sepsis Prevention <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -168,6 +188,7 @@ include($dr . "header.php");
 	<a href="#cat-09" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>MSK</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/09-CG124">Hip Fracture <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>

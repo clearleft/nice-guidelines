@@ -1,0 +1,22 @@
+# Acute Upper GI Bleed
+
+## Diagnosis
+
+* Blatchford score before assessment, if 0 then early discharge* Rockall score after assessment
+
+## Investigation* n/a
+  
+## Management
+
+* Stop NSAIDS during acute phase* Maintain low dose aspirin once haemostasis achieved* Consider risk benefit of Clopidogrel with specialist input* Acid suppression therapy (H2 receptor antagonist or PPI) for acutely ill patients in critical care
+  
+### Massive bleed* Transfuse with blood, platelets and clotting factors per local protocol, base on full clinical picture* Platelet transfusion for patients actively bleeding and platelet count < 50 x 109 /l* FFP fibrinogen < 1 g/l or INR or APTT > 1.5 x normal* Pro-thrombin complex for those actively bleeding and on Warfarin* Endoscopy for all unstable patients after resus, and all patients with upper GI bleed within 24 hrs
+  
+### Non-variceal bleeding* Endoscopic therapy, repeat procedure if doubt over haemostasis:* Mechanical clips with or without adrenaline* Thermal coagulation with adrenaline* Fibrin or thrombin with adrenaline* Offer interventional radiology who re-bleed after endoscopy, or emergency surgery* PPI: only offer post endoscopy following evidence of recent haemorrhage
+  
+### Variceal bleed* Terlipressin at presentation until definitive haemostasis, consider prophylactic anti-biotics* Endoscopic band ligation should be offered
+  
+### Gastric varices* Endoscopic injection of N-butyl-2-cyanoacrylate Or TIPS (Transjugular Intrahepatic Portosystemic Shunt) not successful
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg141">CG141 Acute upper gastrointestinal bleeding in over 16s: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
