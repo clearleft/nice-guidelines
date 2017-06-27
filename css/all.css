@@ -194,6 +194,14 @@ figure.table {
 	overflow-x:auto;
 }
 
+i, em, cite {
+	font-style: italic;
+}
+
+strong, b {
+	font-weight:600;
+}
+
 @media only screen and (min-width: 35em) {
 	figure.table {
 		margin-left: 3%;
@@ -220,6 +228,7 @@ th {
 	padding: 0.5em;
 	vertical-align:top;
 	border-bottom: 1px solid #e6e6e6;
+	font-weight:600;
 }
 
 thead th {
@@ -232,10 +241,6 @@ nav ul {
 	padding: 0;
 	margin: 0;
 	max-width: none;
-}
-
-th, strong, b {
-	font-weight:500;
 }
 
 nav li {
