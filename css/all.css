@@ -202,6 +202,42 @@ strong, b {
 	font-weight:600;
 }
 
+/* subscripts and superscripts */
+
+/* subscripts */
+sub { 
+	font-feature-settings: "subs" 1;
+ }
+
+@supports (font-variant-position: sub) {
+    sub {
+    	font-feature-settings: normal;
+    	font-variant-position: sub;
+    }   
+}
+@supports ((font-variant-position: sub) or (font-feature-settings: "subs" 1)) {
+    sub {
+    	 vertical-align: inherit;
+          font-size: inherit;
+    }
+}
+
+/* superscripts */
+sup { 
+	 font-feature-settings: "sups" 1;
+ }
+
+@supports (font-variant-position: super) {
+    sup {
+    	font-feature-settings: normal;
+    	font-variant-position: super;
+    }   
+}
+@supports ((font-variant-position: super) or (font-feature-settings: "sups" 1)) {
+    sup { vertical-align: inherit;
+          font-size: inherit; }
+}
+
 @media only screen and (min-width: 35em) {
 	figure.table {
 		margin-left: 3%;
