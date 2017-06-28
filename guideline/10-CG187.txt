@@ -1,0 +1,26 @@
+# Hyperphosphataemia
+
+## Diagnosis
+
+* n/a
+  
+## Investigation
+
+* n/a
+  
+## Management
+
+* At every review: take into account diet, adherence, Vitamin D levels or dialysis
+  
+### Phosphate Binders
+* Children:
+	* First Line: calcium based phophate binders
+	* Second Line: if continues to increase offer sevelamer hydrochloride in addition
+* Adults:
+	* First Line: calcium acetate phophate binders or calcium carbonate is not tolerated
+	* If CKD 4 or 5 consider either combining with, or switching to, a non-calcium-based binder, whether on dialysis or not
+	* If CKD 5 and on dialysis, phosphate controlled but calcium above upper limit or PTH levels low consider either combining with, or switching to Sevelamer hydrochloride or Lanthanum carbonate, having takin into account other causes
+* If a combination of phosphate binders is used, titrate the dosage to achieve control of serum phosphate while taking into account the effect of any calcium based binders used on serum calcium levels
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG187 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

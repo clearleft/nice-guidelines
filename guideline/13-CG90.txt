@@ -1,0 +1,35 @@
+# Depression in Adults
+
+## Diagnosis
+* n/a
+  
+## Investigation
+
+* Assess severity: PHQ-9 questionnaire
+* FBC, ESR, TFTs, B12/Folate, U&E’s, Gluc, Ca2+
+* Toxicology
+* Dexamethasone suppression test (Cushing’s)
+* Cosynotropin (ACTH) stimulation test (Addison’s)
+
+## Management
+
+### Acute
+* Suicide risk assessment
+  
+### Conservative
+* Mild to Moderate – wait and watch approach
+* Sleep hygiene advice
+* Computerised CBT / Individual CBT
+* Structure group physical activity
+  
+### Medical
+* Mild - Moderate: SSRI only if >2 yr or past Ψ
+* Severe: SSRI+ high intensity CBT / inter personal
+* NB Sertraline > fluoxetine
+* No point in switching SSRI try switching to NSRI (metazepione) or TCA if resistant. Be aware of increased risk of suicide initially and time to efficacy as well as serotonin syndrome
+* Anxiety 20 to depression, Tx depression first
+  
+### Intervention
+* Electro shock therapy only if life limiting
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg90">CG90 Depression in adults: recognition and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,0 +1,69 @@
+# Bladder Cancer
+
+## Diagnosis
+* n/a
+  
+## Investigation
+
+### If bladder cancer suspected:
+* Transurethral resection of bladder tumour (TURBT), white light guided with photodynamic diagnosis, cytology or urinary biomarkers
+* Do not substitute urinary biomarkers for cystoscopy to investigate suspected bladder cancer
+  
+### Staging
+* Consider CT or MRI staging before TURBT if muscle-invasive bladder cancer suspected at cystoscopy
+* CT urography to detect upper tract involvement in new or high risk cancer
+* Consider fluorodeoxyglucose PET if indeterminate findings on MRI / CT
+
+<table>
+<tbody>
+<tr>
+<th>Low Risk</th>
+<td>Solitary pTaG1 or G2 < 3 cm (Ta = innermost layer)</td>
+</tr>
+<tr>
+<th>Intermediate Risk</th>
+<td>Solitary pTaG1 or G2 > 3 cm or multifocal</td>
+</tr>
+<tr>
+<th>High Risk</th>
+<td>Any pTaG3; Any pT1G2 or G3 (T1 = grow into connective tissue, T2 into muscle); Any PTis or Cis (Very early high grade)</td>
+</tr>
+</tbody>
+</table>
+
+## Management
+
+### Non Muscle invasive Treatment
+* Low Risk:
+	* Transurethral resection of bladder tumour (TURBT) white light guided with photodynamic diagnosis, cytology or urinary biomarkers
+	* Obtain detrusor muscle sample and note size and number of tumours
+	* Offer intravesical mitomycin C during TURBT (Chemotherapy agents via catheter to bladder)
+* Intermediate Risk:
+	* Offer min 6 courses of intravesical mitomycin C, if recurs refer to specialist
+* High Risk:
+	* Repeat TURBT in 6 weeks
+	* Offer the choice of intravesical BCG (Bacille Calmette-Guérin) or radical cystectomy
+	* Offer induction & maintenance intravesical BCG, if induction BCG fails (not tolerated, or bladder cancer persists) refer the person's cancer to a specialist urology MDT
+* Consider fulguration (destruction with diathermy) without biopsy for people with recurrent non-muscle-invasive bladder cancer if solitary papillary regrowth < 3 mm
+* Follow up: Cystoscopy follow up every 3 mths for 2 years if high risk
+  
+### Muscle Invasive Treatment
+
+via Specialist urology MDT
+
+* Neoadjuvant chemotherapy with Cisplatin before radical cystectomy / radiotherapy
+* Radical cystectomy with urinary stoma or a continent urinary diversion
+* Radiotherapy with radiosensitizer
+* Consider adjuvant cisplatin combination chemotherapy after radical cystectomy for people with muscle-invasive or lymph-node-positive cancer not detected  before cystectomy
+* Side Effects: specialist urology MDT if symptoms of bladder toxicity after radiotherapy cannot be controlled with antispasmodics or non-opiate analgesia
+* Follow up: monitoring of the upper tracts for hydronephrosis, stones and cancer using imaging and eGFR annually and monitoring for local and distant recurrence using CT abdomen, pelvis, chest
+  
+### Locally Advanced:
+* First Line Chemo: Cisplatin or Carboplatin in combo with Gemcitabine if performance status 0-2
+* Second Line: Gemcitabine in combo with cisplatin, or high-dose MVAC in combination with G-CSF
+
+### Symptoms Management:
+* Bladder symptoms: offer palliative hypofractionated radiotherapy if haematuria, dysuria, urinary frequency or nocturia caused by cancer unsuitable for curative treatment
+*  Loin pain: percutaneous nephrostomy or retrograde stenting for people with locally advanced or metastatic bladder cancer and ureteric obstruction
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/ng2">NG2 Bladder cancer: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

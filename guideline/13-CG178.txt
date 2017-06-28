@@ -1,0 +1,47 @@
+# Psychosis & Schizophrenia and Bi-Polar Disorder
+
+## Diagnosis
+* n/a
+  
+## Investigation
+
+* Physical Examination: BP; HR; Weight
+* FBC
+* U+E baseline before Lithium therapy
+* TFTs  Thyroid particularly a/w mood
+* Alcohol dependency
+* Toxicology screen
+* ECG Baseline before Haloperidol Long QT
+	* Note: Antipsychotics affect metabolism hence check wt, lipids, glucose
+	* Note: Smoking cessation impact on antipsychotic metabolism
+  
+## Management
+
+### Psychosis:
+* Acute :Self-harm and suicide risk
+* Risk to others: tranquilization (Lorazopam, Haloperidol incl Anti-Cholinergics)
+* Conservative:
+	* MDT approach assess bio-psych-social
+* Medical:
+	* Oral antipsychotic + psych intervention
+* Antipsychotics:
+	* 1st generation – non specific DA antagonist, led to S/E Pyramidal symptoms, akinesthesia prolactinaemia e.g. Acuphase also Haolperidol. S/E prolonging the QT interval
+	* 2nd gen; S/E less pyramidal effects but metabolic syndrome e.g. Olanzapine. Neuroleptic malignant syndrome, autonomics
+* Must weight up side effects:
+	* Metabolic (including weight gain and diabetes)
+	* Extrapyramidal (including dyskinesia and dystonia)
+	* Cardiovascular (including prolong QT)
+	* Hormonal (including increasing plasma prolactin)
+* Psychological Intervention
+* Family intervention & CBT
+  
+### Affective (Bi-Polar) Disorder
+*  Don’t treat depression, may elevate to mania
+* Conservative
+	* Calming environments & reduced stimulation
+* Medical - only treated in secondary care
+	* Olanzapine
+	* Sodium valproate: mood stabilizer, evidence
+	* Lithium: mood stabilizer
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg178">CG178 Psychosis and schizophrenia in adults: prevention and management</a></cite> and <cite><a href="https://www.nice.org.uk/guidance/cg185">CG185 Bipolar disorder: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

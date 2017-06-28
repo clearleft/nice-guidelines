@@ -1,0 +1,72 @@
+# Headaches
+
+## Diagnosis
+
+* Evaluate:
+	* Worsening headache with fever
+	* Sudden-onset headache reaching maximum intensity within 5 minutes
+	* New-onset neurological deficit or cognitive dysfunction
+	* Change in personality
+	* Impaired level of consciousness
+	* Recent (typically within the past 3 months) head trauma
+	* Headache triggered by cough, valsalva or sneeze or exercise
+	* Orthostatic headache (headache that changes with posture)
+	* Symptoms suggestive of giant cell arteritis
+	* symptoms and signs of acute narrow-angle glaucoma
+	* A substantial change in the characteristics of their headache
+* Further Investigate:
+	* Compromised immunity, caused, for example, by HIV or immunosuppressive drugs
+	* Age under 20 years and a history of malignancy
+	* A history of malignancy known to metastasise to the brain
+	* Vomiting without other obvious cause
+* Do not refer the following for neuro-imaging, but off re-assurance that other pathology excluded:
+
+<table>
+<thead>
+<tr><th></th><th>Tension Headache</th><th>Migraine w or w/o aura</th><th>Cluster</th></tr>
+</thead>
+<tbody>
+<tr>
+<th>Pain location</th><td>Bi-lateral</td><td>Unilateral or Bi-lateral</td><td>Pain location: Unilateral (around eye)</td>
+</tr>
+<tr>
+<th>Pain quality</th><td>Pressing (non pulsating)</td><td>Pulsating</td><td>Variable sharp, boring</td>
+</tr>
+<tr>
+<th>Pain Intensity</th><td>Moderate</td><td>Severe</td><td>Very Severe</td>
+</tr>
+<tr>
+<th>Effect on activities</th><td>No aggravated</td><td>Aggravated by ADL</td><td>Restlessness</td>
+</tr>
+<tr>
+<th>Other symptoms</th><td>None</td><td>Sensitive to light/sound; Aura</td><td>Red eye; swollen eyelid; Constricted pupil</td>
+</tr>
+<tr>
+<th>Duration</th><td>Up to 0.5 hr</td><td>Up to 72 hrs</td><td>Up to 2 hrs</td>
+</tr>
+</tbody>
+</table>
+
+* Migraine, one or more of Visual symptoms; Sensory symptoms; Speech disturbance
+* Aura: develops gradually, is reversible, last up to 1 hr
+* Menstrual related migraine: 2-3 days before start and > 2 episodes
+* Medication over-use headache: Triptans/opioids > 10 days/mth; NSAID/Paracetamol > 15 days/mth
+  
+## Investigation
+* n/a
+  
+## Management
+
+* Headache diary: record frequency, duration and monitor effectiveness of treatment
+* Tension: Aspirin, Paracetamol, NSAID, and up to 10 sessions of acupuncture, but no opioids
+* Migraine:
+	* Acute: Combination Triptan & NSAID or Paracetamol, or monotherapy of any of these if patient prefers (Consider nasal Triptan if 12-17 y/o); if ineffective Non oral Metoclopramide +/- Non oral NSAID
+	* Prophylaxis: Topiramate (AED) or Propanolol following discussion or risk / benefit, or if ineffective Gabapentin or 10 session acupuncture; Riboflavin 400 mg may be effective in some people
+	* Menstrual related migraine: Frovatriptan is no response from acute management
+* Cluster
+	* Acute: Oxygen (min 12 L non rebreathe) and subcut or nasal Triptan, do not offer Opioids or NSAIDs, or oral Triptans
+	* Prophylaxis: Consider Verapamil and gain specialist advice
+* Medication over-use: withdrawal, for at least 1 month and abruptly not gradually, and that will get worse before gets better, but review 4-8 wks after withdrawal
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg150">CG150 Headaches in over 12s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

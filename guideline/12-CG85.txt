@@ -1,0 +1,55 @@
+# Glaucoma
+
+## Diagnosis
+
+* Chronic Open Angle Glaucoma (COAG)
+* Occular Hypertension (OHT)
+* Inter Ocular Pressure (IOP)
+  
+## Investigation
+
+* If have COAG or OHT perform:
+	* IOP measurement using Goldmann applanation tonometry (slit lamp mounted)
+	* Central corneal thickness (CCT) measurement
+	* Peripheral anterior chamber configuration and depth assessments using gonioscopy
+	* Visual field measurement using standard automated perimetry (central thresholding test)
+	* Optic nerve assessment (dilated) using stereoscopic slit lamp biomicroscopy fundus exam
+* Obtain an optic nerve head image at diagnosis for baseline documentation
+* Records all previous tests and images relevant to COAG and OHT assessment
+
+<table>
+<thead>
+<tr><th>IOP&nbsp;at target</th><th>Progession</th><th>Outcome</th><th>Monitoring interval (mths) - IOP alone</th><th>Monitoring interval (mths) - IOP, optic nerve head, & visual field</th></tr>
+</thead>
+<tbody>
+<tr><td>Yes</td><td>No</td><td>No change in treatment</td><td>n/a</td><td>6-12</td></tr>
+<tr><td>Yes</td><td>Yes</td><td>Review target IOP and change plan</td><td>1-4</td><td>2-6</td></tr>
+<tr><td>Yes</td><td>Uncertain</td><td>No change in treatment</td><td>n/a</td><td>2-6</td></tr>
+<tr><td>No</td><td>No</td><td>Review target IOP and change plan</td><td>1-4</td><td>6-12</td></tr>
+<tr><td></td><td>Yes / Uncertain</td><td>Change treatment</td><td>1-2</td><td>2-6</td></tr>
+</tbody>
+</table>
+  
+## Management
+
+* OHT or suspected COAG with high IOP treat based on estimated risk of conversion to COAG:
+
+<table>
+<tbody>
+<tr><th>Central corneal thickness</th><td colspan="2">>590 micrometers</td><td colspan="2">555-590 micrometers</td><td colspan="2"><555 micrometers</td><td>Any</td></tr>
+<tr><th>Untreated IOP (mm Hg)</th><td>>21-25</td><td>>25-32</td><td>>21-25</td><td>>25-32</td><td>>21-25</td><td>>25-32</td><td>> 32</td></tr>
+<tr><th>Age</th><td>Any</td><td>Any</td><td>Any</td><td>Treat till 60</td><td>Treat till 65</td><td>Treat till 80</td><td>Any</td></tr>
+<tr><th>Treatment</th><td>No treatment</td><td>No treatment</td><td>No treatment</td><td>BB</td><td>PGA</td><td>PGA</td><td>PGA</td></tr>
+</tbody>
+</table>
+
+* BB: Beta blockers (if contra-indicated offer PGA)
+* PGA: prostaglandin analogue 
+* Do not treat people with suspected COAG and normal IOP
+* Offer alternative pharmacological treatment (a prostaglandin analogue, betablocker, carbonic anhydrase inhibitor or sympathomimetic, whose IOP cannot be reduced sufficiently to prevent sight loss or are intolerant or newly diagnosed and moderate COAG
+* COAG and IOP not reduced sufficiently to prevent risk of sight loss despite pharmacological treatment, offer:
+	* Laser trabeculoplasty
+	* Surgery with pharmacological augmentation (MMC or 5-FU[4]) as indicated
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg85">CG85 Glaucoma: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

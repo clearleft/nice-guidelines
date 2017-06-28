@@ -1,0 +1,84 @@
+# Bacterial Meningitis
+
+## Diagnosis
+
+* Meningococcal disease = Bacterial Menigitis and Meningococcal Septicaemia
+* Common non-specific signs especially children: Fever; N+V; Lethargy; Irritable; Ill appearance; Refusing food / drink; Headache; Muscle ache; Respiratory symptoms
+* Specific Signs:
+
+<table>
+<thead>
+<tr><th></th><th>Bacterial Meningitis</th><th>Meningococcal Septicaemia</th><th>Meningococcal Disease</th></tr>
+</thead>
+<tbody>
+<tr><th>Non Blanching Rash</th><td>Y</td><td>Y</td><td>Y</td></tr>
+<tr><th>Stiff neck/ Kernig’s sign</th><td>Y</td><td>NK</td><td>Y</td></tr>
+<tr><th>Photophobia</th><td>Y</td><td>NK</td><td>Y</td></tr>
+<tr><th>Altered mental state</th><td>Y</td><td>Y</td><td>Y</td></tr>
+<tr><th>Cap refill</th><td>NK</td><td>Y</td><td>Y</td></tr>
+<tr><th>Shock</th><td>Y</td><td>Y</td><td>Y</td></tr>
+<tr><th>Hypotension</th><td>NK</td><td>Y</td><td>Y</td></tr>
+<tr><th>Focal Neurology</th><td>Y</td><td>NK</td><td>Y</td></tr>
+<tr><th>Bulging Fontanelle</th><td>Y</td><td>NK</td><td>Y</td></tr>
+</tbody>
+</table>
+
+* EWS hourly if signs
+
+## Investigation
+
+* Unexplained fever and petechial rash:
+	* Full blood count
+	* C-reactive protein (CRP)
+	* Coagulation screen
+	* Blood culture
+	* Whole-blood polymerase chain reaction (PCR) for N meningitides; negative doesn’t rule out
+	* Blood glucose
+	* Blood gas
+* LP / CSF interpretation: primary investigation unless contraindicated, but don’t allow it to delay Abx
+* CSF assay: WCC, Protein, Glucose and Microbiological culture, Gram stain, within 4 hrs
+* LP contra-indications: Raised ICP, shock, coag abnormal, infection at site, respiratory insufficiency, use clinical assessment and not CT to determine is safe to LP, but if have CT and signs don’t do
+* Delay LP until contra-indications resolve as worthwhile if diagnostic uncertainty
+* ABx if CSF WCC > 20 cells/microliter in neonates, > 5 cells/microliter in children & adults
+* If CSF within range consider alternate diagnosis especially Herpes simplex encephalitis
+* If focal neurology or GCS < 9 then perform CT to look for alternate diagnoses
+  
+## Management
+
+### Pre-hospital management
+
+Primary health care professionals contact 999
+
+* Suspected bacterial meningitis w/o non-blanch rash: tx to secondary care w/o parenteral Abx
+* Suspected meningococcal disease: parenteral Abx i.e. Benzylpenicillin IM or IV, but don’t delay tx
+* Withold Abx only in those with clear Hx of anaphylaxis, a rash is not a contra-indication
+  
+### Secondary care:
+* Give Ceftriaxone immediately to young patient if: petechial rash spreads, become pruritic, signs of bacterial meningitis or meningococcal septicaemia or appears ill
+* Give Ceftriaxone to young patient if: unexplained petechial rash and fever AND raised CRP / WCC
+* If child has non spreading petechial rash, no fever, does not look ill unlikely meningococcal disease
+* If no rash but suspected, and CRP / WCC raised and CSF abnormal then treat for bacterial meningitis, and if CSF not available
+* If < 3mths give Cefotaxime + Amoxicillin
+* If Herpes simplex encephalitis considered then treat with anti-viral
+  
+### Specific Bacterial Infection
+* H influenzae Type B: Ceftriaxone 10 days IV
+* S Pneumoniae Meningitis: Ceftraixone 14 days IV
+* L Monocytogenes: Amoxicillin + Gentamicin IV
+* Gram negative bacilli: Cefotaxime 21 days IV
+* Unconfirmed Bacterial Meningitis: Ceftriaxone 10 days IV
+* Confirmed Meningococcal disease: Ceftriaxone 7 days IV
+  
+### Treat metabolic disturbance
+* Treat shock per CG84 and sepsis six bundle
+  
+### Cortico-steroids:
+* If CSF frankly purulent, bacteria on gram stain, WCC > 1000, protein > 1 g/litre give Dexamethasone 0.15mg/kg (max 10 mg) QDS, avoid if tuberculosis in differential as may be harmful
+* If meningococcal septicaemia then no more than 0.6 mg/kg/day
+
+### Discharge:
+* Consider their requirements for follow-up, taking into account potential sensory (hearing), neurological, psychosocial, orthopaedic, cutaneous and renal morbidities
+* Test for complement deficiency if > 1 episode of meningococcal disease or any other serogroup than B
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG102 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

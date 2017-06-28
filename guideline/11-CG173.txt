@@ -1,0 +1,28 @@
+# Neuropathic Pain
+
+## Diagnosis
+
+* Discuss concerns and expectations, risk benefits of treatment and coping strategies
+*  Refer to specialist pain service if any:
+	* Severe pain
+	* Significantly limits ADLs
+	* Underlying health condition deteriorated
+* Consider overlap of treatment if changing medication
+* Regular clinical reviews: pain control; physical and psychosocial wellbeing; adverse effects
+  
+## Investigation
+* n/a
+  
+## Management
+
+* First Line:
+* Amitriptyline, Duloxetine, Gabapentin or Pregabalin
+* If initial treatment not effective offer one of remaining 3 drugs and consider continued switching
+* Consider Tramadol for acute rescue therapy
+* Consider Capsaicin topical treatment for local neuropathy and wish to avoid oral treatments
+* DO NOT offer the following except in specialist setting:
+* Morphine; Lamotragine, Topiramate; Oxcarbazepine, Capsaicin patch
+* Trigeminal Neuralgia considered separately (Carbemazepine)
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg173">CG173 Neuropathic pain in adults: pharmacological management in non-specialist settings</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

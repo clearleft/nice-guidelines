@@ -1,0 +1,72 @@
+# Head Injury
+
+## Diagnosis
+
+* High energy impact: fall > 1 m; ejected from motor vehicle; High speed motor vehicle; bicycle
+* Open or depressed skull fracture signs:
+* Basal of skull, open or depressed fracture signs: Mastoid ecchymosis (bruising); Panda eyes w/o associated damage around eye; Bleeding from one or both ears
+* Telephone referral: Unconscious; Focal neurology; Seizure; High energy; Suspicion of head injury
+* Primary referral: Above + GCS < 15; Amnesia; Persistent headache; Vomiting; Anti-coagulation; NAI
+  
+## Investigation
+
+* GCS, state denominator and whether learning / neuro disability baseline
+* CT imaging of choice to detect acute clinically significant brain injury
+* CT head within 1 hr if:
+	* GCS < 13 on initial assessment (< 14 children)
+	* GCS < 15 after 2 hours of presentation
+	* Suspect open or depressed skull facture
+	* Focal neurology
+	* Post traumatic seizure
+	* > 1 episode of vomiting
+* CT head within 8 hrs:
+	* > 65 yrs
+	* Clotting disorder
+	* Warfarinised
+	* High energy
+	* > 30 retrograde amnesia before event
+* CT cervical spine:
+	* GCS < 13 on initial assessment
+	* Intubated
+	* Plain x-ray inadequate or suspicious
+	* Definitive diagnosis required i.e. before surgery
+	* Alert stable but: > 65; High energy impact; Paraesthesia in limbs; Focal neuropathy
+* Assess range of movement only if none of above applies and one of the following:
+	* Ambulatory and sitting comfortably
+	* No midline cervical tenderness
+	* Involved in simple rear end MVC
+* X-ray cervical spine (3 planes): if neck pain but no indication as above for CT
+* CT imaging of brain / cervical involve radiology department, reassess if initially considered low risk
+* CT should cover any areas of concern on X-ray or clinical grounds including cervical spine
+* If patient returns within 48 hrs then senior review +/- CT scan
+* MRI (angiography) if injury referable to cervical spine especially is vascular injury due to vertebral misalignment, fracture of foramina tranversaria, lateral processes
+* MRI has a role in ligamentous and disc injuries highlighted by CT / X-ray
+* Discuss w/ neurosurgeon new ‘surgically significant’ imaging abnormality: ‘significant’ agree locally
+* Discuss with neurosurgeon: Persistent GCS < 8 (coma); Deteriorating GCS; Progressive neurological signs; CSF leak; Seizure w/o recovery; Suspected penetrating injury
+  
+## Management
+
+* ATLS, ITLS, APLS
+* Neck immobilisation if: GCS < 15; Neck pain; Focal Neurology; Paraesthesia in extremities; Suspicion
+* Manage pain as can lead to rise in ICP
+* If GCS < 8 involve an anaesthetist
+* Transfer to Neurosurgical unit:
+	* Consider occult injury
+	* Designated consultant to establish transfer arrangements
+	* Accompanied by doctor with adequate training and means of communication
+	* Complete resuscitation and stabilisation before transfer
+	* Intubate and ventilate if GCS < 8
+* Admit if:
+	* New imaged abnormality; GCS not returned to 15; Continued worrying signs; CT not done
+* Observation: ½ hrly until GCS back to 15, then ½ hrly for 2 hrs, 1 hrly for 4 hrs, 2 hrly thereafter
+* Urgent reappraisal if 1 point dropped for > 30 mins
+* Discharge only once GCS = 15 and suitable supervision at home (24 hrs), but explain risk factors that means should return per referral guidelines in diagnosis above
+
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg176">CG176 Head injury: assessment and early management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+
+
+
+

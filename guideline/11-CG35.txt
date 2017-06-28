@@ -1,0 +1,63 @@
+# Parkinson’s Disease
+
+## Diagnosis
+
+* PD should be diagnosed clinically and based on the UK Parkinson's Disease Society Brain Bank Criteria (discuss tissue donation for diagnostic confirmation)
+* PD symptoms: Tremor (5 Hz); Rigidity; Bradykinesia; Loss postural reflexes (balance, gait disorder)
+* Motor Problems:
+	* End of dose effect, benefit wearing off earlier and earlier
+	* ON-OFF effect unpredictable fluctuation
+	* Dyskinesia (Athetoid or Choreiform)
+
+## Investigation
+
+* SPECT (single photon emission CT): where essential tremor cannot be distinguished from PD
+* Other means of imaging should not be used: e.g. PET, MRI, MR volumetry etc
+* DO NOT offer Levodopa challenge test
+  
+## Management
+
+* DO NOT offer following for neuroprotection: Co-enzyme Q10, Vit E, DA agonist, MAO-B inhibitors
+  
+### Conservative
+* Specialist Parkinson Nurse
+* Physiotherapy: gait re-education
+* Occupational Therapy: improve transferring and mobility
+* SALT
+  
+### Pharmacological Therapy in Early PD
+
+* The following are all first line, no universal first choice:
+	* Levodopa (Sinemet - Incl decarboxylase inhibitor, reduces conversion to DA before BBB, as decarb can’t cross) Good symptom control, increased motor complications, low a dose possible to maintain function w/o motor effects
+	* DA Agonist (Pramipexole - Non-Ergot derived preferred as Ergot derived Bromocriptine has fibrotic reaction S/E and monitor U+Es, ESR, Chest X-ray) Moderate symptom control, reduced motor complications
+	* MAO-B inhibitor (Selegeline) Limited symptom control, reduced motor complications
+* No evidence: Anti-cholinergics, Beta-Blockers & Amantadine, may help severe tremor in young pts
+  
+### Pharmacological Therapy in Later PD
+
+* The following Adjuvant therapies are first line and offer moderate symptom control with reduced motor complications:
+	* DA Agonist
+	* MAO-B Inhibitor (Selegeline) inhibits DA breakdown synaptically
+	* COMT Inhibitor (Entcarpone) Inhibits DA breakdown peripherally
+* Modified release Levodopa should be used to reduce motor complications but not be first choice
+* Anti-Parkinsonian drugs should not be withdrawn rapidly or allowed to fail due to poor absorption, or ‘drug holiday’ and may cause acute akinesia or Neuroleptic Malignant Syndrome
+* Given risk of sudden change, patient should be allowed to self-medicate during periods of transition
+  
+### Surgery
+
+Bilateral subthalamic nucleus (STN) stimulation OR Bilateral globus pallidus interna (GPi) stim if:
+
+* Have motor complications that are refractory to best medical treatment
+* Biologically fit with no clinically significant active comorbidity
+* Levodopa responsive
+* No clinically significant active mental health problems, e.g. depression or dementia
+  
+### Non Motor Symptoms Treatment:
+* Depression: low threshold
+* Psychotic symptoms: Atypical antipsychotics only e.g. Clozapine
+* Dementia: Further research required for Anti-Cholinesterase inhibitors
+* Sleep disturbance: encourage good sleep hygiene, manage RLS
+* Autonomic disturbance: treat urinary disturbance, ED, constipation, dysphagia
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg35">CG35 Parkinson's disease in over 20s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

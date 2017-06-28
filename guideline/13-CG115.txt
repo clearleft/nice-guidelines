@@ -1,0 +1,34 @@
+# Alcohol Mis-use Disorder
+
+## Diagnosis
+* n/a
+  
+## Investigation
+
+* Physical Examination: signs of liver disease
+* Exclude other sources of liver disease: LFTs
+* Quantify: FBC for MCV (macrocytic); GGT
+* Liver Biopsy to confirm hepatitis
+* Imagining: CT pancreas
+
+## Management
+
+### Acute
+* Withdrawal: Benzo (Chlordiazepoxide)
+* Delerium Tremens: Lorazepam (quick acting)
+* Wernicke’s: Thiamine B1 (Pabrinex IV)
+  
+### Conservative
+* Councilling (alcoholics Anonymous), but social grouping may lead to drinking
+* Cognitive Behavioural Therapy relapse prevent
+* Motivational interviewing
+  
+### Medical
+* Disulfiram (Antabuse), blocks acetaldehyde
+* Naltrexone: remove reinforcing action
+* Acamprocate: reduce desire
+  
+### Surgical
+* Liver tx: if decomp CLD
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg115">CG115 Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,0 +1,56 @@
+# Transient Loss of Consciousness
+
+## Diagnosis
+
+* Hx describe what happened. Assume TLoC until proven otherwise:
+	* Circumstances of the event
+	* Person's posture immediately before loss of consciousness
+	* Prodromal symptoms (such as sweating or feeling warm/hot)
+	* Appearance (whether eyes were open or shut) and colour of the person during the event
+	* Presence or absence of movement during the event (limb-jerking and its duration)
+	* Tongue-biting (record whether the side or the tip of the tongue was bitten)
+	* Injury occurring during the event (record site and severity)
+	* Duration of the event (onset to regaining consciousness)
+	* Presence or absence of confusion during the recovery period
+	* Weakness down one side during the recovery period (TIA)
+* Fx of cardiac disease including sudden cardiac death
+* Dx Diuretics may contribute; Hypoglycaemia must rule out
+* Diagnose uncomplicated faint, if no features to suggest alternate diagnosis and:
+	* Posture: prolonged standing, or similar episodes that have been prevented by lying down
+	* Provoking factors (such as pain or a medical procedure)
+	* Prodromal symptoms (such as sweating or feeling warm/hot before TLoC)
+* Diagnose orthostatic Hypotension: typical history and no features of alternate diagnosis
+* Consider Epilepsy:
+	* Bitten tongue
+	* Head-turning to one side during TLoC
+	* No memory of abnormal behaviour that was witnessed
+	* Unusual posturing
+	* Prolonged limb-jerking (brief seizure-like activity often occurs during uncomplicated faints)
+	* Confusion following the event
+	* Prodromal déjà vu, or jamais vu
+* Refer to Cardiology all others
+
+## Investigation
+
+* Lying standing BP
+* 12 Lead ECG: highlight bradycardia, Long QT, Brugada, WPW, Path Q wave, Atrial arrhythmia
+* RED FLAG 12 lead ECG: Complete BBB, Long or short QT, ST-T abnormalities
+* Refer to cardiology: ECG abnormality, HF, Fx of sudden death, Murmur, new SOB
+* Cardiovascular assessment to assign cause:
+	* Structural heart disease
+	* Cardiac arrhythmia
+	* Neurally Mediated
+	* Unexplained
+* Offer urgent exercise testing if exercised induced, unless HOCM or Aortic stenosis
+* Arrhythmic cause, offer ambulatory ECG (Holter monitoring if TLoC several time per week)
+* Tilt test for suspected vasovagal faint only if affecting QoL or high risk of injury
+* Carotid sinus syncope suspected, offer sinus massage in controlled environment
+* If cause still uncertain consider psychogenic non-epileptic seizures (PNES) or psychogenic pseudosyncope, especially if nature of events changes over time
+  
+## Management
+
+* Advise all people who have experienced TLoC that they must not drive while waiting for a specialist assessment
+* Advise people who have experienced TLoC of the implications of their episode for health and safety at work and any action they must take to ensure the safety of themselves and that of other people
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg109">CG109 Transient loss of consciousness ('blackouts') in over 16s</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

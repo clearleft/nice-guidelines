@@ -1,0 +1,87 @@
+# Epilepsies
+
+## Diagnosis
+
+* Patient should have access to information: diagnosis, treatment options, medications and side effects, risk management, psychological issues, importance of disclosure at work and DVLA, sudden death in epilepsy (SUDEP), status epilepticus etc and empowered to manage their condition, given when appropriate dependent on certainty of diagnosis
+  
+### Following a First Seizure:
+* Initial screening and specialist review, including children with non-febrile seizure
+* Presenting complaint differential outline in Appendix D attached
+* Diagnosis established by a specialist based on description and symptoms not presence or absence of a single feature, and definitive diagnosis may not be possible, requiring tertiary referral
+* Psychogenic non-epileptic seizures (PNES) suspected arrange psychiatric investigation
+* SUDEP: risk minimised by optimising seizure control & know consequences of nocturnal seizure
+  
+### Classification – See Appendix E
+* Epileptic seizure and syndrome classified according to multi-axial diagnostic scheme with axes of: seizure type, description of seizure, syndrome, aetiology
+  
+## Investigation
+
+### Electroencephalogram (EEG):
+* Only to support clinical diagnosis, post 2nd seizure (1st specialist req’d)
+* Photic or hyperventilation may be used to provoke a seizure in standard EEG, patient may refuse
+* If standard EGG not contributed to diagnosis consider Sleep EEG (provoking seizure by sleep deprivation or melatonin administering), which take precedence over repeated EEGs
+* Should not be offered in suspected syncope to rule out epilepsy, given likelihood of false positive
+  
+### Imaging
+* MRI: method of choice especially if: develop < 2 yrs; focal onset; resistant to medication
+* CT may be helpful in acute setting if lesion suspected or if child would require anaesthetic for MRI
+  
+### Other Investigation
+* Measure: Glucose, electrolytes incl. Ca2+
+* Pro-lactin measurement not recommended
+* 12 lead ECG
+  
+## Management
+
+* Epilepsy specialist nurse (ESN) key co-ordinator of care
+  
+### Pharmacological Treatment:
+* See Appendix E based on presenting seizure type
+* AED commenced once diagnosis made, and usually after 2nd seizure, and after 1st if imaging shows lesion, EEG shows unequivocal seizure activity, neurological deficit or risk unacceptable
+* Consistent supply to patent of a particular manufacturer's AED preparation is recommended (due to bio-availability or pharmaco-dynamic differences)
+* Treat with monotherapy where at all possible
+* If AED failed then start a second drug to adequate or tolerated dose, and first tapered off slowly
+* If second drug unhelpful, taper first or second before starting another medication
+* Carbemazepine contra-indicated in Han Chinese, and offer controlled release in all others
+* Valproate contra-indicated in women of child bearing age due to teratogenicity [Jan 2015 check]
+* Maintain a high level of vigilance for treatment-emergent adverse effects
+* Adherence improved by: education, reducing stigma, simple medication regimes
+* Regular blood test monitoring in children and young people is not recommended as routine, only if suspected toxicity, change in Phenytoin dosage or status epilepticus, or organ damage
+* Withdrawal should be done in following discuss with an direction of specialist
+* Withdraw slowly if been seizure free
+  
+### Referral for Complex / Refractory Epilepsy to Tertiary service:
+* If not controlled with medication within 2 yrs, or unsuccessful with 2 drugs or unacceptable S/Es
+* Unilateral structural lesion
+* Diagnostic doubt
+* Psychological or psychiatric co-morbidity
+  
+### Tertiary Therapies:
+* Ketogenic diet
+* Vagal nerve stimulation
+* Surgical resection
+  
+### Prolonged, Repeated or Convulsive Status Epilepticus
+* Immediate care if seizure > 5 minutes OR > 3 seizures in 1 hr
+* Community: buccal Midazolam or rectal Diazepam only, call ambulance if continue 5 mins post adm
+* Hospital: ABD, check CBG, 1st Line IV Lorazepam or buccal Midazolam (no IV access) max 2 doses
+* If seizures continue: 2nd line IV Phenobarbital or Phenytoin
+* Refractory: IV Midazolam, Propofol (not children) or Thiopental Sodium: require critical life support and AED level monitoring
+  
+### Women of Child Bearing Age
+* Discuss risk of AEDs causing neuro developmental problems, and risk benefits or adjusting medication
+* Contraception:
+	* Enzyme inducing AED (Carbemazepine, Phenytoin) dosage of combined pill adjustment
+	* Progesterone only pill or progesterone implant not recommended if taking AED
+	* Additional barrier methods should be discussed
+* SUDEP and status epilepticus needs to be discussed before stopping AED during pregnancy
+* Focal, absence or myoclonic seizure no evidence affects pregnancy unless falls risk
+* Foetus at higher risk of harm during generalised tonic clonic seizure, though increase in seizure frequency during pregnancy and in first few months after birth does not increase
+* Risk of seizure during birth low, but high enough to necessitate obstetric unit with resus facilities
+* Breastfeeding while taking AED not generally a concern and should be encouraged
+  
+### Genetic Counselling
+* Increased risk of epilepsy of children whose parents have epilepsy, low risk but function of Fx Hx
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg137">CG137 Epilepsies: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

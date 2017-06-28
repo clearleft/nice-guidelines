@@ -1,0 +1,53 @@
+# Chronic Kidney Disease
+
+## Diagnosis
+
+* CKD defined: eGFR < 60 on two consecutive occasions separated by 90 days
+* Use GFR and ACR to indicate risk of adverse outcome
+* Classification eGFR > 90 = 5; 60-89 = 4; 45-59 = 3a; 30-44 = 3b;  15-134 = 5; < 15 = 5
+* ACR < 3 = normal (A1); 3-30 = moderately increased (A2); > 30 = severely increased (A3)
+* Note eGFRcreatinine, eGFRcystatinC demark the basis of estimation, if accurate measurement required: inulin, 51Cr-EDTA
+*  Accelerated Progression: sustained decrease of > 25% GFR and change in category within 12 mths OR a sustained decrease in GFR of 15 per year, more likely to reach end stage
+* Extrapolate rate of decline and account in planning intervention strategies
+* Risk factors for progression: Diabetes; CVD; Proteinuria; AKI; HTN; Smoking; African; Chronic NSAIDs; untreated urinary outflow obstruction
+  
+## Investigation
+
+* If creatinine measured, eGFR should be reported per CKD-EPI algorithm, if African x 1.159, interpret with caution if have extreme muscle mass
+* Frequency: agree with patient, not progressive in many, tailor according to underlying cause, function of stage of kidney disease
+* Test Creatinine annually if nephrotoxic drugs: NSIADs, Lithium, Calcineurin Inhibitors (Tacrolimus), noted chronic NSAID associated with progression, acute with reversible change
+* Test ACR & eGFRcreatinine: Diabetes; AKI; CVD; structural kidney disease; Fx end stage renal failure
+* Renal ultrasound: if accelerated progression of CKD; GFR < 30; persistent invisible haematuria; symptoms of urinary tract obstruction; Fx of PKD
+  
+### Proteinuria:
+* Use urine ACR in preference to protein : creatinine ratio (PCR)
+* Do not use strips unless able to express at low concentration as ACR
+* Proteinuria if ACR > 3 mg/mmol, if initial result 3-70, retest with early morning sample
+* Quantify urine albumin loss if diabetic or eGFR < 60
+  
+### Invisible Haematuria:
+* Use reagent strips and investigate for urinary tract malignancy if result of 1+ or more, with positives in 2 out of 3 tests, followed up annually
+  
+## Management
+
+### Conservative:
+* Lifestyle: encourage people with CKD to take exercise, achieve a healthy weight and stop smoking
+* Diet: offer dietary advice re potassium, phosphate, calorie and salt intake appropriate to  severity
+* Specialist referral: GFR < 30; ACR > 70 or > 30 with haematuria, or accelerated progression
+  
+###  Pharmacological Therapy:
+* CKD aim BP < 140/90, or if diabetes < 130/80
+* ACE inhibitor: diabetes and ACR > 3 (A2), hypertension and ACR > 30 (A3) OR ACR > 70
+* Expect GFR to fall, continue if GFR change < 25% or creatinine rise < 30%
+* Measure  K+ before starting ACE (potassium sparing), do not offer if > 5.0, investigate accordingly
+* HTN: All others follow CG127
+* Statins: follow CG181
+* Anti-platelet: offer for secondary prevention of CVD
+* Consider Apixiban in preference to Warfarin if GFR 30-50 and AF with prior stroke, HTN, DM, >75
+  
+### Bone Metabolism and Osteoporosis
+* Do not routinely measure Ca2+, PO4-, PTH, Vitamin D levels if GFR > 30
+* Vitamin D deficiency + CKD: Colecalciferol or Ergocalciferol, but not vitamin D supplements
+* Anaemia: check Hb is GFR < 45
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg182">CG182 Chronic kidney disease in adults: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

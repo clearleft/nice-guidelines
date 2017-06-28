@@ -1,0 +1,51 @@
+# Eating Disorders (Anorexia)
+
+## Diagnosis
+
+* n/a
+  
+## Investigation
+
+### Physical Examination:
+* Lanugo hair, palor, brittle hair and nails, Peripheral cyanosis, Russell’s sign
+* Eroded tooth enamel, Parotid Glands
+* BMI
+* Hypotension/Bradycardia (Heart Failure)
+  
+### Blood Tests:
+* FBC,ESR, U&E’s, TFT
+* Bone profile (osteoporosis)
+* Cholesterol
+* Endocrine profile
+* ECG
+* ECHO – if indicated
+
+## Management
+
+### Acute
+* Self-harm and suicide risk
+  
+### Anorexia Nervosa
+* Conservative
+* Symptom-focused treatment regimen with the expectation of weight gain
+* Dental review
+* Refrain from physical sports where falls likely
+* If BMI <13.5 treat as in-patient considering consent
+* Can be sectioned under MHA
+* Refeeding syndrome: ensuring electrolyte balance adequate
+* Feeding against the will of the patient should be an intervention of last resort in the care and management of anorexia nervosa
+* Medical
+	* Little evidence
+* Psychological Intervention
+	* Family involvement in therapy useful
+	* Cognitive Analytic Therapy (CAT) & CBT  (Less treatment seeking, hence talking therapies less likely to be successful)
+  
+### Bulimia Nervosa
+* Conservative
+* Dental review
+* Medical
+	* SSRI (Fluoxetine Prozac)
+* Psychological Intervention
+	* Interpersonal psychotherapy alternate to CBT
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg9">CG9 Eating disorders in over 8s: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

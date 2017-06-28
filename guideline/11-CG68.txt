@@ -1,0 +1,58 @@
+# Stroke
+
+## Diagnosis
+
+* FAST: Outside hospital Face Arms Speech Test
+* ROSIER Recognition of Stroke in Emergency Room
+* If Thrombotic
+	* Carotid (80%): unilateral motor +/- amourosis fugax
+	* Verterobasilar (20%): bi-lateral visual, hemiparesis
+  
+## Investigation
+
+TIA suspected, conduct assessment ASAP:
+
+* ABCD<sup>2</sup> score: Age >60 =1; BP >140/90 =1; Clinical  Unilateral weakness =2, speech disturbance =1; Duration > 60 min = 2, 10-59 = 1; Diabetes =1
+  
+### Imaging
+* Brain Scan: Diffusion weighted MRI
+* TIA suspected but symptoms resolved: specialist review within 1 week before imaging
+* TIA + ABCD<sup>2</sup> > 4: Urgent brain scan if pathology uncertain
+* Acute Stroke: Urgent brain scan if on anti-coagulant; known bleeding disorder; GCS < 13; Unexplained fluctuating symptoms; Papilloedema; Severe headache at onset of stroke symptoms
+* Carotid Imaging (Doppler) If candidates for carotid endarterectomy, within 1 week
+
+## Management
+
+* Transient Ischemic Attack: symptoms signs resolved within 24 hrs
+* ABCD<sup>2</sup> > 4 or < 3 but stroke suspected: 300 mg aspirin loading dose + secondary prevention measures (RCP recommend 75 mg clopidogrel and statin)
+* Crescendo TIA (> 2 in a week) treat for high risk stroke
+  
+### Carotid Endarterectomy
+* If stable non disabling stroke or TIA, should undergo surgery within 2 wks if carotid stenosis between 50-99 % as well as receiving best medical treatment
+* If < 50% best medical treatment only (BP, Anti-platelet, Cholesterol lowering, lifestyle advice)
+  
+### Acute Stroke
+* Alteplase in conjunction with level 1 & 2 nursing and access to imaging and per marketing authorisation (BNF 2.10.2 states within 4.5 hrs)
+* If inter-cerebral haemorrhage excluded by imaging: 300 mg Aspirin PO or rectally if dysphagic, started within 24 hrs and continued for 14 days
+* After 14 days definitive anti-thrombotic (e.g. 75 mg Clopidogrel)
+* If also in AF treat with 300 mg Aspirin only for 14 days, before considering ant-coagulant
+* If already receiving anticoagulants: Prosthetic valves stop and replace with Aspirin 300 mg for 7 days, but if DVT/PE should receive anti-coagulant instead
+* If dyspeptic then offer + PPI, intolerant consider alternate anti-platelet
+* Treat O2 sats < 94 %, 4 > CBG > 11, hypertensive emergencies
+* Swallow test < 24 hrs: if unable to feed orally given NGT +/- bridle or gastrostomy if cannot tolerate
+* Hydration and nutrition: BMI + The Malnutrition Universal Screening Tool (MUST)
+* Food and fluids should be given in form that reduces risk of aspiration (Pneumonia) ie. thickened
+* Mobilise as soon as possible: key concept in initial care
+  
+### Non Thrombotic Presentations
+* Venous Sinus Thrombosis: Anticoagulate INR 2-3
+* If Haemorrhagic stroke: Reverse anti-coagulation IV Vit K + Prothrombin Complex (Beriplex)
+  
+### Surgery
+* Neurosurgical treatment may be indicated for a very small number of carefully selected patients
+* Previously fit people should be considered for surgical intervention following primary intracranial haemorrhage if they have hydrocephalus
+
+
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg68">CG68 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

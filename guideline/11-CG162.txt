@@ -1,0 +1,57 @@
+# Stroke Rehabilitation
+
+## Diagnosis
+* n/a
+  
+## Investigation
+* n/a
+  
+## Management
+
+* MDT stroke rehabilitation team should comprise the following with expertise in stroke rehab:
+	* Consultant physicians
+	* Nurses
+	* Physiotherapists
+	* Occupational therapists
+	* Speech and language therapists
+	* Clinical psychologists
+	* Rehabilitation assistants
+	* Social workers
+* Transfer from Hospital
+* Offer early supported discharge if able to transfer from bed to chair independently or with assistance, as long as a safe and secure environment can be provided
+* Before transfer from hospital to home or care setting, discuss & agree a health and social care plan, and that they have a safe and enabling home environment (i.e. adaptations made)
+  
+### Stroke Rehabilitation
+* Screen for:
+	* Orientation
+	* Positioning, moving and handling
+	* Swallowing
+	* Transfers (for example, from bed to chair)
+	* Pressure area risk
+	* Continence
+	* Communication, incl. ability to understand, follow instructions and convey needs wishes
+	* Nutritional status and hydration
+* Perform full medical assessment: incl. cognition, vision, hearing, tone, strength, sensation, balance
+* National Institutes of Health Stroke Scale
+* Barthel Index
+* Goal Setting: Meaningful and relevant focussing on activity and participation
+* Offer initially at least 45 minutes of each relevant stroke rehabilitation for min 5 days/week
+  
+### Cognitive Functioning
+* Screen for cognitive defects
+* Assess visual neglect and offer interventions to help scan to neglected side e.g. highlighting
+* Assess memory and offer interventions such as elaborative techniques, diaries, lists
+* Attention deficit
+  
+### Emotional function
+
+* Refer to appropriate services, manage anxiety and depression
+
+### Visual problems
+* Eye movement therapy or orthoptic assessment
+
+### Swallowing
+* Offer swallowing therapy 3 x week, for as long as they make functional gains
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg162">CG162 Stroke rehabilitation in adults</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

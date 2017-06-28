@@ -1,0 +1,66 @@
+# Acute Kidney Injury
+
+## Diagnosis
+
+* Ensure AKI considered if presents with illness and has CKD, or new onset urological symptoms
+	* Investigate for AKI if
+	* eGFR < 60 ml/min/1.73m2 (Stage 2)
+	* Oliguria, Hypovolaemia, Neurological dysfunction reliance of carer for hydration
+	* Nephrotoxic drugs: NSAID, ACE/ARB, Diuretic, Aminoglycosides, ioidiated contrast past wk
+	* Heart Failure, Liver disease, Sepsis, Symptoms of urological obstruction
+	* > 65 yrs, Hx of AKI
+	* Deteriorating EWS
+	* Children: Diarrhoea, Haematological malignancy
+
+## Investigation
+
+* Measure serum creatinine, compare with baseline, noting in CKD a rise in creatinine may mean acute kidney injury on chronic versus worsening chronic
+* CG50 track and trigger systems (EWS) used to identify patients at risk of AKI, EWS paeds aggregate weighted measure to include: HR, RR, SBP, GCS, Sats, Temp, Cap refill
+* If at risk measure: urine output, weight (fluid balance), U+Es, Lactate, ABG
+  
+###  Detection criteria for AKI:
+* Rise of serum creatinine of > 26 micromol/l in less than 48 hrs
+* 50 % rise in serum creatinine over 7 days
+* Fall in urine output < 0.5 ml/kg/hr for more than 6 hours (8 hr in children)
+* Children: >25 % fall in eGFR over 7 days
+  
+### Identify Cause
+* Urinalysis: urine dip protein, blood, leucocytes, nitrates and glucose,
+* Nephritis must be considered if haematuria & proteinuria w/o UTI or trauma or other cause known
+* USS: do not routinely offer if cause of AKI has been identified, unless pyelonephritis or risk of urinary tract obstruction
+  
+## Management
+
+### Preventing Acute Kidney Injury
+* Contrast agents measure eGFR, at risk if:
+	* eGFR < 40, diabetes, heart failure, renal transplant, hypovolaemia, > 75, increased volume or inter arterial use of contrast
+	* Patients should be volume expanded
+	* Stop ACE / ARB if eGFR < 40
+* Surgery at risk if: emergency or intraperitoneal surgery, eGFR < 60, diabetes, heart failure, liver failure, > 65, Nephrotoxic drugs incl NSAIDs
+* Consider temporarily stopping ACE inhibitors and ARBs in patients with diarrhoea, vomiting or sepsis until their clinical condition has improved
+  
+### Urological Obstruction:
+* Refer if obstructed single kidney, bilateral upper tract obstruction, pyonephrosis, complications due to obstruction
+  
+### Pharmacological Management
+* Loop diuretic: not routine in AKI but if fluid overload / oedema awaiting transplant or improving
+  
+### Renal Replacement
+* Discuss with nephrologist, whether benefit if significant co-morbidity, decide on overall condition
+* Refer for replacement in following if not responding to medical management: hyperkalaemia,  metabolic acidosis, uraemia leading to pericarditis, fluid overload / oedema
+* Specialist: diagnosis of vasculitis, glomerulonephritis, myeloma; AKI w/o known cause; inadequate response; stage 3 AKI, CKD stage 4-5, eGRF < 30 following AKI
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg169">CG169 Acute kidney injury: prevention, detection and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+
+
+
+
+NICE Guidance on a page By Dr DP Sheppard MBBS
+
+
+
+
+
+
+

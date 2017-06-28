@@ -1,0 +1,67 @@
+# CG186 Multiple Sclerosis
+
+## Diagnosis
+
+* Clinical presentation:
+	* Loss or reduction of vision in 1 eye with painful eye movement (optic neuritis) refer to neuro
+	* Double vision
+	* Ascending sensory disturbance and/or weakness
+	* Problems with balance, unsteadiness or clumsiness
+	* Lhermitte's symptom
+* Patients usually < 50, previous neuro Hx and symptoms last > 24 hrs often days weeks then improve
+* Don’t diagnose on fatigue alone, must have focal neurology
+* Don’t diagnose on MRI imaging alone
+* Only Neurologist may diagnose, consistent with inflammatory process and exclude per list below
+* MS symptoms:
+	* Mobility and balance including falls, need for mobility aids including wheelchair assessment
+	* Use of arms and hands
+	* Muscle spasms and stiffness
+	* Tremor
+	* Bladder & bowel incontinence and sexual function
+	* Aensory symptoms and pain
+	* Speech and swallowing
+	* Vision
+	* Cognitive symptoms
+	* Fatigue
+	* Depression
+  
+## Investigation
+
+* Exclude other diagnoses: FBC, LFTs, U+Es, TFTs, Ca2+, Glucose, ESR, CRP, B12, HIV
+
+## Management
+
+* Consultant neurologist to discuss disease, modifying treatment, symptom management
+* MDT approach: Consultant neurologist, MS nurse, physiotherapists, SALT, GP
+  
+### Conservative:
+* Exercise: may be beneficial and not harmful
+* Vaccination: live vaccination may be contra-indicated if taking disease modifying therapy
+* Pregnancy: relapse may reduce during pregnancy but increase 3-6 mths post natally
+* Smoking: may increase progression of disability
+  
+### Symptom Management
+* Treat: depression, anxiety, difficulty sleeping, cognitive or memory problems, as well as medical issues such as anaemia or thyroid disease
+* Fatigue. Conservative: Explain heat, stress may precipitate. Medical: Amantadine (blocks D2 uptake). Interventional: CBT and Mindfulness
+* Mobility: Assess goals and ways to achieve involving rehabilitation (supervised exercise) and physiotherapists
+* Spasticity. Treat aggravating factors such as constipation, UTI, pressure ulcers and pain 
+* Pharmacological:
+	* First Line: Baclofen, Gabapentin alone or combined
+	* Second Line: Tizanidine or Dantrolene
+	* Third Line: Benzodiazepines
+	* Refer to specialist if cannot be managed medically
+* Oscillopsia (Objects appear to oscillate)
+	* First Line: Gabapentin
+	* Second Line: Memantine
+* Emotional Lability: Amitriptyline
+* Neuropathic pain: per CG173
+* Symptom review annually
+  
+### Acute Replace:
+* Relapse: new symptoms or worsening existing symptoms lasting > 24 hrs without infection or other cause, after stable for > 1 month
+* Medical treatment: PO methylprednisolone 0.5 g daily for 5 days, or IV if failed
+* Assess social care needs
+* Do not offer vitamin D or Omega 3 fatty acids
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg186">CG186 Multiple sclerosis in adults: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

@@ -1,0 +1,29 @@
+# Generalised Anxiety, Social Anxiety Disorder, OCD and PTSD
+
+## Diagnosis
+* n/a
+  
+## Investigation
+
+* Assess severity:
+	* Social anxiety: Mini social phobia inventory
+	  
+## Management
+
+### Acute
+* Respiratory alkalosis
+* Self-harm and suicide risk
+  
+### Conservative
+* Social anxiety: 1st line individual CBT (not group)
+* OCD: local self help and support groups; CBT including Exposure Response Prevention (ERP)
+* PTSD: <3mths Watchful waiting; Relaxation >3mths focused CBT / eye movement desensitisation
+* Phobia: Behavioural therapy – non collaborative stage-wise desensitization (eg spider)
+  
+###  Medical
+* Social / OCD / Panic: 2nd Line SSRI (Sertraline). Monitor 1st week, increased suicide risk. Relapse risk unlike CBT
+* PTSD: 2nd line NSRI Mirtazepine (specialists only)
+* Severe cases: Intensive CBT + SSRI
+* Anxiety 20 to depression, treating depression first
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg31">CG31 Obsessive-compulsive disorder and body dysmorphic disorder: treatment</a></cite>, <cite><a href="https://www.nice.org.uk/guidance/cg113">CG113 Generalised anxiety disorder and panic disorder in adults: management</a></cite>, <cite><a href="https://www.nice.org.uk/guidance/cg26">CG26 Post-traumatic stress disorder: management</a></cite> and <cite><a href="https://www.nice.org.uk/guidance/cg159">CG159 Social anxiety disorder: recognition, assessment and treatment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>

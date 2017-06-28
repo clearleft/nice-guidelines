@@ -129,9 +129,9 @@ include($dr . "header.php");
 	<h1>Endocrinology</h1>
 	<ul class="cat-links">
 		<li><a href="/guideline/05-CG10">Diabetic Foot Problems <img src="/i/chevron-right.svg" alt="" /></a></li>
+		<li><a href="/guideline/05-CG146">Osteoporosis <img src="/i/chevron-right.svg" alt="" /></a></li>
 		<li><a href="/guideline/05-CG15">Type 1 Diabetes Mellitus <img src="/i/chevron-right.svg" alt="" /></a></li>
 		<li><a href="/guideline/05-CG87">Type 2 Diabetes Mellitus <img src="/i/chevron-right.svg" alt="" /></a></li>
-		<li><a href="/guideline/05-CG146">Osteoporosis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -177,8 +177,8 @@ include($dr . "header.php");
 	<a href="#cat-08" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Haematology</h1>
 	<ul class="cat-links">
-	<li><a href="/guideline/08-CG143">Sickle Cell Acute <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/08-CG151">Neutropenic Sepsis Prevention <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/08-CG143">Sickle Cell Acute <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -198,6 +198,10 @@ include($dr . "header.php");
 	<a href="#cat-10" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Nephrology</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/10-CG169">Acute Kidney Injury <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/10-CG2">Bladder Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/10-CG182">Chronic Kidney Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/10-CG187">Hyperphosphataemia <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -207,6 +211,17 @@ include($dr . "header.php");
 	<a href="#cat-11" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Neurology</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/11-CG35">Parkinson’s Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG68">Stroke <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG102">Bacterial Meningitis <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG105">Motor Neurone Disease <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG109">Transient Loss of Consciousness <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG137">Epilepsies <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG150">Headaches <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG162">Stroke Rehabilitation <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG173">Neuropathic Pain <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG176">Head Injury <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/11-CG186">Multiple Sclerosis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -216,6 +231,7 @@ include($dr . "header.php");
 	<a href="#cat-12" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Opthalmology</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/12-CG85">Glaucoma <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -225,6 +241,11 @@ include($dr . "header.php");
 	<a href="#cat-13" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Psychiatry</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/13-CG9">Eating Disorders (Anorexia) <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/13-CG31">Generalised Anxiety, Social Anxiety Disorder, OCD and PTSD <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/13-CG90">Depression in Adults <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/13-CG115">Alcohol Mis-use Disorder <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/13-CG178">Psychosis & Schizophrenia and Bi-Polar Disorder <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>

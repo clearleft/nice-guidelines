@@ -1,0 +1,53 @@
+# Motor Neurone Disease
+
+## Diagnosis
+
+* MDT: Neurologist, Respiratory Physician, MND specialist, Respiratory Phyiologist & Physiotherapist. Palliative Care specialist and SALT
+* Monitor for symptoms of respiratory impairment:
+	* Breathlessness
+	* Orthopnoea
+	* Recurrent chest infections
+	* Disturbed sleep
+	* Non-refreshing sleep
+	* Nightmares
+	* Daytime sleepiness
+	* Poor concentration and/or
+	* Memory
+	* Confusion
+	* Hallucinations
+	* Morning headaches
+	* Fatigue
+	* Poor appetite
+* Signs:
+	* Increased respiratory rate
+	* Shallow breathing
+	* Weak cough[ (PEFR)
+	* Weak sniff
+	* Abdominal paradox (inward movement of the abdomen during inspiration)
+	* Use of accessory muscles of respiration
+	* Reduced chest expansion on maximal inspiration
+
+## Investigation
+
+* Oxygen saturation
+* Forced Vital Capacity. If < 50 % predicted discuss treatment, specialist referral and impact
+* Sniff nasal inspiratory pressure. If <  40 cmH2O discuss treatment, specialist referral and impact
+* If bulbar palsy then measure O2 sats, but not other function tests if interfaces not available
+* Perform ABG is Sats < 94 %, with no lung disease, < 92% with lung disease
+* If sleep related problems or Orthopnoea, but Sats > above limits then refer to specialist
+* If PaCO2 > 6 kpa refer to specialist to be seen within 1 week
+
+## Management
+
+* Offer advice on Non-invasive ventilation at appropriate time, sensitively but soon after diagnosis, and assess carer support and training needs
+* Offer NIV is symptoms and signs likely to benefit, or trial only if likely to benefit first from improvement in sleep related symptoms
+* Before starting NIV, MDT should consider:
+	* Tolerance
+	* Risk of ventilator failure
+	* How easily may get to hospital
+	* Need for humidifier
+* Before commencing NIV, MDT to develop care plan
+* Planning end of life care: Discuss at commencement or decline of NIV; becoming more dependent on NIV, or when they ask
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg105">CG105 Motor neurone disease: non-invasive ventilation</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
