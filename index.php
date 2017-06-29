@@ -6,7 +6,7 @@ $home=true;
 ?>
 
 <!DOCTYPE html>
-<html lang="en-gb" manifest="manifest.appcache">
+<html lang="en-gb" manifest="/manifest.appcache">
 <head>
 
 <?php
