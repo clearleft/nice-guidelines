@@ -25,4 +25,4 @@
 ### Laparoscopic Fundoplication* Consider for those with confirmed diagnosis of acid reflux, and adequate control with acid suppression therapy but do want to continue or cannot tolerate* If Barrett’s oesophagus diagnoses, offer endoscopic surveillance for cancer progression
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg184">CG184 Gastro-oesophageal reflux disease and dyspepsia in adults: investigation and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg184">CG184 Gastro-oesophageal reflux disease and dyspepsia in adults: investigation and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

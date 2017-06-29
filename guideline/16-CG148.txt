@@ -50,4 +50,4 @@ Only those who have a history of symptomatic urinary tract infection after cathe
 * Bladder stones: report catheter blockage, haematuria
 * Bladder cancer report haematuria
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG148">CG148 Urinary incontinence in neurological disease: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG148">CG148 Urinary incontinence in neurological disease: assessment and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

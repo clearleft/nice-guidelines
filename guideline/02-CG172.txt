@@ -43,4 +43,4 @@ Range of options with an exercise component to meet needs of all ages, including
 * All patients with MI should have cardiologist review for revasculaisation
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg172">CG172 Myocardial infarction: cardiac rehabilitation and prevention of further MI</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg172">CG172 Myocardial infarction: cardiac rehabilitation and prevention of further MI</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

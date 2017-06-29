@@ -36,4 +36,4 @@
 ### Maintaining Remission* Proctitis and Procto-sigmoiditis: amino-salicyclate topical +/- PO daily or intermittent* Left sided or extensive UC: amino-salicyclate PO daily or intermittent* Consider oral Azathioprine or oral Mercaptopurine to maintain remission after two or more inflammatory exacerbations in 12 months, and not maintained by ASA OR single episode or acute severe UC
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg166">CG166 Ulcerative colitis: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg166">CG166 Ulcerative colitis: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

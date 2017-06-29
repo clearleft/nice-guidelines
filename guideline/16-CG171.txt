@@ -75,4 +75,4 @@ If conservative management for SUI has failed, offer:
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG171">CG171 Urinary incontinence in women: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG171">CG171 Urinary incontinence in women: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

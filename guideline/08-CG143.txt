@@ -43,4 +43,4 @@
 * Encourage own coping mechanisms (for example, relaxation techniques) for dealing with acute pain
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg143">CG143 Sickle cell disease: managing acute painful episodes in hospital</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg143">CG143 Sickle cell disease: managing acute painful episodes in hospital</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

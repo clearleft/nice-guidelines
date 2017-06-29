@@ -16,4 +16,4 @@ n/a
 * Offer all patients with hyperglycaemia without klnown diabetes: HbA1c, fasting blood glucose
 * Offer: smoking cessation, weight management, diet, physical exercise advice
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg130">CG130 Hyperglycaemia in acute coronary syndromes: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg130">CG130 Hyperglycaemia in acute coronary syndromes: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

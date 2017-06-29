@@ -33,4 +33,4 @@ If lifestyle modification ineffective:
 * Measure liver transaminases (ALT, AST) before commencement and at 3 mths and 12 mths. Only stop therapy if raised > 3 x baseline  
 * Ezetimide: consider for those with primary hypercholesterolaemia
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg181">CG181 Cardiovascular disease: risk assessment and reduction, including lipid modification</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg181">CG181 Cardiovascular disease: risk assessment and reduction, including lipid modification</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

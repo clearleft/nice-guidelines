@@ -35,4 +35,4 @@
 * LDL apheresis offered in instance of progressive symptomatic CHD
 * Liver transplantation should be considered with homozygous disease in which lipid lowering and apheresis are not successful
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg71">CG71 Familial hypercholesterolaemia: identification and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg71">CG71 Familial hypercholesterolaemia: identification and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

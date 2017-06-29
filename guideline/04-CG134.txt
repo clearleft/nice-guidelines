@@ -28,4 +28,4 @@ Management
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg134">CG134 Anaphylaxis: assessment and referral after emergency treatment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg134">CG134 Anaphylaxis: assessment and referral after emergency treatment</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

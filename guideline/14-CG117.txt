@@ -1,0 +1,77 @@
+# Tuberculosis
+
+## Diagnosis
+
+* Mantoux test for household and non-household close contacts with active TB
+* Interferon gamma testing for BCG vaccinated people, in which Mantoux is positive
+* New entrants from high incidence country: < 5 Mantoux, > 5 Mantoux and Interferon Gamma test
+* If HIV and CD4 < 200 OR other immune-compromise, then offer Interferon gamma testing & concurrent Mantoux
+* If either positive clinically assess and consider treating latent TB infection
+
+## Investigation
+
+* PA Chest X ray - If suggestive then further investigation:
+* Multiple sputum samples (minimum 3 incl early morning) sent for TB miscroscopy (ZN staining)
+* Biopsy of fine needle aspiration if non-respiratory TB suspected:
+	* Lymph node
+	* Pus from lymph node
+	* Pleural biopsy
+	* Any surgical sample
+* All non-respiratory TB patients to have an X ray to exclude co-existing respiratory TB
+* Site specific investigations:
+	* Lymph node: Aspirate
+	* Bone: X ray; CT; MRI; Biopsy: Paraspinal abscess
+	* Gastro-intestinal: USS; CT; Biopsy: Omentum, Bowel; Culture: Biopsy, Ascites
+	* Genitourinary: IV Urography; USS; Biopsy: site of disease; Culture: Early morning urine
+	* Disseminated: High res CT thorax; Biopsy: Lung, Liver, Bone Marrow; Culture: Bronch wash
+	* CNS: CT brain, MRI; Biopsy: Tuberculoma; Culture: CSF
+	* Skin: Biopsy: site of disease; Culture: site of disease
+	* Pericardium: Echo; Biopsy: Pericardium; Culture: Pericardial fluid
+	* Abscess: USS; Biopsy: site of disease; Culture: site of disease
+* Rapid diagnostic tests for Mycobacterium Tuberculosis should only be conducted if rapid confirmation would change their care
+* If risk assessment suggests multi-drug resistance TB then rapid diagnostic test required for Rifampicin resistance
+
+## Management
+
+* Respiratory TB defined as TB affecting: Lungs, pleural cavity, mediastinal lymph nodes, larynx
+* If signs and symptoms consistent with TB, treatment should be started
+* Continue treatment regimen if subsequent cultures are negative
+  
+### Antibiotic Regimens
+* 'Standard recommended regimen': 2 mth RIPE, 4 subsequent mths RI
+* 6-month, four-drug initial regimen (6 months of isoniazid and rifampicin supplemented in the first 2 months with pyrazinamide and ethambutol) should be used to treat active respiratory TB in:
+	* Adults not known to be HIV positive
+	* Adults who are HIV positive
+	* Children
+* Fixed dose combination tablets should be used as part of any regimen (RI = Rifinah, RIP = Rifater)
+* A trice weekly regimen recommended for those under DOTS
+  
+### Admission
+* Should not be admitted unless socio-economic case
+* If admitted: Infection control, isolated negative pressure side room
+* Patients admitted to an environment with immunocompromised patients should stay in a negative pressure room until patient completed at least 2 weeks of appropriate multi drug therapy and 3 negative smears if moving to inpatient setting, as well as ability to tolerate regimen and is improving (applies to originally smear negative patients)
+* Wear surgical mask when leave room
+* Manage Non Respiratory TB
+* Meningeal TB: 2 mth RIPE, 10 subsequent mths RI + Gluco-corticoid (prednisolone), daily dosing
+* Bone & Joint: standard regimen, daily dosing; CT or MRI if spinal TB with neurological signs
+* Spinal TB: anterior fusion only considered if spinal instability or cord compression
+* Pericardial TB: standard regimen, daily dosing + Gluco-corticoid (prednisolone)
+* Disseminated TB: standard regimen, daily dosing; Check for CNS involvement CT/MRI brain + LP
+* All else: standard regimen, daily dosing
+* Monitoring adherence
+* If adverse risk of non-adherence, then consider directly observable treatment
+* Drug resistant treatment should be followed up 12 mths after completing treatment
+* Latent TB management considered if:
+	* Strongly Mantoux positive (> 15mm) & Interferon gamma positive with prior BCG
+	* Mantoux positive without BCG
+* for the following groups
+	* < 35 (hepato-toxicity)
+	* HIV
+	* Healthcare worker
+
+See NICE Guidance for more details.
+
+* Contact tracing: Once a person has been diagnosed with active TB, the diagnosing physician should inform relevant colleagues so that the need for contact tracing can be assessed without delay. Contact tracing should not be delayed until notification.
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg117">CG117 Tuberculosis: clinical diagnosis and management of tuberculosis, and measures for its prevention and control</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

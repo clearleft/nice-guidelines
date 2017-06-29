@@ -13,4 +13,4 @@
     * Colonic Surveillance in patients with IBD:	* Low risk: offer colonoscopy at 5 years	* Intermediate risk: offer colonoscopy at 3 years	* High risk: offer colonoscopy at 1 year* Colonic Surveillance in patients with previous adenomas:	* Low risk: consider colonoscopy at 5 years	* Intermediate risk: offer colonoscopy at 3 years	* High risk: offer colonoscopy at 1 year* If colonoscopy not appropriate consider CT colonoscopy or if not appropriate double contrast barium enema
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg118">CG118 Colorectal cancer prevention: colonoscopic surveillance in adults with ulcerative colitis, Crohn's disease or adenomas</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg118">CG118 Colorectal cancer prevention: colonoscopic surveillance in adults with ulcerative colitis, Crohn's disease or adenomas</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

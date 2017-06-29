@@ -31,4 +31,4 @@
 ### Surgical
 * Liver tx: if decomp CLD
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg115">CG115 Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg115">CG115 Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

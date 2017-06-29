@@ -55,4 +55,4 @@
 * Oxygen: only offer if sats < 94 %, COPD 88-92%
 * Monitor: Pain, HR, Rhythm, BP, O2 sats, ECG
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg95">CG95 Chest pain of recent onset: assessment and diagnosis</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg95">CG95 Chest pain of recent onset: assessment and diagnosis</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -66,4 +66,4 @@ When conservative failed and bothersome
   * Consider offering implanted sacral nerve stimulation to manage detrusor overactivity
   * Consider offering urinary diversion to manage intractable urinary tract symptoms only
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg97">CG97 Lower urinary tract symptoms in men: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg97">CG97 Lower urinary tract symptoms in men: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -44,4 +44,4 @@
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg161">CG161 Falls in older people: assessing risk and prevention</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg161">CG161 Falls in older people: assessing risk and prevention</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

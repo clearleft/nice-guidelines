@@ -81,4 +81,4 @@ Primary health care professionals contact 999
 * Test for complement deficiency if > 1 episode of meningococcal disease or any other serogroup than B
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG102 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG102 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

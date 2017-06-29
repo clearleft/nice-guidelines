@@ -1,0 +1,38 @@
+# Respiratory Tract Infection – Anti-biotic Guidance
+
+## Diagnosis
+
+* Primary Care - The following should be offered a clinical assessment:
+	* Acute otitis media (4 day natural course)
+	* Acute sore throat/acute pharyngitis/acute tonsillitis (1 week)
+	* Common cold (1.5 wks)
+	* Acute rhinosinusitis (2.5 wks)
+	* Acute cough/acute bronchitis (3 wks)
+* The clinical assessment should include a history (presenting symptoms, use of over-the-counter or self medication, previous medical history, relevant risk factors, relevant comorbidities) and if indicated, an examination to identify relevant clinical signs.
+  
+## Investigation
+
+* n/a
+  
+## Management
+
+* No anti-biotics (or delayed) should be offered for the above conditions.
+* Reassurance that antibiotics are not needed immediately because they are likely to make little difference to symptoms and may have side effects, for example, diarrhoea, vomiting and rash.
+* Offer a clinical review if the condition worsens or becomes prolonged.
+* Give advice about managing symptoms, including fever (particularly analgesics and antipyretics.
+  
+### Anti-biotics can be considered for the following:
+* Bilateral acute otitis media in children younger than 2 years.
+* Acute otitis media in children with otorrhoea.
+* Acute sore throat/acute pharyngitis/acute tonsillitis when three or more Centor criteria are present.
+* If the patient is systemically very unwell.
+* If the patient has symptoms and signs suggestive of serious illness and/or complications (particularly pneumonia, mastoiditis, peritonsillar abscess, peritonsillar cellulitis, intraorbital and intracranial complications).
+* If the patient is at high risk of serious complications because of pre-existing comorbidity. This includes patients with significant heart, lung, renal, liver orneuromuscular disease, immunosuppression, cystic fibrosis, and young children who were born prematurely.
+* If the patient is older than 65 years with acute cough and two or more of the following criteria, or older than 80 years with acute cough and one or more of the following criteria:
+	* Hospitalisation in previous year
+	* Type 1 or type 2 diabetes
+	* History of congestive heart failure
+	* Current use of oral glucocorticoids
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg69">CG69 Respiratory tract infections (self-limiting): prescribing antibiotics</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -1,0 +1,62 @@
+# Rheumatoid Arthritis
+
+## Diagnosis
+
+* Recent onset: < 2 yrs
+* Clinical diagnosis accepted over American Rheumatism Association guidelines 1987
+* Refer urgently if any of the following apply:
+	* Small joints of the hands or feet are affected
+	* More than one joint is affected
+	* Delay of 3 months or longer between onset of symptoms and seeking medical advice
+
+## Investigation
+* Rheumatoid factor blood test if  suspect RA and have synovitis on clinical examination
+* Anti-cyclic citrullinated peptide (CCP) Ab if suspected RA and:
+	* Negative for rheumatoid factor, and
+	* Need to inform decision-making about starting combination therapy
+* X-ray hands and feet early in people with persistent synovitis in these joints
+* CRP measured regularly, and key components of disease activity (e.g. DAS28) to inform decision-making in:
+	* Increasing treatment to control disease
+	* Cautiously decreasing treatment when disease is controlled
+  
+## Management
+
+### Conservative:
+* MDT
+	* Specialist nurse: access
+	* Physiotherapist: improve fitness, encourage regular exercise, exercises for enhancing joint flexibility, muscle strength
+	* Occupational therapist: with ADLs and hand function
+	* Podiatrist: foot problems, offering functioning insoles and therapeutic footwear
+	* Psychological: stress, coping skills
+* Diet: no evidence for complimentary therapy but Mediterranean diet beneficial
+  
+### Pharmacological Therapy
+* Newly diagnosed RA:
+* First Line: combination DMARDs (Methotrexate + min 1 other DMARD + short-term glucocorticoids
+* If disease control achieved, cautiously reduce dose
+* If combination not appropriate: DMARD monotherapy, escalating to a clinically effective dose
+* If introducing new drugs consider stopping / reducing existing drug once disease controlled
+* Managing flares: short-term glucocorticoids with recent-onset or established disease
+
+### Biologics
+* Section 2: for Biologics technology appraisal
+* Anakinra is not recommended not in combination with Anti-TNF
+  
+### Symptom Control:
+* Analgesia
+* Paracetamol regularly for pain relief in addition to core treatments
+* NSAID (topical) for pain relief in addition to core treatments with knee or hand osteoarthritis
+* NSAID/COX-2 inhibitor if non selective NSAID/Paracet ineffective, lowest dose shortest duration
+* NSAID/COX-2 inhibitor: varying gastrointestinal, liver and cardio-renal toxicity
+* If above analgesics not providing control, review DMARDs
+  
+### Surgery Referral
+* Persistent pain due to joint damage or other identifiable soft tissue cause
+* Worsening joint function
+* Progressive deformity
+* Persistent localised synovitis
+* Imminent or actual tendon rupture
+* Nerve compression (for example, carpal tunnel syndrome)
+* Stress fracture.
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg79">CG79 Rheumatoid arthritis in adults: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

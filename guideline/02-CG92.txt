@@ -83,5 +83,5 @@ consider LMWH (or unfractionated) in the following:
 * Pregnancy related risk factors (hyperemesis, pre-eclampsia etc)
 * Co-morbidities
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG92">CG92 Venous thromboembolism: reducing the risk for patients in hospital</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG92">CG92 Venous thromboembolism: reducing the risk for patients in hospital</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>
 

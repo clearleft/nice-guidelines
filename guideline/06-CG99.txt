@@ -18,4 +18,4 @@
 ### Maintenance:* Polyethylene glycol 3350 + electrolytes as the first-line treatment, adding stimulant laxative if not effective
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg99">CG99 Constipation in children and young people: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg99">CG99 Constipation in children and young people: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -55,4 +55,4 @@
 * Discuss withdrawal of life-sustaining treatment or neurological death before and at a different time from, discussing organ donation
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg135">CG135 Organ donation for transplantation: improving donor identification and consent rates for deceased organ donation</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg135">CG135 Organ donation for transplantation: improving donor identification and consent rates for deceased organ donation</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

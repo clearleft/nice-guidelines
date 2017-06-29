@@ -30,4 +30,4 @@
 * MDT (surgeons and interventionalists) should discuss patients with complex 3 vessel disease or doubt about best method
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg126">CG126 Stable angina: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg126">CG126 Stable angina: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -60,4 +60,4 @@ Bilateral subthalamic nucleus (STN) stimulation OR Bilateral globus pallidus int
 * Autonomic disturbance: treat urinary disturbance, ED, constipation, dysphagia
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg35">CG35 Parkinson's disease in over 20s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg35">CG35 Parkinson's disease in over 20s: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

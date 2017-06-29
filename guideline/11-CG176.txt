@@ -65,7 +65,7 @@
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg176">CG176 Head injury: assessment and early management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg176">CG176 Head injury: assessment and early management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>
 
 
 

@@ -22,29 +22,11 @@ include($dr . "head.php");
     font-weight: 300;
     font-display: fallback;
 }
-
-@font-face {
-    font-family: 'Lato';
-    src: url('/fonts/lato-semibold.woff2') format('woff2'),
-    	 url('/fonts/lato-semibold.woff') format('woff');
-    font-style: normal;
-    font-weight: 600;
-    font-display: fallback;
-}
 @font-face {
     font-family: 'Lato';
     src: url('/fonts/lato-regular.woff2') format('woff2'),
     	 url('/fonts/lato-regular.woff') format('woff');
     font-style: normal;
-    font-weight: 500;
-    font-display: fallback;
-}
-
-@font-face {
-    font-family: 'Lato';
-    src: url('/fonts/lato-italic.woff') format('woff2'),
-    	 url('/fonts/lato-italic.woff') format('woff');
-    font-style: italic;
     font-weight: 500;
     font-display: fallback;
 }
@@ -60,7 +42,7 @@ include($dr . "header.php");
 
 <main>
 <h1>NICE Guidance On a Page</h1>
-<p class="intro">Compiled from <abbr title="National Institute for Health and Care Excellence">NICE</abbr> guidance and summarised by <span class="doctor">Dr D&hairsp;P Sheppard MBBS</span>.</p>
+<p class="intro">Compiled from <abbr title="National Institute for Health and Care Excellence">NICE</abbr> guidance and summarised by <span class="doctor">Dr D P Sheppard MBBS</span>.</p>
 <nav class="categories">
 <ul class="catlist">
 
@@ -241,10 +223,10 @@ include($dr . "header.php");
 	<a href="#cat-13" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Psychiatry</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/13-CG115">Alcohol Mis-use Disorder <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/13-CG90">Depression in Adults <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/13-CG9">Eating Disorders (Anorexia) <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/13-CG31">Generalised Anxiety, Social Anxiety Disorder, OCD and PTSD <img src="/i/chevron-right.svg" alt="" /></a></li>
-	<li><a href="/guideline/13-CG90">Depression in Adults <img src="/i/chevron-right.svg" alt="" /></a></li>
-	<li><a href="/guideline/13-CG115">Alcohol Mis-use Disorder <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/13-CG178">Psychosis & Schizophrenia and Bi-Polar Disorder <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
@@ -255,6 +237,13 @@ include($dr . "header.php");
 	<a href="#cat-14" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Respiratory</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/14-CG101">COPD <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG163">Idiopathic Pulmonary Fibrosis (Idiopathic or Crytogenic Fibrosing Alveolitis) <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG121">Lung Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG191">Pneumonia <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG83">Rehabilitation after Critical Illness <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG69">Respiratory Tract Infection – Anti-biotic Guidance <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG117">Tuberculosis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -264,6 +253,8 @@ include($dr . "header.php");
 	<a href="#cat-15" class="back"><img src="/i/chevron-left.svg" alt="Back to"> Categories</a>
 	<h1>Rheumatology</h1>
 	<ul class="cat-links">
+	<li><a href="/guideline/15-CG79">Rheumatoid Arthritis <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/15-CG177">Osteoarthritis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
 </li>
@@ -317,19 +308,11 @@ var fontA = new w.FontFaceObserver( "Lato", {
 	style: "normal"
 });
 var fontB = new w.FontFaceObserver( "Lato", {
-	weight: 600,
-	style: "normal"
-});
-var fontC = new w.FontFaceObserver( "Lato", {
 	weight: 500,
 	style: "normal"
-});
-var fontD = new w.FontFaceObserver( "Lato", {
-	weight: 500,
-	style: "italic"
 });
 w.Promise
-	.all([fontA.check(), fontB.check(), fontC.check(), fontD.check()])
+	.all([fontA.check(), fontB.check()])
 	.then(function(){
 		w.document.documentElement.className += " wf-active";
 	});

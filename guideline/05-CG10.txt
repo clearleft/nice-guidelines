@@ -64,4 +64,4 @@
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg10">CG10 Type 2 diabetes foot problems: Prevention and management of foot problems</a> and <a href="https://www.nice.org.uk/guidance/cg119">CG119 Diabetic foot problems: Inpatient management of diabetic foot problems</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg10">CG10 Type 2 diabetes foot problems: Prevention and management of foot problems</a> and <a href="https://www.nice.org.uk/guidance/cg119">CG119 Diabetic foot problems: Inpatient management of diabetic foot problems</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

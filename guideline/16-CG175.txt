@@ -78,6 +78,6 @@ first 2 year
 * Offer bilateral orchidectomy to all men with metastatic prostate cancer as alternate to LH agonist
 * In hope of retaining sexual function offer anti-androgen monotherapy with bicalutamide
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG175">CG175 Prostate cancer: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG175">CG175 Prostate cancer: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>
 
 

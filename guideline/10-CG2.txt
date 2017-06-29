@@ -66,4 +66,4 @@ via Specialist urology MDT
 * Bladder symptoms: offer palliative hypofractionated radiotherapy if haematuria, dysuria, urinary frequency or nocturia caused by cancer unsuitable for curative treatment
 *  Loin pain: percutaneous nephrostomy or retrograde stenting for people with locally advanced or metastatic bladder cancer and ureteric obstruction
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/ng2">NG2 Bladder cancer: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/ng2">NG2 Bladder cancer: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -37,4 +37,4 @@
 * Pain management: WHO ladder with laxatives and anti-emetics, and referral to pain management team if pain persists and not able to revascularise
 * Amputation once all options to revascualrise have been exhausted
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg147">CG147 Peripheral arterial disease: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg147">CG147 Peripheral arterial disease: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

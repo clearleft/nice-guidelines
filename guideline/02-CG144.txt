@@ -104,7 +104,7 @@
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG144">CG144 Venous thromboembolic diseases: diagnosis, management and thrombophilia testing</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/CG144">CG144 Venous thromboembolic diseases: diagnosis, management and thrombophilia testing</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>
 
 
 

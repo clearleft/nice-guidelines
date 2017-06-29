@@ -64,4 +64,4 @@
 * Do not offer vitamin D or Omega 3 fatty acids
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg186">CG186 Multiple sclerosis in adults: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg186">CG186 Multiple sclerosis in adults: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

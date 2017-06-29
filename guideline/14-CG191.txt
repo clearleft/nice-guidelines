@@ -1,0 +1,48 @@
+# Pneumonia
+
+## Diagnosis
+
+* Note: HAP develops >48 hrs after admission
+* Symptoms of LRTI: fever, sputum, SOB, wheeze, chest pain if no other explanation present
+* Clinical diagnosis: symptoms and signs w/o chest X-ray
+* When managed in hospital diagnosis usually confirmed by chest X-ray
+
+## Investigation
+
+### Primary care
+* CRP: if <20 do not offer Anti-biotics; if >20 delayed script; >100 offer anti-biotics
+* CRB65 (i.e no Urea): Confusion AMTS <8; RR >30; Systolic <90 Diastolic <60
+	* 0 = Home care
+	* 2 = Hospital care
+  
+### Secondary care
+* CURB65: Urea >7 mmol/l
+	* 0-1 = low risk
+	* 2 = Intermediate
+	* 3-4 = Severe hence ITU consideration
+* Microbiology should only be offered for intermediate risk and above
+* Microbiology: Blood & sputum cultures + Legionella & Pneumococcal urinary antigen tests
+
+## Management
+
+* Anti-biotics as soon as possible after diagnosis
+* (Xray) usually within 4 hrs
+* CAP Low severity
+	* Amoxicllin favoured, Macrolide or tetracycline if penicillin allergic
+	* Consider extending course beyond 5 days if no response in 3 days
+* CAP Moderate & High severity
+	* Consider dual therapy Amoxicillin and a macrolide
+	* 7-10 day course
+	* Add beta-lactamase for high severity
+* CAP Do not discharge if within 24 hrs have had:
+	* Temperature higher than 37.5°C
+	* Respiratory rate 24 breaths per minute or more
+	* Heart rate over 100 beats per minute
+	* Systolic blood pressure 90 mmHg or less
+	* Oxygen saturation under 90% on room air
+	* Abnormal mental status
+	* Inability to eat without assistance
+* HAP anti-biotic in line with local policy, 5-10 day course
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg191">CG191 Pneumonia in adults: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

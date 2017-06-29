@@ -18,4 +18,4 @@
 * If undergoing anti-microbial treatment, agents should cover organisms that cause endocarditis, and infection should be investigated and promptly managed
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg64">CG64 Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg64">CG64 Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

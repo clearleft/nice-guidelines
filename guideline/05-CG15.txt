@@ -97,4 +97,4 @@
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg15">CG15 Diagnosis and management of type 1 diabetes in children, young people and adults</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg15">CG15 Diagnosis and management of type 1 diabetes in children, young people and adults</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -50,4 +50,4 @@
 * Planning end of life care: Discuss at commencement or decline of NIV; becoming more dependent on NIV, or when they ask
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg105">CG105 Motor neurone disease: non-invasive ventilation</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg105">CG105 Motor neurone disease: non-invasive ventilation</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -69,4 +69,4 @@
 * Medication over-use: withdrawal, for at least 1 month and abruptly not gradually, and that will get worse before gets better, but review 4-8 wks after withdrawal
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg150">CG150 Headaches in over 12s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg150">CG150 Headaches in over 12s: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -35,4 +35,4 @@ n/a
 
 * with reversible severe heart failure, or candidate for transplantation
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG187 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG187 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -1,0 +1,40 @@
+# Idiopathic Pulmonary Fibrosis (Idiopathic or Crytogenic Fibrosing Alveolitis)
+
+## Diagnosis
+
+* Hx suggestive:
+	* Environmental, occupational and drugs exposure (methotrexate, amiodarone, ergot)
+	* >45
+	* Persistent SOB
+	* Bilateral inspiratory crackles
+	* Clubbing of fingers
+	* Normal or impaired spirometry, usually restrictive but can be obstructive
+	* Only diagnose with MDT input and investigation below
+
+## Investigation
+
+* Bloods tests to exclude: connective tissue disease
+* X-ray and CT
+* Lung function tests (Spirometry and TLCO)
+* If still unable to diagnose: Bronchioalveloar lavage / transbronchial or surgical biopsy
+
+## Management
+
+### Conservative
+* Smoking cessation
+* Assess for pulmonary rehabilitation: 6 min walk test with pulse oximetry + QoL assessment
+* “Best Supportive Care” including:
+	* LTOT / Ambulatory oxygen
+	* Pulmonary rehabilitation
+  
+### Pharmacological
+* Symptomatic relief: benzodiazepines /opioids
+* No evidence for disease modify pharmacological intervention
+  
+### Surgical:
+
+* Lung transplantation if no contra-indication
+* Palliative care
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg163">CG163 Idiopathic pulmonary fibrosis in adults: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

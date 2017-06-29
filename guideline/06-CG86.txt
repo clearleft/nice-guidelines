@@ -8,4 +8,4 @@
 * n/a
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg86">CG86 Coeliac disease: recognition and assessment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg86">CG86 Coeliac disease: recognition and assessment</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

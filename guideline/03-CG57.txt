@@ -71,4 +71,4 @@
 	* Not known whether altering mother diet affects breast milk
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg57">Atopic eczema in under 12s: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg57">Atopic eczema in under 12s: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -1,0 +1,50 @@
+# Osteoarthritis
+
+## Diagnosis
+
+* Diagnose osteoarthritis clinically without investigations if a person:
+	* Is 45 or over and
+	* Has activity-related joint pain and
+	* Has either no morning joint-related stiffness or morning stiffness that lasts < 30 minutes
+* Trauma, hot swollen joint, prolonged morning joint stiffness indicate other diagnosis
+* Assess the effect of OA on the person's function, QoL, occupation, mood, relationships and leisure
+* Agree a plan with the person (family, carers as appropriate) for managing their osteoarthritis
+
+## Investigation
+* n/a
+  
+## Management
+
+### Conservative:
+* Education: accurate information to enhance understanding of the condition and its management, and to counter misconceptions, such as that it inevitably progresses and cannot be treated
+* Self-care: agree individualised self-management strategies
+* Core Therapy:
+* Exercise, irrespective of age, comorbidity, pain severity or disability and should include:
+	* Local muscle strengthening and
+	* General aerobic fitness
+* Weight loss: offer interventions to achieve loss (weight multiplies load)
+* Adjuncts:
+* Thermotherapy: use of local heat or cold should be considered as an adjunct to core treatments
+* Electrotherapy: consider the use of transcutaneous electrical nerve stimulation (TENS) as adjunct
+* Aids and devices: offer advice on appropriate footwear and bracing for joint instability
+* Do Not offer:
+	* Nutraceuticals: Do not offer glucosamine or chondroitin for management of OA
+	* Acupuncture: Do not offer acupuncture for the management of OA
+  
+### Pharmacological Therapy:
+* NICE not completed review
+* Paracetamol regularly for pain relief in addition to core treatments
+* NSAID (topical) for pain relief in addition to core treatments with knee or hand osteoarthritis
+* NSAID/COX-2 inhibitor if non selective NSAID/Paracet ineffective, lowest dose shortest duration
+* NSAID/COX-2 inhibitor: varying gastrointestinal, liver and cardio-renal toxicity
+* Intra-articular corticosteroid injections as adjunct to core treatments for moderate to severe pain
+  
+### Surgical Joint:
+* Should be offered core therapies, and discuss risk benefit of surgery
+* Referral threshold base on joint discussion between patient, referrer and surgeon
+* Refer for joint symptoms (pain, stiffness and reduced function) that have a substantial impact on QoL and refractory to non-surgical treatment, age, sex obesioty are not barriers
+* Do not refer for arthroscopic lavage and debridement as treatment unless knee OA with clear history of mechanical locking
+* Follow up and review
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg177">CG177 Osteoarthritis: care and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

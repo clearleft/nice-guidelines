@@ -23,4 +23,4 @@
 * If a combination of phosphate binders is used, titrate the dosage to achieve control of serum phosphate while taking into account the effect of any calcium based binders used on serum calcium levels
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG187 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg187">CG187 Acute heart failure: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

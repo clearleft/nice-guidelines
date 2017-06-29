@@ -54,4 +54,4 @@
 * Consider Spironolactone (if K+ < 4.5) or increase Thiazide dose, monitoring electrolytes and creatinine
 * Consider an Alpha Blocker or Beta Blocker
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg127">CG127 Hypertension in adults: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg127">CG127 Hypertension in adults: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

@@ -44,4 +44,4 @@
 	* Sodium valproate: mood stabilizer, evidence
 	* Lithium: mood stabilizer
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg178">CG178 Psychosis and schizophrenia in adults: prevention and management</a></cite> and <cite><a href="https://www.nice.org.uk/guidance/cg185">CG185 Bipolar disorder: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg178">CG178 Psychosis and schizophrenia in adults: prevention and management</a></cite> and <cite><a href="https://www.nice.org.uk/guidance/cg185">CG185 Bipolar disorder: assessment and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

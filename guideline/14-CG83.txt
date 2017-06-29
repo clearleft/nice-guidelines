@@ -1,0 +1,31 @@
+# Rehabilitation after Critical Illness
+
+## Diagnosis
+
+* Perform a short clinical assessment to determine the patient's risk of developing:
+  
+### Physical morbidity:
+* Unable to get out of bed independently.
+* Anticipated long duration of critical care stay.
+* Obvious significant physical or neurological injury.
+* Lack of cognitive functioning to continue exercise independently.
+* Unable to self ventilate on 35% of oxygen or less.
+* Presence of premorbid respiratory or mobility problems.
+* Unable to mobilise independently over short distances.
+  
+### Non-Physical morbidity:
+* Recurrent nightmares, particularly where patients report trying to stay awake to avoid nightmares.
+* Intrusive memories of traumatic events which have occurred prior to admission (for example, road traffic accidents) or during their critical care stay (for example, delusion experiences or flashbacks).
+* New and recurrent anxiety or panic attacks.
+* Expressing the wish not to talk about their illness or changing the subject quickly off the topic.
+  
+## Investigation
+
+* n/a
+  
+## Management
+
+* n/a
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg83">CG83 Rehabilitation after critical illness in adults</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

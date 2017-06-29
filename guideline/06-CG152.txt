@@ -18,4 +18,4 @@
 ### Strictures* Balloon dilatation if single short stricture* Discuss benefits and risk of balloon dilatation and surgical resection with patient, surgeon, gastroenterologist
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg152">CG152 Crohn's disease: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg152">CG152 Crohn's disease: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

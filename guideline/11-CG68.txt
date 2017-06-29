@@ -55,4 +55,4 @@ TIA suspected, conduct assessment ASAP:
 
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg68">CG68 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg68">CG68 Stroke and transient ischaemic attack in over 16s: diagnosis and initial management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

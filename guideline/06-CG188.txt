@@ -11,4 +11,4 @@
 ### Common bile duct stones* Bile duct clearance by ERCP then Lap Cholecystectomy* OR Lap Chole + surgical clearance same time* If ERCP cannot clear, then use biliary stenting
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg188">CG188 Gallstone disease: diagnosis and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg188">CG188 Gallstone disease: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

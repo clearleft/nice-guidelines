@@ -74,4 +74,4 @@ If monotherapy does not control symptoms and poor ventricular rate control then 
 * If pharmacological then consider Flecanide (if no IHD) or Amiodarone
 * Anti-coagulate with heparin until full assessment made OR Warfarin if unlikely to regain sinus rhythm
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg180">CG180 Atrial fibrillation: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg180">CG180 Atrial fibrillation: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

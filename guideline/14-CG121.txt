@@ -1,0 +1,54 @@
+# Lung Cancer
+
+## Diagnosis
+
+* RED FLAGS: haemoptysis OR
+	* SOB
+	* Cough
+	* Chest / shoulder pain
+	* Wt loss
+	* Chest signs
+	* Finger clubbing
+	* Hoarseness (recurrent laryngeal)
+	* Cervical / Supraclavicular lymphadenopathy
+	* Features of metastasis (Bone, brain, liver etc)
+	* Stridor, vena cava obstruction (elevated JVP)
+  
+## Investigation
+
+* Urgent X ray per above criteria (+ suspicion: pleural effusion or slowly resolving consolidation)
+* Contrast enhanced CT to include liver and adrenals to stage disease BEFORE bronchoscopy / biopsy
+* PET-CT for curative patients (ie low probability of mediastinal malignancy)
+* If peripheral tumour: trans-thoracic USS / CT guided biopsy
+* If central primary tumour: fibreoptic bronchoscopy (where nodal staging not influencing treatment)
+* Neck USS if high probability of mediastinal malignancy
+* Stage M1b if curative treatment, confirm presence of distant metastasis biopsy or image (MRI/PET)
+* Bone metastasis: X ray, if inconclusive then bone scan or MRI
+* Spirometry in all patients with curative intent, TLCO if breathlessness is disproportionate
+
+## Management
+
+* Urgent referral to lung Ca MDT
+* Rapid access clinics for necessary investigation
+* Cancer nurse specialists
+* Smoking cessation, though do not postpone surgery awaiting cessation
+  
+### Non-small cell lung Ca
+* Offer lobectomy, if FEV1 within normal limits & good exercise tolerance
+* In small tumours of borderline fitness: i.e. T1aM0N0 consider lung parenchymal sparing operations
+* Perform hilar and mediastinal lymph node sampling if undergoing surgery for curative intent
+* Radical radiotherapy for NSCLC I, II, III with good performance (WHO 0,1), with or without surgery suitability
+* CHART regimen if I, II but medically inoperable or do not want chemotherapy
+* Chemo-radiotherapy for patients with stage II or III NSCLC who are not suitable for surgery
+* Offer post-operative chemotherapy to patients with good performance status (WHO 0 or 1) and T1–3 N1–2 M0 NSCLC
+* Cisplatin-based combination chemotherapy regimen for adjuvant chemotherapy
+* Chemotherapy should be offered to patients with stage III or IV NSCLC and good performance status (WHO 0, 1) to improve survival, disease control and QoL
+  
+### Small Cell Ca
+* Consider surgery in patients with early-stage SCLC (T1–2a, N0, M0)
+* Offer platinum-based combination chemotherapy to patients with extensive-stage disease SCLC
+* Palliative care including symptom limited radiotherapy
+* Bone metastasis hypercalcaemia: single fraction radiotherapy
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg121">CG121 Lung cancer: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

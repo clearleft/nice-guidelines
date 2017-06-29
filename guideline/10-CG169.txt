@@ -51,12 +51,12 @@
 * Specialist: diagnosis of vasculitis, glomerulonephritis, myeloma; AKI w/o known cause; inadequate response; stage 3 AKI, CKD stage 4-5, eGRF < 30 following AKI
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg169">CG169 Acute kidney injury: prevention, detection and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg169">CG169 Acute kidney injury: prevention, detection and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>
 
 
 
 
-NICE Guidance on a page By Dr DP Sheppard MBBS
+NICE Guidance on a page By Dr D P Sheppard MBBS
 
 
 

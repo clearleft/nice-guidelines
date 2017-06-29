@@ -1,0 +1,87 @@
+# COPD
+
+## Diagnosis
+
+* RED FLAG: haemoptysis
+* Excertional breathlessness (progressive whereas asthma variable)
+* No diurnal variation or night time symptoms (unlike asthma)
+* >35 (if under likely asthma)
+* Smoker (possibly asthma but likely COPD)
+* Regular sputum
+* Chronic cough (asthma rarely)
+* Wheeze
+* Winter bronchitis
+* Cor pulonale: peripheral oedema, raised venous pressure (JVP), loud 2<sup>nd</sup> heart sound
+  
+## Investigation
+
+* Spirometry: FEV1 & FEV1/FVC–note does not correlate to disability (heterogeneous disease)
+	* FEV1/FVC <0.7
+	* FEV1 vs % predicted
+	* 50-80 Mild
+	* 30–50 Moderate
+	* <30 % Severe
+* Reversibility: post bronchodilator spirometry to exclude asthma, or domiciliary PEFR if doubt remains. Don’t over-rely on single measure, nor test routinely, unless change in FEV1 >400 mls
+* Consider alternate diagnoses if asymptomatic elderly and FEV1/FVC <0.7, or symptomatic young and >0.7
+* Chest X ray to exclude other pathology
+* FBC exclude anaemia or polycythaemia
+* BMI
+* Alpha 1 anti-trypsin if early onset
+* TLCO and CT if symptoms disproportionate to spirometry impairment
+* ECG and Echo cardiography to elicit symptoms of cor pulmonale
+* Pulse Oximetry
+* Sputum Culture
+ 
+## Management
+
+* MDT approach: Assessment, rapid access units, respiratory nurse specialist, physiotherapy with positive expiratory mask for sputum clearance and breathing techniques, anxiety and depression, GP assessment at least annually
+  
+### Conservative
+*  Smoking cessation, offer NRT Bupropion or Varenicline
+* Vaccination: Pneumoncoccal and annual influenza
+* Advice regarding air travel if FEV1 vs predicted <50%
+  
+### Pharmacological
+* STEP 1: SABA or SAMA, oral steroid should NOT be used for reversibility testing
+* STEP 2: Stable COPD who remain breathless
+* If FEV1 ≥ 50% predicted: either long-acting beta2 agonist (LABA) or LAMA, if still breathless + ICS
+* If FEV1 <50% predicted: either LABA with an inhaled corticosteroid (ICS) in a combination inhaler, or LAMA
+* If decline ICS then LABA + LAMA
+* Inhaler best method, train patient and regularly assess ability to use
+* Spacer single actuation, followed by breath or tidal breathing
+* Nebuliser in distress or disabling breathlessness
+* Oral corticosteroids: not recommended for long term maintenance, but for acute exacerbation in hospital
+* Theophylline: only used following trial of SABA, LABA and unable to use inhaler OR in combination if symptomatic on monotherapy
+* Mucolytics: chronic productive sputum cough
+  
+### Oxygen:
+* Assess need for Long term oxygen therapy (LTOT) if:
+* Severe obstruction FEV1 <30% predicted
+* Cor pulmonale
+* Polycythaemia
+* Peripheral oedema
+* Cyanosis
+* Raised JVP
+* Sats <=92% on room air
+* LTOT is indicted if PaO2 <7.3 kpa (2 x ABG 3 wks apart) when stable, or <8 kpa if nocturnal hypoxaemia, sats <90% for 30% time, and has one of:
+* Secondary polycythaemia
+* Nocturnal hypoxaemia (sats <90% for 30% time)
+* Peripheral oedema
+* Pulmonary hypertension
+* LTOT: to get benefit needed >15 hrs a day, ambulatory oxygen offered if exercise desaturation
+  
+### Cor pulmonale: LTOT and diuretics but NOT ACE, alpha blockers, digoxin nor CCB
+
+### Non invasive ventilation
+* Type 2 respiratory failure PaCO2 >7.3 kpa
+  
+### Surgery
+* Bullectomy if apparent on CT and FEV1 <50%
+* Lung volume reduction if PaCO2 <7.3 kpa and upper lobe predominant disease
+  
+### Exacerbation
+* GP: pulse oximetry, not routine sputum culture
+* Hospital: chest X-ray, ABG, FBC, U+E, culture sputum if purulent, blood cultures if pyrexial
+
+
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg101">CG101 Chronic obstructive pulmonary disease in over 16s: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

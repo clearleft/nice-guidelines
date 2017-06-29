@@ -39,4 +39,4 @@ Using presentation features and a validated risk scoring tool:
 * High risk: review the patient's clinical status daily, reassess the patient's risk of septic complications
 * Continue inpatient empiric antibiotic therapy in all patients who have unresponsive fever unless an alternative cause of fever is likely
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg151">CG151 Neutropenic sepsis: prevention and management in people with cancer</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg151">CG151 Neutropenic sepsis: prevention and management in people with cancer</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

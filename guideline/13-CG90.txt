@@ -32,4 +32,4 @@
 ### Intervention
 * Electro shock therapy only if life limiting
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg90">CG90 Depression in adults: recognition and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg90">CG90 Depression in adults: recognition and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

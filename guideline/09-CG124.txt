@@ -28,4 +28,4 @@
 * Subtrochanteric fracture including femoral shaft fracture: Use an intramedullary nail
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg124">CG124 Hip fracture: management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg124">CG124 Hip fracture: management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

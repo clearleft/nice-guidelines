@@ -54,4 +54,4 @@
 * Offer swallowing therapy 3 x week, for as long as they make functional gains
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg162">CG162 Stroke rehabilitation in adults</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg162">CG162 Stroke rehabilitation in adults</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

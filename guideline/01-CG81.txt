@@ -41,4 +41,4 @@
 * Brain metastasis: Offer surgery followed by whole brain radiotherapy to patients who have a
 * single or small number of potentially resectable brain metastases, active rehabilitation and palliation
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg81">CG81 Advanced breast cancer: diagnosis and treatment</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg81">CG81 Advanced breast cancer: diagnosis and treatment</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

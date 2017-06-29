@@ -50,4 +50,4 @@
 * Vitamin D deficiency + CKD: Colecalciferol or Ergocalciferol, but not vitamin D supplements
 * Anaemia: check Hb is GFR < 45
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg182">CG182 Chronic kidney disease in adults: assessment and management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg182">CG182 Chronic kidney disease in adults: assessment and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

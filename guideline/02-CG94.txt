@@ -28,4 +28,4 @@
 * If revascularisation unclear then involve surgeon and interventionalist
 * Consider ischaemia testing before discharge
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg94">CG94 Unstable angina and NSTEMI: early management</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg94">CG94 Unstable angina and NSTEMI: early management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

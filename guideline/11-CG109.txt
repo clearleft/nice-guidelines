@@ -53,4 +53,4 @@
 * Advise people who have experienced TLoC of the implications of their episode for health and safety at work and any action they must take to ensure the safety of themselves and that of other people
 
 
-<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg109">CG109 Transient loss of consciousness ('blackouts') in over 16s</a></cite>. Summary compiled by <cite>Dr DP Sheppard MBBS</cite>.</p>
+<p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg109">CG109 Transient loss of consciousness ('blackouts') in over 16s</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>
