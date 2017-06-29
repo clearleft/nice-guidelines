@@ -38,7 +38,6 @@
 * Fatigue: Assess, offer clear written information and access to exercise program
 * Uncontrolled disease: MDT, wound care, palliative care
 * Bone metastasis: Bisphosphonates to reduce events and pain, decision locally; External beam radiotherapy in a single fraction of 8Gy to treat patients with bone metastases and pain
-* Brain metastasis: Offer surgery followed by whole brain radiotherapy to patients who have a
-* single or small number of potentially resectable brain metastases, active rehabilitation and palliation
+* Brain metastasis: Offer surgery followed by whole brain radiotherapy to patients who have a single or small number of potentially resectable brain metastases, active rehabilitation and palliation
 
 <p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg81">CG81 Advanced breast cancer: diagnosis and treatment</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

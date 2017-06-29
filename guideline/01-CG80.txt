@@ -20,7 +20,7 @@ n/a
 * Breast Reconstruction: discuss immediate breast reconstruction with all patients who are being
 * advised to have a mastectomy
 
-### Post- Operative Assessment
+### Post-Operative Assessment
 
 * Assess oestrogen receptor (ER) status of all invasive breast cancers
 * Test human epidermal growth receptor 2 (HER2) status of all invasive breast cancers
