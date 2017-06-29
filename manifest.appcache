@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 2.01
+# rev 2.03
 CACHE:
 index.php
 /css/all.css
@@ -94,5 +94,6 @@ index.php
 /guideline/16-CG148
 /guideline/16-CG171
 /guideline/16-CG175
+about.php
 NETWORK:
 *
