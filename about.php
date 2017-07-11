@@ -31,7 +31,7 @@ include($dr . "header.php");
 
 <p>All summaries provided here are based on NICE guidelines and provided in good faith but without any conditions, warranties, or guarantees. Neither NICE guidance nor these summaries overrides the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer.</p>
 
-<p>This entire website is open source. Please feel free to branch or leave a comment on the <a href="https://github.com/clearleft/nice-guidelines">repository on Github</a> or contact Dr Sheppard (davidsheppard2@nhs.net) if you wish to participate in completing this exercise and keeping the summaries up to date in line with revisions to NICE guidance.</p>
+<p>This entire website is open source. Please feel free to make improvements by branching or submitting an issue on the <a href="https://github.com/clearleft/nice-guidelines">Github repository</a>, or contact Dr Sheppard (davidsheppard2@nhs.net) if you wish to help in keeping the summaries up-to-date and inline with revisions to NICE guidance.</p>
 </article>
 
 </main>
