@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 2.03
+# rev 2.04
 CACHE:
 index.php
 /css/all.css
@@ -12,7 +12,7 @@ index.php
 /fonts/lato-semibold.woff2
 /fonts/lato-light.woff2
 /css/addtohomescreen.css
-/js/addtohomescreen.js
+/js/addtohomescreen.min.js
 /guideline/01-CG80
 /guideline/01-CG81
 /guideline/02-CG64

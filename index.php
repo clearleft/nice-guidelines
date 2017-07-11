@@ -318,7 +318,7 @@ w.Promise
 	});
 }( this ));
 </script>
-<script src="/js/addtohomescreen.js" async></script>
+<script src="/js/addtohomescreen.min.js" async></script>
 
 </body>
 </html>

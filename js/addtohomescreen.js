@@ -1,4 +1,4 @@
-/* Add to Homescreen v3.2.2 ~ (c) 2015 Matteo Spinelli ~ @license: http://cubiq.org/license */
+/* Add to Homescreen v3.2.3 ~ (c) 2015 Matteo Spinelli ~ @license: http://cubiq.org/license */
 (function (window, document) {
 /*
        _   _ _____     _____
@@ -39,12 +39,13 @@ function ath (options) {
 // message in all supported languages
 ath.intl = {
 	en_us: {
-		ios: 'To install this as an app: tap %icon and then <strong>Add to Home Screen</strong>.',
-		android: 'To install this as an app open the browser option menu and tap on <strong>Add to homescreen</strong>. <small>The menu can be accessed by pressing the menu hardware button if your device has one, or by tapping the top right menu icon %icon.</small>'
-	},	
+		ios: 'To add this web app to your home screen: tap %icon and then <strong>Add to Home Screen</strong>.',
+		android: 'To add this web app to your home screen, open the browser option menu and tap on <strong>Add to homescreen</strong>. <small>The menu can be accessed by pressing the menu hardware button if your device has one, or by tapping the top right menu icon %icon.</small>'
+	},
+
 	en_gb: {
-		ios: 'To install this as an app: tap %icon and then <strong>Add to Home Screen</strong>.',
-		android: 'To install this as an app open the browser option menu and tap on <strong>Add to homescreen</strong>. <small>The menu can be accessed by pressing the menu hardware button if your device has one, or by tapping the top right menu icon %icon.</small>'
+		ios: 'To add this web app to your home screen: tap %icon and then <strong>Add to Home Screen</strong>.',
+		android: 'To add this web app to your home screen, open the browser option menu and tap on <strong>Add to homescreen</strong>. <small>The menu can be accessed by pressing the menu hardware button if your device has one, or by tapping the top right menu icon %icon.</small>'
 	}
 };
 
@@ -140,7 +141,7 @@ ath.Class = function (options) {
 	this.options = _extend({}, ath.defaults);
 	_extend(this.options, options);
 	// override defaults that are dependent on each other
-	if ( options && options.debug && (typeof options.logging === "undefined") ) {
+	if ( this.options && this.options.debug && (typeof this.options.logging === "undefined") ) {
 		this.options.logging = true;
 	}
 
@@ -165,7 +166,7 @@ ath.Class = function (options) {
 	}
 
 	// the element the message will be appended to
-	this.container = document.documentElement;
+	this.container = document.body;
 
 	// load session
 	this.session = this.getItem(this.options.appID);
@@ -400,7 +401,7 @@ ath.Class.prototype = {
 		// add the action icon
 		message = '<p>' + message.replace(/%icon(?:\[([^\]]+)\])?/gi, function(matches, group1) {
 			return '<span class="ath-action-icon">' + (!!group1 ? group1 : 'icon') + '</span>';
-		}); + '</p>';
+		}) + '</p>';
 
 		// create the message container
 		this.viewport = document.createElement('div');
@@ -415,7 +416,7 @@ ath.Class.prototype = {
 
 		// create the actual message element
 		this.element = document.createElement('div');
-		this.element.className = 'ath-container ath-' + ath.OS + ' ath-' + ath.OS + (ath.OSVersion + '').substr(0,1) + ' ath-' + (ath.isTablet ? 'tablet' : 'phone');
+		this.element.className = 'ath-container ath-' + ath.OS + ' ath-' + ath.OS + (parseInt(ath.OSVersion) || '') + ' ath-' + (ath.isTablet ? 'tablet' : 'phone');
 		this.element.style.cssText = '-webkit-transition-property:-webkit-transform,opacity;-webkit-transition-duration:0s;-webkit-transition-timing-function:ease-out;transition-property:transform,opacity;transition-duration:0s;transition-timing-function:ease-out;';
 		this.element.style.webkitTransform = 'translate3d(0,-' + window.innerHeight + 'px,0)';
 		this.element.style.transform = 'translate3d(0,-' + window.innerHeight + 'px,0)';
@@ -637,6 +638,3 @@ function _removeToken () {
 window.addToHomescreen = ath;
 
 })(window, document);
-
-
-addToHomescreen();
