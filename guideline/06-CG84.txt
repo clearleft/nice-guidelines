@@ -120,7 +120,7 @@
 	* Septicaemia
 	* Immunocompromised
 	* Blood / Mucus in stool
-* Blood culture if giving anti-biotics
+* Blood culture if giving antibiotics
 * U+E + glucose if suspect hypernatraemia
 
 ## Management
@@ -138,7 +138,7 @@
 * If hypernatraemic give 0.9% sodium chloride slowly, typically 48 hrs, switching to ORS when tolerated
 * After rehydration encourage breast feeding / fluid intake, or ORS 5 ml/kg if watery stool
 * During rehydration, do not give solid food. Reintroduce once hydrated
-* Only give anti-biotics if septicaemia, < 6mths (or immunocompromised) with Salmonella gastroenteritis
+* Only give antibiotics if septicaemia, < 6mths (or immunocompromised) with Salmonella gastroenteritis
 
 
 

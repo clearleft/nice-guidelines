@@ -10,7 +10,7 @@
 ## Investigation
 
 ### Primary care
-* CRP: if <20 do not offer Anti-biotics; if >20 delayed script; >100 offer anti-biotics
+* CRP: if <20 do not offer Antibiotics; if >20 delayed script; >100 offer antibiotics
 * CRB65 (i.e no Urea): Confusion AMTS <8; RR >30; Systolic <90 Diastolic <60
 	* 0 = Home care
 	* 2 = Hospital care
@@ -25,7 +25,7 @@
 
 ## Management
 
-* Anti-biotics as soon as possible after diagnosis
+* Antibiotics as soon as possible after diagnosis
 * (Xray) usually within 4 hrs
 * CAP Low severity
 	* Amoxicllin favoured, Macrolide or tetracycline if penicillin allergic
@@ -42,7 +42,7 @@
 	* Oxygen saturation under 90% on room air
 	* Abnormal mental status
 	* Inability to eat without assistance
-* HAP anti-biotic in line with local policy, 5-10 day course
+* HAP antibiotic in line with local policy, 5-10 day course
 
 
 <p class="byline">NICE Source: <cite><a href="https://www.nice.org.uk/guidance/cg191">CG191 Pneumonia in adults: diagnosis and management</a></cite>. Summary compiled by <cite class="doctor">Dr D P Sheppard MBBS</cite>.</p>

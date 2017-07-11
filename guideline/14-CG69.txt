@@ -1,4 +1,4 @@
-# Respiratory Tract Infection – Anti-biotic Guidance
+# Respiratory Tract Infection – Antibiotic Guidance
 
 ## Diagnosis
 
@@ -16,12 +16,12 @@
   
 ## Management
 
-* No anti-biotics (or delayed) should be offered for the above conditions.
+* No antibiotics (or delayed) should be offered for the above conditions.
 * Reassurance that antibiotics are not needed immediately because they are likely to make little difference to symptoms and may have side effects, for example, diarrhoea, vomiting and rash.
 * Offer a clinical review if the condition worsens or becomes prolonged.
 * Give advice about managing symptoms, including fever (particularly analgesics and antipyretics.
   
-### Anti-biotics can be considered for the following:
+### Antibiotics can be considered for the following:
 * Bilateral acute otitis media in children younger than 2 years.
 * Acute otitis media in children with otorrhoea.
 * Acute sore throat/acute pharyngitis/acute tonsillitis when three or more Centor criteria are present.

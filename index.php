@@ -242,7 +242,7 @@ include($dr . "header.php");
 	<li><a href="/guideline/14-CG121">Lung Cancer <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/14-CG191">Pneumonia <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/14-CG83">Rehabilitation after Critical Illness <img src="/i/chevron-right.svg" alt="" /></a></li>
-	<li><a href="/guideline/14-CG69">Respiratory Tract Infection – Anti-biotic Guidance <img src="/i/chevron-right.svg" alt="" /></a></li>
+	<li><a href="/guideline/14-CG69">Respiratory Tract Infection – Antibiotic Guidance <img src="/i/chevron-right.svg" alt="" /></a></li>
 	<li><a href="/guideline/14-CG117">Tuberculosis <img src="/i/chevron-right.svg" alt="" /></a></li>
 	</ul>
 	</div>
