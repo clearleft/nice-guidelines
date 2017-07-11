@@ -3,10 +3,15 @@ $dr = str_replace($_SERVER['SCRIPT_NAME'], '/inc/', $_SERVER['SCRIPT_FILENAME'])
 require_once($dr.'setup.php');
 $categorys = require_once($dr . "data.php");
 $home=true;
+if(isset($_COOKIE["wf"])) {
+	$wfstatus = " class=\"wf-active awesome\"";
+} else {
+	$wfstatus = "";
+}
 ?>
 
 <!DOCTYPE html>
-<html lang="en-gb" manifest="/manifest.appcache">
+<html lang="en-gb" manifest="/manifest.appcache"<?php echo $wfstatus ?>>
 <head>
 
 <?php
@@ -315,6 +320,7 @@ w.Promise
 	.all([fontA.check(), fontB.check()])
 	.then(function(){
 		w.document.documentElement.className += " wf-active";
+		document.cookie = "wf=active; path=/";
 	});
 }( this ));
 </script>
