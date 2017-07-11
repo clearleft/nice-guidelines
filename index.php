@@ -4,7 +4,7 @@ require_once($dr.'setup.php');
 $categorys = require_once($dr . "data.php");
 $home=true;
 if(isset($_COOKIE["wf"])) {
-	$wfstatus = " class=\"wf-active awesome\"";
+	$wfstatus = " class=\"wf-active\"";
 } else {
 	$wfstatus = "";
 }
