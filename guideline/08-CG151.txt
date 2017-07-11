@@ -7,7 +7,7 @@
 	* How and when to contact 24-hour specialist oncology advice
 	* How and when to seek emergency care
 * Neutropenia: neutrophil count 0.5×109 per litre or lower
-* Neutropenic sepsis: temp > 38 or other signs symptoms consistent with clinically significant sepsis
+* Neutropenic sepsis: temp>38 or other signs symptoms consistent with clinically significant sepsis
 * Suspect neutropenic sepsis in patients having anticancer treatment who become unwell, and refer to secondary or tertiary care
 
 ## Investigation
