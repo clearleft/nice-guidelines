@@ -6,4 +6,4 @@ To help with his own practise, Dr David P Sheppard carefully summarised the NICE
 
 All summaries provided here are based on NICE guidelines and provided in good faith but without any conditions, warranties, or guarantees. Neither NICE guidance nor these summaries overrides the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer.
 
-This entire website is open source. Please feel free to branch this repo or submit an issue if you wish to help in keeping the summaries up to date in line with revisions to NICE guidance. The guideline summaries are formated as [Markdown](https://daringfireball.net/projects/markdown/) in the guidelines folder.
+This entire website is open source. Please feel free to branch this repo or submit an issue if you wish to help in keeping the summaries up to date in line with revisions to NICE guidance. The guideline summaries are formatted as [Markdown](https://daringfireball.net/projects/markdown/) in the guidelines folder.

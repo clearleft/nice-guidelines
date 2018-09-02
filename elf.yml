@@ -1,2 +1,6 @@
 devbox: 
   domain: nice.elf
+  
+  
+deploy:
+  http2: true

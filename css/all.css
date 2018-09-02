@@ -36,16 +36,12 @@
 body {
 	background: #fff;
 	color: #000;
-	font-family: 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
+	font-family: 'Lato', 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
 	line-height: 1.375;
 	margin: 0;
 	padding: 0;
 	font-weight: 500;
 	position: relative;
-}
-
-.wf-active body {
-	font-family: 'Lato', 'Avenir Next', "Segoe UI", Helvetica, 'Droid Sans', Arial, sans-serif;
 }
 
 /* @group Header */
@@ -136,7 +132,7 @@ main a:hover, main a:focus, main a:active, #cat-about a:hover, #cat-about a:focu
 }
 
 main h1 {
-	font-family: 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
+	font-family: 'Lato', 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
 	font-size: 28px;
 	font-size: 1.75rem;
 	/*letter-spacing: -0.035714286em;*/
@@ -147,10 +143,6 @@ main h1 {
 	padding-bottom: 1em;
 	margin: 0;
 	font-weight: 300;
-}
-
-.wf-active main h1 {
-	font-family: 'Lato', 'Avenir', 'Segoe UI', Helvetica, 'Droid Sans', Arial, sans-serif;
 }
 
 main h2 {

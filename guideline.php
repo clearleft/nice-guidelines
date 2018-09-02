@@ -41,7 +41,7 @@ if($guideline && $cat_id) {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en-gb" manifest="/manifest.appcache" class="wf-active">
+<html lang="en-gb">
 <head>
 <?php
 include($dr . "head.php");

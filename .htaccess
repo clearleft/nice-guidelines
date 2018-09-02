@@ -1,9 +1,15 @@
 Options -MultiViews 
 RewriteEngine On 
 
-RewriteCond %{HTTPS} off
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
-
 RewriteCond %{REQUEST_FILENAME} !-d 
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<IfModule mod_expires.c>
+ <FilesMatch "serviceworker.js">
+   ExpiresDefault "access plus 0 seconds"
+ </FilesMatch>
+</IfModule>
