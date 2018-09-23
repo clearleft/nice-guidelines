@@ -13,7 +13,6 @@ $home=true;
 include($dr . "head.php");
 ?>
 
-<link rel="stylesheet" href="/css/addtohomescreen.css" type="text/css">
 </head>
 <body class="home" id="top">
 
@@ -262,7 +261,6 @@ include($dr . "header.php");
 <?php
 include($dr . "footer.php");
 ?>
-<script src="/js/addtohomescreen.min.js" async></script>
 
 </body>
 </html>
