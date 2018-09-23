@@ -8,17 +8,18 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 RewriteCond %{HTTP:X-Forwarded-Proto} =http
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+<IfModule mod_expires.c>
+
 # One year for image files
-<filesMatch ".(jpg|jpeg|png|gif|ico|svg)$">
+<FilesMatch ".(jpg|jpeg|png|gif|ico|svg)$">
 Header set Cache-Control "max-age=31536000, public"
-</filesMatch>
+</FilesMatch>
 
 # One month for css and js
-<filesMatch ".(css|js)$">
+<FilesMatch ".(css|js)$">
 Header set Cache-Control "max-age=2628000, public"
-</filesMatch>
+</FilesMatch>
 
-<IfModule mod_expires.c>
  <FilesMatch "serviceworker.js">
    ExpiresDefault "access plus 60 seconds"
  </FilesMatch>
