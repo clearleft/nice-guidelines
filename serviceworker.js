@@ -125,38 +125,7 @@ addEventListener('activate', activateEvent => {
 addEventListener( 'fetch', fetchEvent => {
   const request = fetchEvent.request;
 
-  // For pages, try the network first, then the cache
-  if ( request.mode === 'navigate' ) {
-    fetchEvent.respondWith(
-      fetch( request )
-      .then( responseFromFetch => {
-        // Cache a copy of any pages you fetch
-        if ( responseFromFetch.status < 400 ) {
-          let copy = responseFromFetch.clone();
-          fetchEvent.waitUntil(
-            caches.open( assetCacheName )
-            .then( assetCache => {
-              return assetCache.put( request, copy );
-            })
-          );
-        }
-        return responseFromFetch;
-      })
-      .catch( error => {
-        return caches.match( request )
-        .then( responseFromCache => {
-          if ( responseFromCache ) {
-            return responseFromCache;
-          }
-          // As a last resort, show an offline page
-          return caches.match('/offline.html');
-        })
-      })
-    );
-    return;
-  }
-
-  // For everything else, try the cache first, then the network
+  // Try the cache first, then the network
   fetchEvent.respondWith(
     caches.match( request )
     .then( responseFromCache => {
@@ -185,8 +154,13 @@ addEventListener( 'fetch', fetchEvent => {
         );
         return responseFromFetch;
       })
-
-	})
+      .catch( error => {
+        // As a last resort, show an offline page
+	if ( request.mode === 'navigate' ) {
+	  return caches.match('/offline.html');
+	}
+      })
+    })
   );
 
 });
